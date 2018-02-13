@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../theses.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>L’abolition des capitulations et la suppression des tribunaux mixtes en Egypte (1937)</title>
+        <author>Philippe CHEVRANT-BRETON</author>
       </titleStmt>
-      
       <publicationStmt>
         <p/>
       </publicationStmt>
@@ -14,15 +13,28 @@
         <p/>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <refsDecl n="CTS">
+        <cRefPattern n="chapter" matchPattern="(\w+).(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+          <p>This pointer pattern extracts Book and Chapter and Section</p>
+        </cRefPattern>
+        <cRefPattern n="section" matchPattern="(\w+).(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+          <p>This pointer pattern extracts Book and Chapter</p>
+        </cRefPattern>
+        <cRefPattern n="book" matchPattern="(\w+)"
+          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+          <p>This pointer pattern extracts Book</p>
+        </cRefPattern>
+      </refsDecl>
+    </encodingDesc>
   </teiHeader>
   <text>
-    <front>
-      <head>L’abolition des capitulations et la suppression des tribunaux mixtes en Egypte (1937)</head>
-      <byline>
-        <forename>Philippe</forename>
-        <surname>CHEVRANT-BRETON</surname>
-      </byline>
-      <div>
+   <body> 
+     <div xml:lang="fre" type="edition" n="urn:cts:encth:idtg.idwg.?">
+       <div type="textpart" n="1" subtype="book">
+        <div type="textpart" n="1" subtype="chapter">
         <head>Introduction</head>
         <p>Les capitulations, ensemble de dispositions juridiques réglant le séjour des Européens dans les échelles du Levant et de Barbarie, ont été
           mises en forme à l’époque moderne. En Egypte, elles ont paradoxalement survécu à l’Empire ottoman pendant quelques années, et elles n’ont
@@ -57,9 +69,10 @@
           donc également été utilisés : en particulier, aux archives de la Société des Nations, à Genève, les papiers de la conférence des
           Capitulations ainsi que le fonds du Secrétariat, section politique.</p>
       </div>
-    </front>
-    <body>
-      <div>
+   
+      <div type="textpart" n="1" subtype="book">
+        <div type="textpart" n="1" subtype="section">
+          <div type="textpart" n="1" subtype="chapter" >
         <head n="Première partie">Les sources du droit capitulaire</head>
         <div>
           <head n="Chapitre premier">Les échelles du Levant</head>
@@ -240,7 +253,7 @@
             que de la pugnacité égyptienne, cette concession résulte d’une défaillance accidentelle dans la coordination anglo-égyptienne.</p>
         </div>
       </div>
-    </body>
+    
     <back>
       <div>
         <head>Conclusion</head>
@@ -268,5 +281,6 @@
           Convention de Montreux. ­ Ancien et nouveau règlements d’organisation judiciaire.</p>
       </div>
     </back>
+   </body>
   </text>
 </TEI>

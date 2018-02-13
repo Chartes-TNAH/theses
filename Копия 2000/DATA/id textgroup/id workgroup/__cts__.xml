@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn=:cts:encth:id?" urn="urn:cts:encth:idtg?.idwg" xml:lang="fre">
+    
+    <ti:title xml:lang="fre">L’abolition des capitulations et la suppression des tribunaux mixtes en Egypte (1937)</ti:title>
+    <ti:edition urn="urn:cts:encth:idtg?.idwg.ed" workUrn="urn:cts:encth:idtg?.idwg" xml:lang="fre">
+        <ti:label xml:lang="fre">ENC</ti:label>
+        <ti:description xml:lang="fre"></ti:description>
+    </ti:edition>
+    
+    
+    
+</ti:work>

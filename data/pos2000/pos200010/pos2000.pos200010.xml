@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="../theses.rng" type="xml"?>
-<?xml version="1.0" encoding="UTF-8"?>
-<teiHeader>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
   <fileDesc>
     <titleStmt>
       <title type="main">L’abolition des capitulations et la suppression des tribunaux mixtes en Egypte (1937)</title>      
-      <author key="Chevrant-Breton, Philippe (1972-...)" ref="https://www.idref.fr/14974983X">Philippe Chevrant-Breton</author>
+      <author ref="https://www.idref.fr/14974983X">Philippe Chevrant-Breton</author>
     </titleStmt>
     <editionStmt>
       <edition>École nationale des chartes</edition>
@@ -20,7 +20,6 @@
     <sourceDesc>
       <seriesStmt>
         <title level="s">Positions des thèses</title>  
-        <date from="1848">1848-</date>
         <idno type="issn">0755-2076</idno>
         <idno type="URI">http://www.sudoc.fr/013565311</idno>                
         <biblScope unit="annee">2000</biblScope> <!-- csv file : promotion -->
@@ -34,11 +33,28 @@
     <revisionDesc>
       <change who="Aurelia Vasile" when="2018-01-03">creation du template teiHeader</change>
       <change who="Sabine Roulleau" when="2018-01-29">ajout d'élément au niveau du sourceDesc du template teiHeader</change>
+      <change who="Ekaterina Batova" when="2018-02-03">creation d'arborescence des fichier</change>
+      <change who="Sybille Clochet" when="2018-02-10">creation du teiBody</change>
+      <change who="Anastasiia Zadykhina" when="2018-02-10">ajout d'élément au niveau du encodingdesc</change>
     </revisionDesc>
   </fileDesc>
+  <encodingdesc>
+    <refsDecl n="CTS">
+      <cRefPattern n="chapter"
+        matchPattern="(\w+).(\w+)"
+        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1']/tei:div[@n='$2'])">
+        <p>This pointer pattern extracts part and chapter</p>
+      </cRefPattern>
+      <cRefPattern n="part"
+        matchPattern="(\w+)"
+        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1'])">
+        <p>This pointer pattern extracts introduction, sources, part, conclusion and appendix</p>
+      </cRefPattern>
+    </refsDecl>
+  </encodingdesc>
   <profileDesc>
     <creation>
-      <date when="1999"/>
+      <date when="2000"/>
     </creation>
     <langUsage>
       <language ident="fr"/>
@@ -140,7 +156,7 @@
       </div>
       <div type="part" n="2">
         <head>Deuxième partie.
-          <lb/>Tribunaux mixtes et organisation judiciaire dans l’Egypte indépendante</hi><hi rend="sup">e</hi> siècle au début du <hi rend="sc">xiv</hi><hi rend="sup">e</hi> siècle</head>
+          <lb/>Tribunaux mixtes et organisation judiciaire dans l’Egypte indépendante<hi rend="sup">e</hi> siècle au début du <hi rend="sc">xiv</hi><hi rend="sup">e</hi> siècle</head>
         <div type="chapter" n="1">
           <head>Chapitre premier.
             <lb/>L’organisation et l’administration de la justice mixte</head>
@@ -203,6 +219,7 @@
             apporter à l’institution.</p>
           <p><hi rend="i">Quelques indices d’un « mécénat » et d’une cour seigneuriale.</hi></p><pb n="43"/>
         </div>
+      </div>
         <div type="part" n="3">
         <head>Troisième partie.
           <lb/>L’abolition des capitulations et la suppression des tribunaux mixtes</head>
