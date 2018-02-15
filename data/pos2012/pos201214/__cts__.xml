@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201214"
+    urn="urn:cts:freLit:pos2012.pos201214" xml:lang="fre"> 
+    <ti:title xml:lang="fre">L’École des arts décoratifs de Strasbourg de 1919 à 1939. Entre méthodes allemandes et méthodes françaises</ti:title>
+    <cpt:structured-metadata>
+        <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
+        <dc:date rdf:datatype="xsd:gYear">2012</dc:date>
+        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/159122333</dct:isVersionOf> 
+        <dc:creator xml:lang="fre">Nelly Koenig</dc:creator>
+        <dc:creator xml:lang="fre">https://www.idref.fr/15912235X</dc:creator>
+    </cpt:structured-metadata>
+</ti:work>
