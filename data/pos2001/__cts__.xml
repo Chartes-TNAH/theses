@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:textgroup xmlns:cpt="http://purl.org/capitains/ns/1.0#"
     xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-    projid="freLit:pos2000" urn="urn:cts:freLit:pos2000">
+    projid="freLit:pos2001" urn="urn:cts:freLit:pos2001">
     <ti:groupname xml:lang="fre">Positions de thèses de l'École nationale des Chartes promotion
-        2000</ti:groupname>
+        2001</ti:groupname>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:source xml:lang="fre"
             >http://www.chartes.psl.eu/fr/recherche/bundle/position_de_these</dc:source>
         <dc:identifier xml:lang="fre">http://www.sudoc.fr/013565311</dc:identifier>
-        <dc:date rdf:datatype="xsd:gYear">2000</dc:date>
+        <dc:date rdf:datatype="xsd:gYear">2001</dc:date>
     </cpt:structured-metadata>
 </ti:textgroup>
