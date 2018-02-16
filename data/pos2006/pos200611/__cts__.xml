@@ -3,7 +3,7 @@
     xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200611"
     urn="urn:cts:freLit:pos2006.pos200611" xml:lang="fre"> 
-    <ti:title xml:lang="fre">Images de presse. Production et usages de la photographie dans un quotidien d’information : <i>Le_Journal<i> (1929-1935)</ti:title>
+    <ti:title xml:lang="fre">Images de presse. Production et usages de la photographie dans un quotidien d’information : <i>Le_Journal</i> (1929-1935)</ti:title>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2006</dc:date>
