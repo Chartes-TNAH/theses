@@ -7,11 +7,7 @@
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2000</dc:date>
-<<<<<<< HEAD
         <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/149646607</dct:isVersionOf> 
-=======
-        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/</dct:isVersionOf> 
->>>>>>> d21f2bf33e6562d8381ef9cecc7ba388d1041002
         <dc:creator xml:lang="fre">Philippe Chevrant-Breton</dc:creator>
         <dc:creator xml:lang="fre">https://www.idref.fr/14974983X</dc:creator>
     </cpt:structured-metadata>
