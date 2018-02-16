@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200701"
+    urn="urn:cts:freLit:pos2007.pos200701" xml:lang="fre"> 
+    <ti:title xml:lang="fre">Les mises en scène de Géo_Sandry pour le Cirque_d_Hiver (1933-1954). Le grand spectacle, histoire d’un goût</ti:title>
+    <cpt:structured-metadata>
+        <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
+        <dc:date rdf:datatype="xsd:gYear">2007</dc:date>
+        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/</dct:isVersionOf> 
+        <dc:creator xml:lang="fre">Clotilde Angleys</dc:creator>
+        <dc:creator xml:lang="fre">https://www.idref.fr/130987263</dc:creator>
+    </cpt:structured-metadata>
+</ti:work>
