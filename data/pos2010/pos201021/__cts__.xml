@@ -3,7 +3,7 @@
     xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201021"
     urn="urn:cts:freLit:pos2010.pos201021" xml:lang="fre"> 
-    <ti:title xml:lang="fre">La chambre_du_roi à Versailles ou l’espace de la majesté Intérieurs, institutions et cérémonial au </abbr>xvii<sup>e</sup></num> siècle.</ti:title>
+    <ti:title xml:lang="fre">La chambre_du_roi à Versailles ou l’espace de la majesté Intérieurs, institutions et cérémonial au <abbr>xvii<sup>e</sup></abbr> siècle.</ti:title>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2010</dc:date>
