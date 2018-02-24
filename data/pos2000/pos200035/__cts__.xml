@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200035"
     urn="urn:cts:freLit:pos2000.pos200035" xml:lang="fre"> 
     <ti:title xml:lang="fre">Louis_II_de_La_Trémoille ou la découverte de l’Italie. Édition de correspondance (1480-1525)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200035" urn="urn:cts:freLit:pos2000.pos200035.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200035" urn="urn:cts:freLit:pos2000.pos200035.position-200035">
         <ti:label xml:lang="fre"><title type="main">Louis_II_de_La_Trémoille ou la découverte de l’Italie. Édition de correspondance (1480-1525)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Laurent Vissière pour obtenir le diplôme d’archiviste paléographe</p>		

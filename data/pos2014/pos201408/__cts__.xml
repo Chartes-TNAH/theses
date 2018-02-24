@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201408"
     urn="urn:cts:freLit:pos2014.pos201408" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le singe médiéval, histoire d'un animal ambigu : savoirs, symboles et représentations</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201408" urn="urn:cts:freLit:pos2014.pos201408.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201408" urn="urn:cts:freLit:pos2014.pos201408.position-201408">
         <ti:label xml:lang="fre"><title type="main">Le singe médiéval, histoire d'un animal ambigu : savoirs, symboles et représentations</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Amandine Gaudron pour obtenir le diplôme d’archiviste paléographe</p>		

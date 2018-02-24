@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200815"
     urn="urn:cts:freLit:pos2008.pos200815" xml:lang="fre"> 
     <ti:title xml:lang="fre">Cartographier la Louisiane française au <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200815" urn="urn:cts:freLit:pos2008.pos200815.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200815" urn="urn:cts:freLit:pos2008.pos200815.position-200815">
         <ti:label xml:lang="fre"><title type="main">Cartographier la Louisiane française au <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Justine Dujardin pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200115"
     urn="urn:cts:freLit:pos2001.pos200115" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le manuscrit Bibl. nat. de France, fr. 688 et son traducteur: Édition de la <i>Chronique_universelle</i> et de l’<i>Histoire_romaine</i></ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200115" urn="urn:cts:freLit:pos2001.pos200115.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200115" urn="urn:cts:freLit:pos2001.pos200115.position-200115">
         <ti:label xml:lang="fre"><title type="main">Le manuscrit Bibl. nat. de France, fr. 688 et son traducteur: Édition de la <i>Chronique_universelle</i> et de l’<i>Histoire_romaine</i></title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nathalie Moreau pour obtenir le diplôme d’archiviste paléographe</p>		

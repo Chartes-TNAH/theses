@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201017"
     urn="urn:cts:freLit:pos2010.pos201017" xml:lang="fre"> 
     <ti:title xml:lang="fre">De l’or, des hommes et des notaires. Épargne et crédit en Moyen-Poitou au <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201017" urn="urn:cts:freLit:pos2010.pos201017.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201017" urn="urn:cts:freLit:pos2010.pos201017.position-201017">
         <ti:label xml:lang="fre"><title type="main">De l’or, des hommes et des notaires. Épargne et crédit en Moyen-Poitou au <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Romain Le Gendre pour obtenir le diplôme d’archiviste paléographe</p>		

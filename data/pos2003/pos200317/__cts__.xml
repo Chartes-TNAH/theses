@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200317"
     urn="urn:cts:freLit:pos2003.pos200317" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’imprimerie nationale de 1870 à 1910</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200317" urn="urn:cts:freLit:pos2003.pos200317.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200317" urn="urn:cts:freLit:pos2003.pos200317.position-200317">
         <ti:label xml:lang="fre"><title type="main">L’imprimerie nationale de 1870 à 1910</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Glwadys Longeard pour obtenir le diplôme d’archiviste paléographe</p>		

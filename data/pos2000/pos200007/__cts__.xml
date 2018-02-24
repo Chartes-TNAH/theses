@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200007"
     urn="urn:cts:freLit:pos2000.pos200007" xml:lang="fre"> 
     <ti:title xml:lang="fre">Rhétorique et liturgie en Gaule mérovingienne. L’exemple des rituels et des oraisons de l’offertoire de la messe</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200007" urn="urn:cts:freLit:pos2000.pos200007.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200007" urn="urn:cts:freLit:pos2000.pos200007.position-200007">
         <ti:label xml:lang="fre"><title type="main">Rhétorique et liturgie en Gaule mérovingienne. L’exemple des rituels et des oraisons de l’offertoire de la messe</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Rémy Burget pour obtenir le diplôme d’archiviste paléographe</p>		

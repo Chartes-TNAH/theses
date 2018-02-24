@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200024"
     urn="urn:cts:freLit:pos2000.pos200024" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le fermier général Claude_Dupin (1686-1769)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200024" urn="urn:cts:freLit:pos2000.pos200024.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200024" urn="urn:cts:freLit:pos2000.pos200024.position-200024">
         <ti:label xml:lang="fre"><title type="main">Le fermier général Claude_Dupin (1686-1769)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Julie Ladant pour obtenir le diplôme d’archiviste paléographe</p>		

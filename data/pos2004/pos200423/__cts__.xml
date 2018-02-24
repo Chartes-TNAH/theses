@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200423"
     urn="urn:cts:freLit:pos2004.pos200423" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les services d’Alsace-Lorraine face à la réintégration des départements de l’Est (1914-1919)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200423" urn="urn:cts:freLit:pos2004.pos200423.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200423" urn="urn:cts:freLit:pos2004.pos200423.position-200423">
         <ti:label xml:lang="fre"><title type="main">Les services d’Alsace-Lorraine face à la réintégration des départements de l’Est (1914-1919)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Joseph Schmauch pour obtenir le diplôme d’archiviste paléographe</p>		

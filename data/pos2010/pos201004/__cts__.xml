@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201004"
     urn="urn:cts:freLit:pos2010.pos201004" xml:lang="fre"> 
     <ti:title xml:lang="fre">Jeu du roi et jeu de la reine aux <abbr>xvii<sup>e</sup></abbr> et <abbr>xviii<sup>e</sup></abbr> siècles. Du délassement personnel à la cérémonie de cour.</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201004" urn="urn:cts:freLit:pos2010.pos201004.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201004" urn="urn:cts:freLit:pos2010.pos201004.position-201004">
         <ti:label xml:lang="fre"><title type="main">Jeu du roi et jeu de la reine aux <abbr>xvii<sup>e</sup></abbr> et <abbr>xviii<sup>e</sup></abbr> siècles. Du délassement personnel à la cérémonie de cour.</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thibault Billoir pour obtenir le diplôme d’archiviste paléographe</p>		

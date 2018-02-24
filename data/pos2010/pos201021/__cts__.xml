@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201021"
     urn="urn:cts:freLit:pos2010.pos201021" xml:lang="fre"> 
     <ti:title xml:lang="fre">La chambre_du_roi à Versailles ou l’espace de la majesté Intérieurs, institutions et cérémonial au <abbr>xvii<sup>e</sup></abbr> siècle.</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201021" urn="urn:cts:freLit:pos2010.pos201021.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201021" urn="urn:cts:freLit:pos2010.pos201021.position-201021">
         <ti:label xml:lang="fre"><title type="main">La chambre_du_roi à Versailles ou l’espace de la majesté Intérieurs, institutions et cérémonial au <abbr>xvii<sup>e</sup></abbr> siècle.</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Vivien Richard pour obtenir le diplôme d’archiviste paléographe</p>		

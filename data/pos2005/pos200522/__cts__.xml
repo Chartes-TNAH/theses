@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200522"
     urn="urn:cts:freLit:pos2005.pos200522" xml:lang="fre"> 
     <ti:title xml:lang="fre">La cinquième mise en prose du <em>Roman_de_Troie</em> de Benoît_de_Sainte-Maure. Édition partielle et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200522" urn="urn:cts:freLit:pos2005.pos200522.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200522" urn="urn:cts:freLit:pos2005.pos200522.position-200522">
         <ti:label xml:lang="fre"><title type="main">La cinquième mise en prose du <em>Roman_de_Troie</em> de Benoît_de_Sainte-Maure. Édition partielle et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Rochebouet pour obtenir le diplôme d’archiviste paléographe</p>		

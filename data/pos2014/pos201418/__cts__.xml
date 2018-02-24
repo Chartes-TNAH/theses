@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201418"
     urn="urn:cts:freLit:pos2014.pos201418" xml:lang="fre"> 
     <ti:title xml:lang="fre">La correspondance entre Ismaÿl Urbain et Frédéric Lacroix (janvier 1861-10 octobre 1863). Analyse et édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201418" urn="urn:cts:freLit:pos2014.pos201418.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201418" urn="urn:cts:freLit:pos2014.pos201418.position-201418">
         <ti:label xml:lang="fre"><title type="main">La correspondance entre Ismaÿl Urbain et Frédéric Lacroix (janvier 1861-10 octobre 1863). Analyse et édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Lucile Rodriguez pour obtenir le diplôme d’archiviste paléographe</p>		

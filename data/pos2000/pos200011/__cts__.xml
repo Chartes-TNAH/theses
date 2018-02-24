@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200011"
     urn="urn:cts:freLit:pos2000.pos200011" xml:lang="fre"> 
     <ti:title xml:lang="fre">Frantz_Jourdain (1847-1935), architecte, critique d’art et homme de lettres</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200011" urn="urn:cts:freLit:pos2000.pos200011.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200011" urn="urn:cts:freLit:pos2000.pos200011.position-200011">
         <ti:label xml:lang="fre"><title type="main">Frantz_Jourdain (1847-1935), architecte, critique d’art et homme de lettres</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marianne Clatin pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200325"
     urn="urn:cts:freLit:pos2003.pos200325" xml:lang="fre"> 
     <ti:title xml:lang="fre">Alfred_Armand (1808-1888), un architecte collectionneur</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200325" urn="urn:cts:freLit:pos2003.pos200325.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200325" urn="urn:cts:freLit:pos2003.pos200325.position-200325">
         <ti:label xml:lang="fre"><title type="main">Alfred_Armand (1808-1888), un architecte collectionneur</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thiphaine Zirmi pour obtenir le diplôme d’archiviste paléographe</p>		

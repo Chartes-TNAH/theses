@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200223"
     urn="urn:cts:freLit:pos2002.pos200223" xml:lang="fre"> 
     <ti:title xml:lang="fre">La correspondance générale de Louise_de_Vilmorin jusqu’en 1949 : édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200223" urn="urn:cts:freLit:pos2002.pos200223.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200223" urn="urn:cts:freLit:pos2002.pos200223.position-200223">
         <ti:label xml:lang="fre"><title type="main">La correspondance générale de Louise_de_Vilmorin jusqu’en 1949 : édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Olivier Muth pour obtenir le diplôme d’archiviste paléographe</p>		

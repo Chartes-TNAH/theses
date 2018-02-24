@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201105"
     urn="urn:cts:freLit:pos2011.pos201105" xml:lang="fre"> 
     <ti:title xml:lang="fre">La revue <i>Mouseion</i> (1927-1946). Les musées et la coopération culturelle internationale</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201105" urn="urn:cts:freLit:pos2011.pos201105.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201105" urn="urn:cts:freLit:pos2011.pos201105.position-201105">
         <ti:label xml:lang="fre"><title type="main">La revue <i>Mouseion</i> (1927-1946). Les musées et la coopération culturelle internationale</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie Caillot pour obtenir le diplôme d’archiviste paléographe</p>		

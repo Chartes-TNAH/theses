@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201007"
     urn="urn:cts:freLit:pos2010.pos201007" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’art diplomatique. Les expositions d’art français organisées par la France à l’étranger pendant l’entre-deux-guerres</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201007" urn="urn:cts:freLit:pos2010.pos201007.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201007" urn="urn:cts:freLit:pos2010.pos201007.position-201007">
         <ti:label xml:lang="fre"><title type="main">L’art diplomatique. Les expositions d’art français organisées par la France à l’étranger pendant l’entre-deux-guerres</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pauline Chougnet pour obtenir le diplôme d’archiviste paléographe</p>		

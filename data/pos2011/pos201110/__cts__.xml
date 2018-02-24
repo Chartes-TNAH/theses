@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201110"
     urn="urn:cts:freLit:pos2011.pos201110" xml:lang="fre"> 
     <ti:title xml:lang="fre">Vivre la liturgie dans la cathédrale de Marseille au <abbr>xiv<sup>e</sup></abbr> siècle. Édition et étude de l’ordinaire de la Major</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201110" urn="urn:cts:freLit:pos2011.pos201110.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201110" urn="urn:cts:freLit:pos2011.pos201110.position-201110">
         <ti:label xml:lang="fre"><title type="main">Vivre la liturgie dans la cathédrale de Marseille au <abbr>xiv<sup>e</sup></abbr> siècle. Édition et étude de l’ordinaire de la Major</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Maylis Crousillac pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200412"
     urn="urn:cts:freLit:pos2004.pos200412" xml:lang="fre"> 
     <ti:title xml:lang="fre">La vie musicale à l’ospedale_di_San_Lazzaro_e_dei_Mendicanti, à Venise (1600-1797)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200412" urn="urn:cts:freLit:pos2004.pos200412.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200412" urn="urn:cts:freLit:pos2004.pos200412.position-200412">
         <ti:label xml:lang="fre"><title type="main">La vie musicale à l’ospedale_di_San_Lazzaro_e_dei_Mendicanti, à Venise (1600-1797)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Caroline Giron pour obtenir le diplôme d’archiviste paléographe</p>		

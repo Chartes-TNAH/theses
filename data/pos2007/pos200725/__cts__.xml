@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200725"
     urn="urn:cts:freLit:pos2007.pos200725" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le port d’armes en France et la législation royale du milieu du <abbr>xiii<sup>e</sup></abbr> au milieu du <abbr>xiv<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200725" urn="urn:cts:freLit:pos2007.pos200725.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200725" urn="urn:cts:freLit:pos2007.pos200725.position-200725">
         <ti:label xml:lang="fre"><title type="main">Le port d’armes en France et la législation royale du milieu du <abbr>xiii<sup>e</sup></abbr> au milieu du <abbr>xiv<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Romain Wenz pour obtenir le diplôme d’archiviste paléographe</p>		

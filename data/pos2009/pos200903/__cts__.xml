@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200903"
     urn="urn:cts:freLit:pos2009.pos200903" xml:lang="fre"> 
     <ti:title xml:lang="fre">Un affrontement de papier. La place de l’imprimé dans la guerre entre François_I<sup>er</sup> et Charles_Quint (1542-1544)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200903" urn="urn:cts:freLit:pos2009.pos200903.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200903" urn="urn:cts:freLit:pos2009.pos200903.position-200903">
         <ti:label xml:lang="fre"><title type="main">Un affrontement de papier. La place de l’imprimé dans la guerre entre François_I<sup>er</sup> et Charles_Quint (1542-1544)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sophie Astier pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201424"
     urn="urn:cts:freLit:pos2014.pos201424" xml:lang="fre"> 
     <ti:title xml:lang="fre">« Arripui calamum… » : les épîtres métriques latines de Giovanni Moccia. Édition et traduction</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201424" urn="urn:cts:freLit:pos2014.pos201424.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201424" urn="urn:cts:freLit:pos2014.pos201424.position-201424">
         <ti:label xml:lang="fre"><title type="main">« Arripui calamum… » : les épîtres métriques latines de Giovanni Moccia. Édition et traduction</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Louisa Torres pour obtenir le diplôme d’archiviste paléographe</p>		

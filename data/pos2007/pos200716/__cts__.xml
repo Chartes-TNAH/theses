@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200716"
     urn="urn:cts:freLit:pos2007.pos200716" xml:lang="fre"> 
     <ti:title xml:lang="fre">Simon_Arnauld_de_Pomponne, secrétaire d’État des Affaires étrangères de Louis_XIV (1618-1699)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200716" urn="urn:cts:freLit:pos2007.pos200716.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200716" urn="urn:cts:freLit:pos2007.pos200716.position-200716">
         <ti:label xml:lang="fre"><title type="main">Simon_Arnauld_de_Pomponne, secrétaire d’État des Affaires étrangères de Louis_XIV (1618-1699)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Rémi Mathis pour obtenir le diplôme d’archiviste paléographe</p>		

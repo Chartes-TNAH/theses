@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201306"
     urn="urn:cts:freLit:pos2013.pos201306" xml:lang="fre"> 
     <ti:title xml:lang="fre">L'Opéra de la rue Le Peletier (1821-1873) : architecte, genèse, programme</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201306" urn="urn:cts:freLit:pos2013.pos201306.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201306" urn="urn:cts:freLit:pos2013.pos201306.position-201306">
         <ti:label xml:lang="fre"><title type="main">L'Opéra de la rue Le Peletier (1821-1873) : architecte, genèse, programme</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Elsa Cherbuy pour obtenir le diplôme d’archiviste paléographe</p>		

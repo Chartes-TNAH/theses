@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201205"
     urn="urn:cts:freLit:pos2012.pos201205" xml:lang="fre"> 
     <ti:title xml:lang="fre">La lecture publique en débat (1918-1945)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201205" urn="urn:cts:freLit:pos2012.pos201205.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201205" urn="urn:cts:freLit:pos2012.pos201205.position-201205">
         <ti:label xml:lang="fre"><title type="main">La lecture publique en débat (1918-1945)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hind Bouchareb pour obtenir le diplôme d’archiviste paléographe</p>		

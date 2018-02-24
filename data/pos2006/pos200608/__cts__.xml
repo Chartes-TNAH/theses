@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200608"
     urn="urn:cts:freLit:pos2006.pos200608" xml:lang="fre"> 
     <ti:title xml:lang="fre">Georges_Ribemont-Dessaignes et la vie artistique (1884-1974)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200608" urn="urn:cts:freLit:pos2006.pos200608.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200608" urn="urn:cts:freLit:pos2006.pos200608.position-200608">
         <ti:label xml:lang="fre"><title type="main">Georges_Ribemont-Dessaignes et la vie artistique (1884-1974)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jeanne Brun pour obtenir le diplôme d’archiviste paléographe</p>		

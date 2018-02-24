@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200222"
     urn="urn:cts:freLit:pos2002.pos200222" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>Commentaire_des_Psaumes</i> de saint_Thomas_d_Aquin</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200222" urn="urn:cts:freLit:pos2002.pos200222.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200222" urn="urn:cts:freLit:pos2002.pos200222.position-200222">
         <ti:label xml:lang="fre"><title type="main">Le <i>Commentaire_des_Psaumes</i> de saint_Thomas_d_Aquin</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Martin Morard pour obtenir le diplôme d’archiviste paléographe</p>		

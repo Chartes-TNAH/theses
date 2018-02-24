@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201005"
     urn="urn:cts:freLit:pos2010.pos201005" xml:lang="fre"> 
     <ti:title xml:lang="fre">Aménagement, paysage urbain et perception de l’eau. La Deûle à Lille (1858-1921).</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201005" urn="urn:cts:freLit:pos2010.pos201005.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201005" urn="urn:cts:freLit:pos2010.pos201005.position-201005">
         <ti:label xml:lang="fre"><title type="main">Aménagement, paysage urbain et perception de l’eau. La Deûle à Lille (1858-1921).</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Léonard Bourlet pour obtenir le diplôme d’archiviste paléographe</p>		

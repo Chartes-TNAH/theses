@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200503"
     urn="urn:cts:freLit:pos2005.pos200503" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les officiers de justice au travail dans la sénéchaussée de Toulouse à la fin du Moyen_Âge d’après les registres de la sénéchaussée</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200503" urn="urn:cts:freLit:pos2005.pos200503.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200503" urn="urn:cts:freLit:pos2005.pos200503.position-200503">
         <ti:label xml:lang="fre"><title type="main">Les officiers de justice au travail dans la sénéchaussée de Toulouse à la fin du Moyen_Âge d’après les registres de la sénéchaussée</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Benjamin Bober pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200929"
     urn="urn:cts:freLit:pos2009.pos200929" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le sceptre contre la crosse. La production favorable à la régale (1673-1682)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200929" urn="urn:cts:freLit:pos2009.pos200929.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200929" urn="urn:cts:freLit:pos2009.pos200929.position-200929">
         <ti:label xml:lang="fre"><title type="main">Le sceptre contre la crosse. La production favorable à la régale (1673-1682)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Blandine Wagner pour obtenir le diplôme d’archiviste paléographe</p>		

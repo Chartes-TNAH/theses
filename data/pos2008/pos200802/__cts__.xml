@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200802"
     urn="urn:cts:freLit:pos2008.pos200802" xml:lang="fre"> 
     <ti:title xml:lang="fre">Représentations de la table et de la commensalité (1150-1350). Dans la moitié septentrionale de la France, l’Angleterre et les Pays-Bas</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200802" urn="urn:cts:freLit:pos2008.pos200802.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200802" urn="urn:cts:freLit:pos2008.pos200802.position-200802">
         <ti:label xml:lang="fre"><title type="main">Représentations de la table et de la commensalité (1150-1350). Dans la moitié septentrionale de la France, l’Angleterre et les Pays-Bas</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par David-Jonathan Benrubi pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200822"
     urn="urn:cts:freLit:pos2008.pos200822" xml:lang="fre"> 
     <ti:title xml:lang="fre">François_Sublet_de_Noyers (1589-1645). Ad majorem regis et Dei gloriam</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200822" urn="urn:cts:freLit:pos2008.pos200822.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200822" urn="urn:cts:freLit:pos2008.pos200822.position-200822">
         <ti:label xml:lang="fre"><title type="main">François_Sublet_de_Noyers (1589-1645). Ad majorem regis et Dei gloriam</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Camille Lefauconnier pour obtenir le diplôme d’archiviste paléographe</p>		

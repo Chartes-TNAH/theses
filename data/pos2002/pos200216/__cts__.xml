@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200216"
     urn="urn:cts:freLit:pos2002.pos200216" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’administration municipale de Sélestat au <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200216" urn="urn:cts:freLit:pos2002.pos200216.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200216" urn="urn:cts:freLit:pos2002.pos200216.position-200216">
         <ti:label xml:lang="fre"><title type="main">L’administration municipale de Sélestat au <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-François Lutz pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200029"
     urn="urn:cts:freLit:pos2000.pos200029" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>De_processione_Spiritus_sancti</i> de Théodulfe d’Orléans. Édition, étude des sources et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200029" urn="urn:cts:freLit:pos2000.pos200029.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200029" urn="urn:cts:freLit:pos2000.pos200029.position-200029">
         <ti:label xml:lang="fre"><title type="main">Le <i>De_processione_Spiritus_sancti</i> de Théodulfe d’Orléans. Édition, étude des sources et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Christian Ménage pour obtenir le diplôme d’archiviste paléographe</p>		

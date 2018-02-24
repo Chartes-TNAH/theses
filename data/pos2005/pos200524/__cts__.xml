@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200524"
     urn="urn:cts:freLit:pos2005.pos200524" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les jeux radiophoniques en France (1944-1974). Étude comparative des radios publiques françaises et de deux stations privées, Radio-Luxembourg et Europe_N°1</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200524" urn="urn:cts:freLit:pos2005.pos200524.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200524" urn="urn:cts:freLit:pos2005.pos200524.position-200524">
         <ti:label xml:lang="fre"><title type="main">Les jeux radiophoniques en France (1944-1974). Étude comparative des radios publiques françaises et de deux stations privées, Radio-Luxembourg et Europe_N°1</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie-Paule Schmitt pour obtenir le diplôme d’archiviste paléographe</p>		

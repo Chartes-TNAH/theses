@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200926"
     urn="urn:cts:freLit:pos2009.pos200926" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’Art_nouveau à l’Exposition universelle de 1900</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200926" urn="urn:cts:freLit:pos2009.pos200926.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200926" urn="urn:cts:freLit:pos2009.pos200926.position-200926">
         <ti:label xml:lang="fre"><title type="main">L’Art_nouveau à l’Exposition universelle de 1900</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie-Amélie Tharaud pour obtenir le diplôme d’archiviste paléographe</p>		

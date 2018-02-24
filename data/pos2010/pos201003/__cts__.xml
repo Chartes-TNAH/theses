@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201003"
     urn="urn:cts:freLit:pos2010.pos201003" xml:lang="fre"> 
     <ti:title xml:lang="fre">Georges_Lallemant. Étude des sources de la vie d’un peintre.</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201003" urn="urn:cts:freLit:pos2010.pos201003.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201003" urn="urn:cts:freLit:pos2010.pos201003.position-201003">
         <ti:label xml:lang="fre"><title type="main">Georges_Lallemant. Étude des sources de la vie d’un peintre.</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alice Billard pour obtenir le diplôme d’archiviste paléographe</p>		

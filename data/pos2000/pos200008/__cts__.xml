@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200008"
     urn="urn:cts:freLit:pos2000.pos200008" xml:lang="fre"> 
     <ti:title xml:lang="fre">Philippe_V et son Conseil : le gouvernement royal de 1316 à 1322</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200008" urn="urn:cts:freLit:pos2000.pos200008.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200008" urn="urn:cts:freLit:pos2000.pos200008.position-200008">
         <ti:label xml:lang="fre"><title type="main">Philippe_V et son Conseil : le gouvernement royal de 1316 à 1322</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Olivier Canteaut pour obtenir le diplôme d’archiviste paléographe</p>		

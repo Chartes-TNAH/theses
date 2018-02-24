@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200526"
     urn="urn:cts:freLit:pos2005.pos200526" xml:lang="fre"> 
     <ti:title xml:lang="fre">Georges_Charpentier (1846-1905). Éditeur de romans, roman d’un éditeur</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200526" urn="urn:cts:freLit:pos2005.pos200526.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200526" urn="urn:cts:freLit:pos2005.pos200526.position-200526">
         <ti:label xml:lang="fre"><title type="main">Georges_Charpentier (1846-1905). Éditeur de romans, roman d’un éditeur</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Virginie Serrepuy pour obtenir le diplôme d’archiviste paléographe</p>		

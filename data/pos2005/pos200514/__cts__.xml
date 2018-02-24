@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200514"
     urn="urn:cts:freLit:pos2005.pos200514" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le cartulaire du consulat de Limoges. Un livre juratoire en occitan limousin (XIII<sup>e</sup>-XVII<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200514" urn="urn:cts:freLit:pos2005.pos200514.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200514" urn="urn:cts:freLit:pos2005.pos200514.position-200514">
         <ti:label xml:lang="fre"><title type="main">Le cartulaire du consulat de Limoges. Un livre juratoire en occitan limousin (XIII<sup>e</sup>-XVII<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aubin Leroy pour obtenir le diplôme d’archiviste paléographe</p>		

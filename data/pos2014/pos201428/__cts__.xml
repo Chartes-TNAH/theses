@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201428"
     urn="urn:cts:freLit:pos2014.pos201428" xml:lang="fre"> 
     <ti:title xml:lang="fre">De Rome à la Réforme : le chapitre Saint-Thomas de Strasbourg (1523-1549)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201428" urn="urn:cts:freLit:pos2014.pos201428.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201428" urn="urn:cts:freLit:pos2014.pos201428.position-201428">
         <ti:label xml:lang="fre"><title type="main">De Rome à la Réforme : le chapitre Saint-Thomas de Strasbourg (1523-1549)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Zettel pour obtenir le diplôme d’archiviste paléographe</p>		

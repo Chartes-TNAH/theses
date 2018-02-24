@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201211"
     urn="urn:cts:freLit:pos2012.pos201211" xml:lang="fre"> 
     <ti:title xml:lang="fre">Antoine et Henri-Auguste de Loménie, secrétaires d’État de la Maison du roi sous Henri IV et Louis XIII. Carrière politique et ascension sociale</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201211" urn="urn:cts:freLit:pos2012.pos201211.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201211" urn="urn:cts:freLit:pos2012.pos201211.position-201211">
         <ti:label xml:lang="fre"><title type="main">Antoine et Henri-Auguste de Loménie, secrétaires d’État de la Maison du roi sous Henri IV et Louis XIII. Carrière politique et ascension sociale</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Figliuzzi pour obtenir le diplôme d’archiviste paléographe</p>		

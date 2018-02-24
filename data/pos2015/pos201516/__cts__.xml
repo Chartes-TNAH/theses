@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201516"
     urn="urn:cts:freLit:pos2015.pos201516" xml:lang="fre"> 
     <ti:title xml:lang="fre">Maximilien Rubel, éditeur de Marx dans la Bibliothèque de la Pléiade (1955-1968)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201516" urn="urn:cts:freLit:pos2015.pos201516.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201516" urn="urn:cts:freLit:pos2015.pos201516.position-201516">
         <ti:label xml:lang="fre"><title type="main">Maximilien Rubel, éditeur de Marx dans la Bibliothèque de la Pléiade (1955-1968)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aude Le Moullec-Rieu pour obtenir le diplôme d’archiviste paléographe</p>		

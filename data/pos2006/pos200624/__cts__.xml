@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200624"
     urn="urn:cts:freLit:pos2006.pos200624" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les duchés de Bénévent et de Spolète, de la conquête lombarde au début de l’époque carolingienne</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200624" urn="urn:cts:freLit:pos2006.pos200624.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200624" urn="urn:cts:freLit:pos2006.pos200624.position-200624">
         <ti:label xml:lang="fre"><title type="main">Les duchés de Bénévent et de Spolète, de la conquête lombarde au début de l’époque carolingienne</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aurélie Thomas pour obtenir le diplôme d’archiviste paléographe</p>		

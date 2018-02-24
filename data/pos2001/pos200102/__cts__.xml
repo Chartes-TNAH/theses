@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200102"
     urn="urn:cts:freLit:pos2001.pos200102" xml:lang="fre"> 
     <ti:title xml:lang="fre">Henri_Ghéon et le théâtre</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200102" urn="urn:cts:freLit:pos2001.pos200102.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200102" urn="urn:cts:freLit:pos2001.pos200102.position-200102">
         <ti:label xml:lang="fre"><title type="main">Henri_Ghéon et le théâtre</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Coste pour obtenir le diplôme d’archiviste paléographe</p>		

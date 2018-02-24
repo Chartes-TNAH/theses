@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201104"
     urn="urn:cts:freLit:pos2011.pos201104" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les jardins de Versailles au <abbr>xviii<sup>e</sup></abbr> siècle. Usages et spatialité</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201104" urn="urn:cts:freLit:pos2011.pos201104.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201104" urn="urn:cts:freLit:pos2011.pos201104.position-201104">
         <ti:label xml:lang="fre"><title type="main">Les jardins de Versailles au <abbr>xviii<sup>e</sup></abbr> siècle. Usages et spatialité</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Gabrielle Boreau de Roincé pour obtenir le diplôme d’archiviste paléographe</p>		

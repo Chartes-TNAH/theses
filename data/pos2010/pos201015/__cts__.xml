@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201015"
     urn="urn:cts:freLit:pos2010.pos201015" xml:lang="fre"> 
     <ti:title xml:lang="fre">La correspondance au fondement des transactions Ruiz-Bonvisi (1580-1590)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201015" urn="urn:cts:freLit:pos2010.pos201015.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201015" urn="urn:cts:freLit:pos2010.pos201015.position-201015">
         <ti:label xml:lang="fre"><title type="main">La correspondance au fondement des transactions Ruiz-Bonvisi (1580-1590)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Lambert pour obtenir le diplôme d’archiviste paléographe</p>		

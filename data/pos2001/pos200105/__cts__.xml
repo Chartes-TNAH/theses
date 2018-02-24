@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200105"
     urn="urn:cts:freLit:pos2001.pos200105" xml:lang="fre"> 
     <ti:title xml:lang="fre">Culte et iconographie de saint_André en France (V<sup>e</sup>-XV<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200105" urn="urn:cts:freLit:pos2001.pos200105.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200105" urn="urn:cts:freLit:pos2001.pos200105.position-200105">
         <ti:label xml:lang="fre"><title type="main">Culte et iconographie de saint_André en France (V<sup>e</sup>-XV<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Charlotte Denoël pour obtenir le diplôme d’archiviste paléographe</p>		

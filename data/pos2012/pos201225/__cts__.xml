@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201225"
     urn="urn:cts:freLit:pos2012.pos201225" xml:lang="fre"> 
     <ti:title xml:lang="fre">La correspondance de Thomas Perrenot de Chantonnay, ambassadeur espagnol à la cour de France (1559–1564). L’acculturation politique d’un diplomate franc-comtois</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201225" urn="urn:cts:freLit:pos2012.pos201225.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201225" urn="urn:cts:freLit:pos2012.pos201225.position-201225">
         <ti:label xml:lang="fre"><title type="main">La correspondance de Thomas Perrenot de Chantonnay, ambassadeur espagnol à la cour de France (1559–1564). L’acculturation politique d’un diplomate franc-comtois</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-Baptiste Vaisman pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200505"
     urn="urn:cts:freLit:pos2005.pos200505" xml:lang="fre"> 
     <ti:title xml:lang="fre">Jean-Jacques_Huvé (1742-1808), architecte. Retour à Palladio</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200505" urn="urn:cts:freLit:pos2005.pos200505.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200505" urn="urn:cts:freLit:pos2005.pos200505.position-200505">
         <ti:label xml:lang="fre"><title type="main">Jean-Jacques_Huvé (1742-1808), architecte. Retour à Palladio</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sébastien Chaufour pour obtenir le diplôme d’archiviste paléographe</p>		

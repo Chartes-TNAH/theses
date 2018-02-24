@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200508"
     urn="urn:cts:freLit:pos2005.pos200508" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le Bureau_des_longitudes (1795-1854). De Lalande à Le_Verrier</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200508" urn="urn:cts:freLit:pos2005.pos200508.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200508" urn="urn:cts:freLit:pos2005.pos200508.position-200508">
         <ti:label xml:lang="fre"><title type="main">Le Bureau_des_longitudes (1795-1854). De Lalande à Le_Verrier</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-Marie Feurtet pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201024"
     urn="urn:cts:freLit:pos2010.pos201024" xml:lang="fre"> 
     <ti:title xml:lang="fre">Leipzig : mythes, lectures et relectures d’une bataille napoléonienne en France et en Allemagne (1813-1871)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201024" urn="urn:cts:freLit:pos2010.pos201024.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201024" urn="urn:cts:freLit:pos2010.pos201024.position-201024">
         <ti:label xml:lang="fre"><title type="main">Leipzig : mythes, lectures et relectures d’une bataille napoléonienne en France et en Allemagne (1813-1871)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jérôme Schweitzer pour obtenir le diplôme d’archiviste paléographe</p>		

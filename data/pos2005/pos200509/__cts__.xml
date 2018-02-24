@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200509"
     urn="urn:cts:freLit:pos2005.pos200509" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’entreprise Théodore_Haviland de 1892 à 1941. Destinées industrielles de la porcelaine à Limoges</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200509" urn="urn:cts:freLit:pos2005.pos200509.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200509" urn="urn:cts:freLit:pos2005.pos200509.position-200509">
         <ti:label xml:lang="fre"><title type="main">L’entreprise Théodore_Haviland de 1892 à 1941. Destinées industrielles de la porcelaine à Limoges</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Lucie Fléjou pour obtenir le diplôme d’archiviste paléographe</p>		

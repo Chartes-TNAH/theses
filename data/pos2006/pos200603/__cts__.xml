@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200603"
     urn="urn:cts:freLit:pos2006.pos200603" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le nécrologe du livre du chapitre de l’abbaye Saint-Pierre-aux-Nonnains_de_Metz (BNF lat. 10028). Commentaire et édition</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200603" urn="urn:cts:freLit:pos2006.pos200603.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200603" urn="urn:cts:freLit:pos2006.pos200603.position-200603">
         <ti:label xml:lang="fre"><title type="main">Le nécrologe du livre du chapitre de l’abbaye Saint-Pierre-aux-Nonnains_de_Metz (BNF lat. 10028). Commentaire et édition</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Gordon Blennemann pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200519"
     urn="urn:cts:freLit:pos2005.pos200519" xml:lang="fre"> 
     <ti:title xml:lang="fre">“ Par devant moy, Martin_Destourbe, tabellion et clerc juré ” : édition et étude de deux registres de tabellionage de Puisaye (XIV<sup>e</sup>-XV<sup>e</sup> siècles)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200519" urn="urn:cts:freLit:pos2005.pos200519.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200519" urn="urn:cts:freLit:pos2005.pos200519.position-200519">
         <ti:label xml:lang="fre"><title type="main">“ Par devant moy, Martin_Destourbe, tabellion et clerc juré ” : édition et étude de deux registres de tabellionage de Puisaye (XIV<sup>e</sup>-XV<sup>e</sup> siècles)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-Baptiste Raze pour obtenir le diplôme d’archiviste paléographe</p>		

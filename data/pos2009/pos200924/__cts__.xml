@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200924"
     urn="urn:cts:freLit:pos2009.pos200924" xml:lang="fre"> 
     <ti:title xml:lang="fre">Guillaume_de_Saint-Lô, un prédicateur à l’œuvre au <abbr>xiv<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200924" urn="urn:cts:freLit:pos2009.pos200924.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200924" urn="urn:cts:freLit:pos2009.pos200924.position-200924">
         <ti:label xml:lang="fre"><title type="main">Guillaume_de_Saint-Lô, un prédicateur à l’œuvre au <abbr>xiv<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Roger pour obtenir le diplôme d’archiviste paléographe</p>		

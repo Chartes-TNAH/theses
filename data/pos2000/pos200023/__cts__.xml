@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200023"
     urn="urn:cts:freLit:pos2000.pos200023" xml:lang="fre"> 
     <ti:title xml:lang="fre">Édition critique des lettres d’Antoine_Singlin (1607-1664), Supérieur de Port-Royal</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200023" urn="urn:cts:freLit:pos2000.pos200023.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200023" urn="urn:cts:freLit:pos2000.pos200023.position-200023">
         <ti:label xml:lang="fre"><title type="main">Édition critique des lettres d’Antoine_Singlin (1607-1664), Supérieur de Port-Royal</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne-Claire Josse pour obtenir le diplôme d’archiviste paléographe</p>		

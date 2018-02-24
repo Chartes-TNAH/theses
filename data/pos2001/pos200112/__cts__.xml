@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200112"
     urn="urn:cts:freLit:pos2001.pos200112" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le comité des travaux historiques et scientifiques (1834-1914), entre animation et contrôle du mouvement scientifique en France</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200112" urn="urn:cts:freLit:pos2001.pos200112.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200112" urn="urn:cts:freLit:pos2001.pos200112.position-200112">
         <ti:label xml:lang="fre"><title type="main">Le comité des travaux historiques et scientifiques (1834-1914), entre animation et contrôle du mouvement scientifique en France</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Rodolphe Leroy pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200828"
     urn="urn:cts:freLit:pos2008.pos200828" xml:lang="fre"> 
     <ti:title xml:lang="fre">Édouard Reuss (1804-1891), Erinnerungen aus meinem Leben. Édition partielle (1846-1872) et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200828" urn="urn:cts:freLit:pos2008.pos200828.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200828" urn="urn:cts:freLit:pos2008.pos200828.position-200828">
         <ti:label xml:lang="fre"><title type="main">Édouard Reuss (1804-1891), Erinnerungen aus meinem Leben. Édition partielle (1846-1872) et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Caroline Woessner pour obtenir le diplôme d’archiviste paléographe</p>		

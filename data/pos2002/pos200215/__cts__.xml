@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200215"
     urn="urn:cts:freLit:pos2002.pos200215" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’usine et la ville : le cas de l’Ouest parisien (Chaillot, Bas-Passy, Ternes, Batignolles)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200215" urn="urn:cts:freLit:pos2002.pos200215.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200215" urn="urn:cts:freLit:pos2002.pos200215.position-200215">
         <ti:label xml:lang="fre"><title type="main">L’usine et la ville : le cas de l’Ouest parisien (Chaillot, Bas-Passy, Ternes, Batignolles)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Évelyne Lohr pour obtenir le diplôme d’archiviste paléographe</p>		

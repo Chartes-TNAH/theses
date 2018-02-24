@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200404"
     urn="urn:cts:freLit:pos2004.pos200404" xml:lang="fre"> 
     <ti:title xml:lang="fre">Germain_Louis_Chauvelin (1685-1762), ministre de Louis_XV</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200404" urn="urn:cts:freLit:pos2004.pos200404.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200404" urn="urn:cts:freLit:pos2004.pos200404.position-200404">
         <ti:label xml:lang="fre"><title type="main">Germain_Louis_Chauvelin (1685-1762), ministre de Louis_XV</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alix Bréban pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201526"
     urn="urn:cts:freLit:pos2015.pos201526" xml:lang="fre"> 
     <ti:title xml:lang="fre">Verre et verriers à Paris dans la seconde moitié du <abbr>xvi</abbr><sup>e</sup> siècle (1547-1610)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201526" urn="urn:cts:freLit:pos2015.pos201526.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201526" urn="urn:cts:freLit:pos2015.pos201526.position-201526">
         <ti:label xml:lang="fre"><title type="main">Verre et verriers à Paris dans la seconde moitié du <abbr>xvi</abbr><sup>e</sup> siècle (1547-1610)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Élise Vanriest pour obtenir le diplôme d’archiviste paléographe</p>		

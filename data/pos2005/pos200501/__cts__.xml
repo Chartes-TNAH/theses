@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200501"
     urn="urn:cts:freLit:pos2005.pos200501" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’acte souverain solennel, image des pouvoirs européens au <abbr>xii<sup>e</sup></abbr> siècle. Étude assistée par l’imagerie numérique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200501" urn="urn:cts:freLit:pos2005.pos200501.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200501" urn="urn:cts:freLit:pos2005.pos200501.position-200501">
         <ti:label xml:lang="fre"><title type="main">L’acte souverain solennel, image des pouvoirs européens au <abbr>xii<sup>e</sup></abbr> siècle. Étude assistée par l’imagerie numérique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par John Perry Archer pour obtenir le diplôme d’archiviste paléographe</p>		

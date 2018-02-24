@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201512"
     urn="urn:cts:freLit:pos2015.pos201512" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’abbaye cistercienne de Vauclair et sa bibliothèque. Lire et écrire dans une abbaye cistercienne du Moyen Âge au <abbr>xviii</abbr><sup>e</sup> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201512" urn="urn:cts:freLit:pos2015.pos201512.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201512" urn="urn:cts:freLit:pos2015.pos201512.position-201512">
         <ti:label xml:lang="fre"><title type="main">L’abbaye cistercienne de Vauclair et sa bibliothèque. Lire et écrire dans une abbaye cistercienne du Moyen Âge au <abbr>xviii</abbr><sup>e</sup> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Jacquemard pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200025"
     urn="urn:cts:freLit:pos2000.pos200025" xml:lang="fre"> 
     <ti:title xml:lang="fre">Un manuscrit arthurien et son commanditaire : le <i>Guiron_le_Courtois</i> de Bernarbo_Visconti (BNF, ms n.a.f. 5243)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200025" urn="urn:cts:freLit:pos2000.pos200025.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200025" urn="urn:cts:freLit:pos2000.pos200025.position-200025">
         <ti:label xml:lang="fre"><title type="main">Un manuscrit arthurien et son commanditaire : le <i>Guiron_le_Courtois</i> de Bernarbo_Visconti (BNF, ms n.a.f. 5243)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aurélie Lauby pour obtenir le diplôme d’archiviste paléographe</p>		

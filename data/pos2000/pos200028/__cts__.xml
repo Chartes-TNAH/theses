@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200028"
     urn="urn:cts:freLit:pos2000.pos200028" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les expéditions françaises en Floride (1562-1568)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200028" urn="urn:cts:freLit:pos2000.pos200028.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200028" urn="urn:cts:freLit:pos2000.pos200028.position-200028">
         <ti:label xml:lang="fre"><title type="main">Les expéditions françaises en Floride (1562-1568)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Lhoumeau pour obtenir le diplôme d’archiviste paléographe</p>		

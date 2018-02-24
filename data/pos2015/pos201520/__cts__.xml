@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201520"
     urn="urn:cts:freLit:pos2015.pos201520" xml:lang="fre"> 
     <ti:title xml:lang="fre">Souvenirs et impressions du siège de Paris. Édition critique et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201520" urn="urn:cts:freLit:pos2015.pos201520.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201520" urn="urn:cts:freLit:pos2015.pos201520.position-201520">
         <ti:label xml:lang="fre"><title type="main">Souvenirs et impressions du siège de Paris. Édition critique et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Louis Paris pour obtenir le diplôme d’archiviste paléographe</p>		

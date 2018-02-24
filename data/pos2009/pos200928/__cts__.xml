@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200928"
     urn="urn:cts:freLit:pos2009.pos200928" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’ambassade de Caulaincourt à Saint-Pétersbourg (1807-1811). Représentation et négociations politiques durant l’alliance franco-russe</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200928" urn="urn:cts:freLit:pos2009.pos200928.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200928" urn="urn:cts:freLit:pos2009.pos200928.position-200928">
         <ti:label xml:lang="fre"><title type="main">L’ambassade de Caulaincourt à Saint-Pétersbourg (1807-1811). Représentation et négociations politiques durant l’alliance franco-russe</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Olivier Varlan pour obtenir le diplôme d’archiviste paléographe</p>		

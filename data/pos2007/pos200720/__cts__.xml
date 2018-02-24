@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200720"
     urn="urn:cts:freLit:pos2007.pos200720" xml:lang="fre"> 
     <ti:title xml:lang="fre">La mise en archives du Trésor des chartes (XIII<sup>e</sup>-XIX<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200720" urn="urn:cts:freLit:pos2007.pos200720.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200720" urn="urn:cts:freLit:pos2007.pos200720.position-200720">
         <ti:label xml:lang="fre"><title type="main">La mise en archives du Trésor des chartes (XIII<sup>e</sup>-XIX<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Yann Potin pour obtenir le diplôme d’archiviste paléographe</p>		

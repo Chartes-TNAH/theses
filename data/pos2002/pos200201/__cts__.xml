@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200201"
     urn="urn:cts:freLit:pos2002.pos200201" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les œuvres en prose de Catherine d’Amboise (1482-1550) : œuvres</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200201" urn="urn:cts:freLit:pos2002.pos200201.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200201" urn="urn:cts:freLit:pos2002.pos200201.position-200201">
         <ti:label xml:lang="fre"><title type="main">Les œuvres en prose de Catherine d’Amboise (1482-1550) : œuvres</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Ariane Bergeron-Foote pour obtenir le diplôme d’archiviste paléographe</p>		

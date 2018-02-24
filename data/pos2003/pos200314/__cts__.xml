@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200314"
     urn="urn:cts:freLit:pos2003.pos200314" xml:lang="fre"> 
     <ti:title xml:lang="fre">“Soustenir les povres”. Un hôpital au Moyen_Âge : l’hôtel-Dieu_Saint-Nicolas_de_Troyes, du <abbr>xiii<sup>e</sup></abbr> au <abbr>xv<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200314" urn="urn:cts:freLit:pos2003.pos200314.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200314" urn="urn:cts:freLit:pos2003.pos200314.position-200314">
         <ti:label xml:lang="fre"><title type="main">“Soustenir les povres”. Un hôpital au Moyen_Âge : l’hôtel-Dieu_Saint-Nicolas_de_Troyes, du <abbr>xiii<sup>e</sup></abbr> au <abbr>xv<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Julie Gesret pour obtenir le diplôme d’archiviste paléographe</p>		

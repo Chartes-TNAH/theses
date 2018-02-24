@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200005"
     urn="urn:cts:freLit:pos2000.pos200005" xml:lang="fre"> 
     <ti:title xml:lang="fre">Contribution à l’étude de l’Église orthodoxe en Crète vénitienne (XIII<sup>e</sup>-XIV<sup>e</sup> siècles)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200005" urn="urn:cts:freLit:pos2000.pos200005.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200005" urn="urn:cts:freLit:pos2000.pos200005.position-200005">
         <ti:label xml:lang="fre"><title type="main">Contribution à l’étude de l’Église orthodoxe en Crète vénitienne (XIII<sup>e</sup>-XIV<sup>e</sup> siècles)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Claire Bonnélie pour obtenir le diplôme d’archiviste paléographe</p>		

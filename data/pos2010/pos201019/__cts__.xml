@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201019"
     urn="urn:cts:freLit:pos2010.pos201019" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’iconographie de Caïn et Abel en France du <abbr>xi<sup>e</sup></abbr> siècle au début du <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201019" urn="urn:cts:freLit:pos2010.pos201019.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201019" urn="urn:cts:freLit:pos2010.pos201019.position-201019">
         <ti:label xml:lang="fre"><title type="main">L’iconographie de Caïn et Abel en France du <abbr>xi<sup>e</sup></abbr> siècle au début du <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sabine Maffre pour obtenir le diplôme d’archiviste paléographe</p>		

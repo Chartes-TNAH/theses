@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200821"
     urn="urn:cts:freLit:pos2008.pos200821" xml:lang="fre"> 
     <ti:title xml:lang="fre">« Tam Parisius quam alibi ». Unité et pluralité de la chancellerie royale au temps de Charles_VII (1418-1461)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200821" urn="urn:cts:freLit:pos2008.pos200821.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200821" urn="urn:cts:freLit:pos2008.pos200821.position-200821">
         <ti:label xml:lang="fre"><title type="main">« Tam Parisius quam alibi ». Unité et pluralité de la chancellerie royale au temps de Charles_VII (1418-1461)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Larcher pour obtenir le diplôme d’archiviste paléographe</p>		

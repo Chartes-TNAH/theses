@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201219"
     urn="urn:cts:freLit:pos2012.pos201219" xml:lang="fre"> 
     <ti:title xml:lang="fre">La <i>Nouvelle Revue française</i>, « entre Ordre et Aventure ». Jean Paulhan et Marcel Arland. Correspondance (1924-1929)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201219" urn="urn:cts:freLit:pos2012.pos201219.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201219" urn="urn:cts:freLit:pos2012.pos201219.position-201219">
         <ti:label xml:lang="fre"><title type="main">La <i>Nouvelle Revue française</i>, « entre Ordre et Aventure ». Jean Paulhan et Marcel Arland. Correspondance (1924-1929)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sophie Martin pour obtenir le diplôme d’archiviste paléographe</p>		

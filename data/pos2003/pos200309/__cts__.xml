@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200309"
     urn="urn:cts:freLit:pos2003.pos200309" xml:lang="fre"> 
     <ti:title xml:lang="fre">Sir James_Hall, un homme de science dans la Révolution. Édition critique et commentaire de son journal de voyage en France (avril-août 1791)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200309" urn="urn:cts:freLit:pos2003.pos200309.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200309" urn="urn:cts:freLit:pos2003.pos200309.position-200309">
         <ti:label xml:lang="fre"><title type="main">Sir James_Hall, un homme de science dans la Révolution. Édition critique et commentaire de son journal de voyage en France (avril-août 1791)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Elizabeth Denton pour obtenir le diplôme d’archiviste paléographe</p>		
