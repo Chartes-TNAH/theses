@@ -18,7 +18,7 @@
               <attribute name="ref">
                 <data type="anyURI"/>
               </attribute>
-              <data type="NCName"/>
+              <text/>
             </element>
           </element>
           <element name="editionStmt">
@@ -136,7 +136,21 @@
           <data type="NCName"/>
         </attribute>
       </optional>
-      <text/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <element name="abbr">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <element name="sup">
+                  <data type="NCName"/>
+                </element>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
     </element>
   </define>
   <define name="publisher">
@@ -155,7 +169,7 @@
             <attribute name="unit">
               <data type="NCName"/>
             </attribute>
-            <data type="NCName"/>
+            <data type="NMTOKEN"/>
           </element>
           <element name="pubPlace">
             <data type="NCName"/>
@@ -210,9 +224,9 @@
             </element>
           </choice>
         </oneOrMore>
-        <oneOrMore>
+        <zeroOrMore>
           <ref name="p"/>
-        </oneOrMore>
+        </zeroOrMore>
       </optional>
     </element>
   </define>
