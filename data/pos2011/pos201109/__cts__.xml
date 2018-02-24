@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201109"
     urn="urn:cts:freLit:pos2011.pos201109" xml:lang="fre"> 
     <ti:title xml:lang="fre">G. W. Leibniz, <i>Dynamica de potentia et legibus naturæ corporæ</i>. Matériaux pour une édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201109" urn="urn:cts:freLit:pos2011.pos201109.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201109" urn="urn:cts:freLit:pos2011.pos201109.position-201109">
         <ti:label xml:lang="fre"><title type="main">G. W. Leibniz, <i>Dynamica de potentia et legibus naturæ corporæ</i>. Matériaux pour une édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Andrea Costa pour obtenir le diplôme d’archiviste paléographe</p>		

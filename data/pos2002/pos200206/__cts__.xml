@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200206"
     urn="urn:cts:freLit:pos2002.pos200206" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les ducs de Bourbons face à la mort : les élections de sépulture (fin <abbr>xiii<sup>e</sup></abbr>-début <abbr>xvi<sup>e</sup></abbr> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200206" urn="urn:cts:freLit:pos2002.pos200206.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200206" urn="urn:cts:freLit:pos2002.pos200206.position-200206">
         <ti:label xml:lang="fre"><title type="main">Les ducs de Bourbons face à la mort : les élections de sépulture (fin <abbr>xiii<sup>e</sup></abbr>-début <abbr>xvi<sup>e</sup></abbr> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marc-Édouard Gautier pour obtenir le diplôme d’archiviste paléographe</p>		

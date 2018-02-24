@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200723"
     urn="urn:cts:freLit:pos2007.pos200723" xml:lang="fre"> 
     <ti:title xml:lang="fre">Camille_Gaston_Kahn (1864-1928). Un consul français en Chine</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200723" urn="urn:cts:freLit:pos2007.pos200723.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200723" urn="urn:cts:freLit:pos2007.pos200723.position-200723">
         <ti:label xml:lang="fre"><title type="main">Camille_Gaston_Kahn (1864-1928). Un consul français en Chine</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Soline Suchet pour obtenir le diplôme d’archiviste paléographe</p>		

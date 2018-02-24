@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200917"
     urn="urn:cts:freLit:pos2009.pos200917" xml:lang="fre"> 
     <ti:title xml:lang="fre">Au service d’un projet ambitieux. Les comptes de la fabrique de l’abbaye Saint-Oyend-de-Joux à Saint-Claude (1421-1446)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200917" urn="urn:cts:freLit:pos2009.pos200917.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200917" urn="urn:cts:freLit:pos2009.pos200917.position-200917">
         <ti:label xml:lang="fre"><title type="main">Au service d’un projet ambitieux. Les comptes de la fabrique de l’abbaye Saint-Oyend-de-Joux à Saint-Claude (1421-1446)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne-Claire Joulie-Champion pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200107"
     urn="urn:cts:freLit:pos2001.pos200107" xml:lang="fre"> 
     <ti:title xml:lang="fre">Paul-Emile_Victor (1907-1995) : biographie d’un explorateur polaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200107" urn="urn:cts:freLit:pos2001.pos200107.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200107" urn="urn:cts:freLit:pos2001.pos200107.position-200107">
         <ti:label xml:lang="fre"><title type="main">Paul-Emile_Victor (1907-1995) : biographie d’un explorateur polaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thierry Fournier pour obtenir le diplôme d’archiviste paléographe</p>		

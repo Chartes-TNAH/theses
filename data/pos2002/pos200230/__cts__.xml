@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200230"
     urn="urn:cts:freLit:pos2002.pos200230" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’homme et l’environnement dans le Marais poitevin (seconde moitié du <abbr>xvi<sup>e</sup></abbr> siècle – début du <abbr>xx<sup>e</sup></abbr> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200230" urn="urn:cts:freLit:pos2002.pos200230.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200230" urn="urn:cts:freLit:pos2002.pos200230.position-200230">
         <ti:label xml:lang="fre"><title type="main">L’homme et l’environnement dans le Marais poitevin (seconde moitié du <abbr>xvi<sup>e</sup></abbr> siècle – début du <abbr>xx<sup>e</sup></abbr> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Yannis Suire pour obtenir le diplôme d’archiviste paléographe</p>		

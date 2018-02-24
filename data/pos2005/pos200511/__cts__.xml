@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200511"
     urn="urn:cts:freLit:pos2005.pos200511" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’élaboration des lois sous Henri_II. Éléments d’une étude du pouvoir royal au milieu du <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200511" urn="urn:cts:freLit:pos2005.pos200511.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200511" urn="urn:cts:freLit:pos2005.pos200511.position-200511">
         <ti:label xml:lang="fre"><title type="main">L’élaboration des lois sous Henri_II. Éléments d’une étude du pouvoir royal au milieu du <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Grange pour obtenir le diplôme d’archiviste paléographe</p>		

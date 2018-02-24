@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200605"
     urn="urn:cts:freLit:pos2006.pos200605" xml:lang="fre"> 
     <ti:title xml:lang="fre">Arts et gens du spectacle à Avignon à la fin du Moyen_Âge (1450-1550), d’après les archives communales d’Avignon</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200605" urn="urn:cts:freLit:pos2006.pos200605.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200605" urn="urn:cts:freLit:pos2006.pos200605.position-200605">
         <ti:label xml:lang="fre"><title type="main">Arts et gens du spectacle à Avignon à la fin du Moyen_Âge (1450-1550), d’après les archives communales d’Avignon</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Matthieu Bonicel pour obtenir le diplôme d’archiviste paléographe</p>		

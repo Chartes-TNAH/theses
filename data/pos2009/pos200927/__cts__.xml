@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200927"
     urn="urn:cts:freLit:pos2009.pos200927" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le Grand insulaire et pilotage d’André_Thevet, cosmographe du roi. Édition critique partielle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200927" urn="urn:cts:freLit:pos2009.pos200927.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200927" urn="urn:cts:freLit:pos2009.pos200927.position-200927">
         <ti:label xml:lang="fre"><title type="main">Le Grand insulaire et pilotage d’André_Thevet, cosmographe du roi. Édition critique partielle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Daniela Valle Loro, de pour obtenir le diplôme d’archiviste paléographe</p>		

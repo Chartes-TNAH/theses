@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200818"
     urn="urn:cts:freLit:pos2008.pos200818" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les lettres de cachet pour affaires de famille en Franche-Comté au <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200818" urn="urn:cts:freLit:pos2008.pos200818.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200818" urn="urn:cts:freLit:pos2008.pos200818.position-200818">
         <ti:label xml:lang="fre"><title type="main">Les lettres de cachet pour affaires de famille en Franche-Comté au <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jeanne-Marie Jandeaux pour obtenir le diplôme d’archiviste paléographe</p>		

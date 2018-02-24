@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200714"
     urn="urn:cts:freLit:pos2007.pos200714" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’iconographie de saint_Antoine_de_Padoue. Sources et représentations (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200714" urn="urn:cts:freLit:pos2007.pos200714.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200714" urn="urn:cts:freLit:pos2007.pos200714.position-200714">
         <ti:label xml:lang="fre"><title type="main">L’iconographie de saint_Antoine_de_Padoue. Sources et représentations (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Mathilde Koskas pour obtenir le diplôme d’archiviste paléographe</p>		

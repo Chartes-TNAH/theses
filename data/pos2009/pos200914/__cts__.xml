@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200914"
     urn="urn:cts:freLit:pos2009.pos200914" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’enseignement de l’histoire de la médecine à Paris au <abbr>xix<sup>e</sup></abbr> siècle (1794-1914). La défaite de l’érudition</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200914" urn="urn:cts:freLit:pos2009.pos200914.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200914" urn="urn:cts:freLit:pos2009.pos200914.position-200914">
         <ti:label xml:lang="fre"><title type="main">L’enseignement de l’histoire de la médecine à Paris au <abbr>xix<sup>e</sup></abbr> siècle (1794-1914). La défaite de l’érudition</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Philippe Galanopoulos pour obtenir le diplôme d’archiviste paléographe</p>		

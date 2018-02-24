@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200213"
     urn="urn:cts:freLit:pos2002.pos200213" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>Promptuarium_exemplorum</i> de Martin_le_Polonais O.P. (†1278) : édition critique et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200213" urn="urn:cts:freLit:pos2002.pos200213.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200213" urn="urn:cts:freLit:pos2002.pos200213.position-200213">
         <ti:label xml:lang="fre"><title type="main">Le <i>Promptuarium_exemplorum</i> de Martin_le_Polonais O.P. (†1278) : édition critique et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne-Élyse Lebourgeois pour obtenir le diplôme d’archiviste paléographe</p>		

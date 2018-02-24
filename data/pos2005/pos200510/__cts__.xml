@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200510"
     urn="urn:cts:freLit:pos2005.pos200510" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’abbaye de Lessay du <abbr>ix<sup>e</sup></abbr> au <abbr>xi<sup>e</sup></abbr> siècle. Histoire et architecture</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200510" urn="urn:cts:freLit:pos2005.pos200510.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200510" urn="urn:cts:freLit:pos2005.pos200510.position-200510">
         <ti:label xml:lang="fre"><title type="main">L’abbaye de Lessay du <abbr>ix<sup>e</sup></abbr> au <abbr>xi<sup>e</sup></abbr> siècle. Histoire et architecture</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sébastien Gosselin pour obtenir le diplôme d’archiviste paléographe</p>		

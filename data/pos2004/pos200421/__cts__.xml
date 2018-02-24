@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200421"
     urn="urn:cts:freLit:pos2004.pos200421" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le grand maréchal du Palais et son service : le rôle de Géraud-Christophe-Michel_Duroc (1804-1813)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200421" urn="urn:cts:freLit:pos2004.pos200421.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200421" urn="urn:cts:freLit:pos2004.pos200421.position-200421">
         <ti:label xml:lang="fre"><title type="main">Le grand maréchal du Palais et son service : le rôle de Géraud-Christophe-Michel_Duroc (1804-1813)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nathalie Rondeau pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200407"
     urn="urn:cts:freLit:pos2004.pos200407" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’École de cavalerie de Saumur (1814-1914). La création de l’équitation militaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200407" urn="urn:cts:freLit:pos2004.pos200407.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200407" urn="urn:cts:freLit:pos2004.pos200407.position-200407">
         <ti:label xml:lang="fre"><title type="main">L’École de cavalerie de Saumur (1814-1914). La création de l’équitation militaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aurélien Conraux pour obtenir le diplôme d’archiviste paléographe</p>		

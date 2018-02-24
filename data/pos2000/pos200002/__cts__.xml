@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200002"
     urn="urn:cts:freLit:pos2000.pos200002" xml:lang="fre"> 
     <ti:title xml:lang="fre">Japonisme et érudition. Le livre japonais dans les collections d’Auguste_Lesouëf (1829-1906)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200002" urn="urn:cts:freLit:pos2000.pos200002.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200002" urn="urn:cts:freLit:pos2000.pos200002.position-200002">
         <ti:label xml:lang="fre"><title type="main">Japonisme et érudition. Le livre japonais dans les collections d’Auguste_Lesouëf (1829-1906)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Véronique Béranger pour obtenir le diplôme d’archiviste paléographe</p>		

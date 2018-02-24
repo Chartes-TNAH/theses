@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200520"
     urn="urn:cts:freLit:pos2005.pos200520" xml:lang="fre"> 
     <ti:title xml:lang="fre">Au cœur du Parti_communiste français. Les notes de bureau politique de Maurice_Thorez (1947-1964)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200520" urn="urn:cts:freLit:pos2005.pos200520.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200520" urn="urn:cts:freLit:pos2005.pos200520.position-200520">
         <ti:label xml:lang="fre"><title type="main">Au cœur du Parti_communiste français. Les notes de bureau politique de Maurice_Thorez (1947-1964)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Mathilde Regnaud pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200419"
     urn="urn:cts:freLit:pos2004.pos200419" xml:lang="fre"> 
     <ti:title xml:lang="fre">Images et usages du château de Versailles au <abbr>xx<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200419" urn="urn:cts:freLit:pos2004.pos200419.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200419" urn="urn:cts:freLit:pos2004.pos200419.position-200419">
         <ti:label xml:lang="fre"><title type="main">Images et usages du château de Versailles au <abbr>xx<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Fabien Oppermann pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200217"
     urn="urn:cts:freLit:pos2002.pos200217" xml:lang="fre"> 
     <ti:title xml:lang="fre">La boîte à Perrette : approches des finances du mouvement janséniste au <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200217" urn="urn:cts:freLit:pos2002.pos200217.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200217" urn="urn:cts:freLit:pos2002.pos200217.position-200217">
         <ti:label xml:lang="fre"><title type="main">La boîte à Perrette : approches des finances du mouvement janséniste au <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nicolas Lyon-Caen pour obtenir le diplôme d’archiviste paléographe</p>		

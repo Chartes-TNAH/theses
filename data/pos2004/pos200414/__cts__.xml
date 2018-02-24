@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200414"
     urn="urn:cts:freLit:pos2004.pos200414" xml:lang="fre"> 
     <ti:title xml:lang="fre">François_Le_Métel_de_Boisrobert (1592-1662), écrivain et homme de pouvoir</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200414" urn="urn:cts:freLit:pos2004.pos200414.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200414" urn="urn:cts:freLit:pos2004.pos200414.position-200414">
         <ti:label xml:lang="fre"><title type="main">François_Le_Métel_de_Boisrobert (1592-1662), écrivain et homme de pouvoir</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anastasia Iline pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201214"
     urn="urn:cts:freLit:pos2012.pos201214" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’École des arts décoratifs de Strasbourg de 1919 à 1939. Entre méthodes allemandes et méthodes françaises</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201214" urn="urn:cts:freLit:pos2012.pos201214.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201214" urn="urn:cts:freLit:pos2012.pos201214.position-201214">
         <ti:label xml:lang="fre"><title type="main">L’École des arts décoratifs de Strasbourg de 1919 à 1939. Entre méthodes allemandes et méthodes françaises</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nelly Koenig pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200809"
     urn="urn:cts:freLit:pos2008.pos200809" xml:lang="fre"> 
     <ti:title xml:lang="fre">La Notomia_de_Anric_de_Mondavilla, traduction occitane de l’Anatomia d’Henri_de_Mondeville. Édition critique et étude du vocabulaire scientifique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200809" urn="urn:cts:freLit:pos2008.pos200809.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200809" urn="urn:cts:freLit:pos2008.pos200809.position-200809">
         <ti:label xml:lang="fre"><title type="main">La Notomia_de_Anric_de_Mondavilla, traduction occitane de l’Anatomia d’Henri_de_Mondeville. Édition critique et étude du vocabulaire scientifique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Laure Combes pour obtenir le diplôme d’archiviste paléographe</p>		

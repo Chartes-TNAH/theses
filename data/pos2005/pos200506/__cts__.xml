@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200506"
     urn="urn:cts:freLit:pos2005.pos200506" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les Français et la vie culturelle en Tunisie durant la Seconde_Guerre_mondiale</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200506" urn="urn:cts:freLit:pos2005.pos200506.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200506" urn="urn:cts:freLit:pos2005.pos200506.position-200506">
         <ti:label xml:lang="fre"><title type="main">Les Français et la vie culturelle en Tunisie durant la Seconde_Guerre_mondiale</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Morgan Corriou pour obtenir le diplôme d’archiviste paléographe</p>		

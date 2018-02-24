@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200617"
     urn="urn:cts:freLit:pos2006.pos200617" xml:lang="fre"> 
     <ti:title xml:lang="fre">La représentation diplomatique française en Russie dans la seconde moitié du <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200617" urn="urn:cts:freLit:pos2006.pos200617.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200617" urn="urn:cts:freLit:pos2006.pos200617.position-200617">
         <ti:label xml:lang="fre"><title type="main">La représentation diplomatique française en Russie dans la seconde moitié du <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Fanny Lambert pour obtenir le diplôme d’archiviste paléographe</p>		

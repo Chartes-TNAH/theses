@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200321"
     urn="urn:cts:freLit:pos2003.pos200321" xml:lang="fre"> 
     <ti:title xml:lang="fre">La <i>Divine_tragédie</i>, projet de film d’Abel_Gance</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200321" urn="urn:cts:freLit:pos2003.pos200321.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200321" urn="urn:cts:freLit:pos2003.pos200321.position-200321">
         <ti:label xml:lang="fre"><title type="main">La <i>Divine_tragédie</i>, projet de film d’Abel_Gance</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Xavier Sené pour obtenir le diplôme d’archiviste paléographe</p>		

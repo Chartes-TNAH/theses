@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201119"
     urn="urn:cts:freLit:pos2011.pos201119" xml:lang="fre"> 
     <ti:title xml:lang="fre">Achille Millien (1838-1927). Une entreprise folkloriste en Nivernais</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201119" urn="urn:cts:freLit:pos2011.pos201119.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201119" urn="urn:cts:freLit:pos2011.pos201119.position-201119">
         <ti:label xml:lang="fre"><title type="main">Achille Millien (1838-1927). Une entreprise folkloriste en Nivernais</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre Marcotte pour obtenir le diplôme d’archiviste paléographe</p>		

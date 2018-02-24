@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200320"
     urn="urn:cts:freLit:pos2003.pos200320" xml:lang="fre"> 
     <ti:title xml:lang="fre">Martial et Adémar. Édition de 23 sermons du manuscrit autographe d’Adémar_de_Chabannes, BNF lat 2469 (fol. 1-76) (circa 1030)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200320" urn="urn:cts:freLit:pos2003.pos200320.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200320" urn="urn:cts:freLit:pos2003.pos200320.position-200320">
         <ti:label xml:lang="fre"><title type="main">Martial et Adémar. Édition de 23 sermons du manuscrit autographe d’Adémar_de_Chabannes, BNF lat 2469 (fol. 1-76) (circa 1030)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Raphaël Richter pour obtenir le diplôme d’archiviste paléographe</p>		

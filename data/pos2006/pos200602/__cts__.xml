@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200602"
     urn="urn:cts:freLit:pos2006.pos200602" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le renseignement français auprès du Roi Catholique (1630-1635)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200602" urn="urn:cts:freLit:pos2006.pos200602.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200602" urn="urn:cts:freLit:pos2006.pos200602.position-200602">
         <ti:label xml:lang="fre"><title type="main">Le renseignement français auprès du Roi Catholique (1630-1635)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Becdelièvre, De pour obtenir le diplôme d’archiviste paléographe</p>		

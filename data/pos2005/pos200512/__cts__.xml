@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200512"
     urn="urn:cts:freLit:pos2005.pos200512" xml:lang="fre"> 
     <ti:title xml:lang="fre">Art, artistes et commanditaires. dans la région de Châlons (1470-1575)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200512" urn="urn:cts:freLit:pos2005.pos200512.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200512" urn="urn:cts:freLit:pos2005.pos200512.position-200512">
         <ti:label xml:lang="fre"><title type="main">Art, artistes et commanditaires. dans la région de Châlons (1470-1575)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Maxence Hermant pour obtenir le diplôme d’archiviste paléographe</p>		

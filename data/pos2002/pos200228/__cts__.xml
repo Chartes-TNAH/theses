@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200228"
     urn="urn:cts:freLit:pos2002.pos200228" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les éditions René_Kieffer (1909-1950)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200228" urn="urn:cts:freLit:pos2002.pos200228.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200228" urn="urn:cts:freLit:pos2002.pos200228.position-200228">
         <ti:label xml:lang="fre"><title type="main">Les éditions René_Kieffer (1909-1950)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Agathe Sanjuan pour obtenir le diplôme d’archiviste paléographe</p>		

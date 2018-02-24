@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200101"
     urn="urn:cts:freLit:pos2001.pos200101" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le Couvent_des_Mathurins de Paris et l’estampe au <abbr>xvii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200101" urn="urn:cts:freLit:pos2001.pos200101.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200101" urn="urn:cts:freLit:pos2001.pos200101.position-200101">
         <ti:label xml:lang="fre"><title type="main">Le Couvent_des_Mathurins de Paris et l’estampe au <abbr>xvii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Emmanuelle Bermès pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201322"
     urn="urn:cts:freLit:pos2013.pos201322" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le scotisme de Himbert de Garda O.F.M. (<abbr>xiv</abbr><sup>e</sup> siècle) : édition commentée de son premier livre du Commentaire du Livre des Sentences</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201322" urn="urn:cts:freLit:pos2013.pos201322.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201322" urn="urn:cts:freLit:pos2013.pos201322.position-201322">
         <ti:label xml:lang="fre"><title type="main">Le scotisme de Himbert de Garda O.F.M. (<abbr>xiv</abbr><sup>e</sup> siècle) : édition commentée de son premier livre du Commentaire du Livre des Sentences</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Baptiste Susini pour obtenir le diplôme d’archiviste paléographe</p>		

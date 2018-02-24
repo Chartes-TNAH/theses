@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200722"
     urn="urn:cts:freLit:pos2007.pos200722" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le collectionneur François-Roger_de_Gaignières (1642-1715). Biographie et méthodes de collection. Catalogue de ses manuscrits</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200722" urn="urn:cts:freLit:pos2007.pos200722.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200722" urn="urn:cts:freLit:pos2007.pos200722.position-200722">
         <ti:label xml:lang="fre"><title type="main">Le collectionneur François-Roger_de_Gaignières (1642-1715). Biographie et méthodes de collection. Catalogue de ses manuscrits</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Clotilde Romet pour obtenir le diplôme d’archiviste paléographe</p>		

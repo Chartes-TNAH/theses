@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201517"
     urn="urn:cts:freLit:pos2015.pos201517" xml:lang="fre"> 
     <ti:title xml:lang="fre">Quand un prélat monte à la capitale. Tristan de Salazar et l’hôtel parisien des archevêques de Sens</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201517" urn="urn:cts:freLit:pos2015.pos201517.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201517" urn="urn:cts:freLit:pos2015.pos201517.position-201517">
         <ti:label xml:lang="fre"><title type="main">Quand un prélat monte à la capitale. Tristan de Salazar et l’hôtel parisien des archevêques de Sens</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thomas Morel pour obtenir le diplôme d’archiviste paléographe</p>		

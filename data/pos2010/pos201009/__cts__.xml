@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201009"
     urn="urn:cts:freLit:pos2010.pos201009" xml:lang="fre"> 
     <ti:title xml:lang="fre">Droit et répression de l’hérésie à Toulouse au <abbr>xvi<sup>e</sup></abbr> siècle. La <i>Repetitio_de_inquisitione_hereticorum</i> de Nicolas_Bertrand (Toulouse, 1512)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201009" urn="urn:cts:freLit:pos2010.pos201009.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201009" urn="urn:cts:freLit:pos2010.pos201009.position-201009">
         <ti:label xml:lang="fre"><title type="main">Droit et répression de l’hérésie à Toulouse au <abbr>xvi<sup>e</sup></abbr> siècle. La <i>Repetitio_de_inquisitione_hereticorum</i> de Nicolas_Bertrand (Toulouse, 1512)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cyril Daydé pour obtenir le diplôme d’archiviste paléographe</p>		

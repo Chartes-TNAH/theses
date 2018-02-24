@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201514"
     urn="urn:cts:freLit:pos2015.pos201514" xml:lang="fre"> 
     <ti:title xml:lang="fre">Édition critique du Trialogue Quiéret (1461)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201514" urn="urn:cts:freLit:pos2015.pos201514.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201514" urn="urn:cts:freLit:pos2015.pos201514.position-201514">
         <ti:label xml:lang="fre"><title type="main">Édition critique du Trialogue Quiéret (1461)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Landais pour obtenir le diplôme d’archiviste paléographe</p>		

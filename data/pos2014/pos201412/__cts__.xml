@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201412"
     urn="urn:cts:freLit:pos2014.pos201412" xml:lang="fre"> 
     <ti:title xml:lang="fre">L'Institut de psychologie de l'université de Paris (1920-1970)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201412" urn="urn:cts:freLit:pos2014.pos201412.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201412" urn="urn:cts:freLit:pos2014.pos201412.position-201412">
         <ti:label xml:lang="fre"><title type="main">L'Institut de psychologie de l'université de Paris (1920-1970)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Laura Le Coz pour obtenir le diplôme d’archiviste paléographe</p>		

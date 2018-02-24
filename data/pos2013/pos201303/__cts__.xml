@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201303"
     urn="urn:cts:freLit:pos2013.pos201303" xml:lang="fre"> 
     <ti:title xml:lang="fre">Un administrateur éclairé au « caractère original » : le général Fornier d'Albe (1769-1814)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201303" urn="urn:cts:freLit:pos2013.pos201303.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201303" urn="urn:cts:freLit:pos2013.pos201303.position-201303">
         <ti:label xml:lang="fre"><title type="main">Un administrateur éclairé au « caractère original » : le général Fornier d'Albe (1769-1814)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thomas Bernard pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201419"
     urn="urn:cts:freLit:pos2014.pos201419" xml:lang="fre"> 
     <ti:title xml:lang="fre">La guerre des glaces : étude des quartiers d’hiver de l’armée de Flandre (octobre 1711-avril 1712)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201419" urn="urn:cts:freLit:pos2014.pos201419.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201419" urn="urn:cts:freLit:pos2014.pos201419.position-201419">
         <ti:label xml:lang="fre"><title type="main">La guerre des glaces : étude des quartiers d’hiver de l’armée de Flandre (octobre 1711-avril 1712)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par François Royal pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200225"
     urn="urn:cts:freLit:pos2002.pos200225" xml:lang="fre"> 
     <ti:title xml:lang="fre">Michel_Chamillart, ministre et secrétaire_d_État_de_la_guerre de Louis_XIV (1654-1721)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200225" urn="urn:cts:freLit:pos2002.pos200225.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200225" urn="urn:cts:freLit:pos2002.pos200225.position-200225">
         <ti:label xml:lang="fre"><title type="main">Michel_Chamillart, ministre et secrétaire_d_État_de_la_guerre de Louis_XIV (1654-1721)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Emmanuel Penicaut pour obtenir le diplôme d’archiviste paléographe</p>		

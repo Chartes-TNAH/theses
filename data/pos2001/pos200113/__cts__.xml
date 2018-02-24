@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200113"
     urn="urn:cts:freLit:pos2001.pos200113" xml:lang="fre"> 
     <ti:title xml:lang="fre">Tristan_Tzara et le livre : ses éditeurs et ses illustrateurs</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200113" urn="urn:cts:freLit:pos2001.pos200113.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200113" urn="urn:cts:freLit:pos2001.pos200113.position-200113">
         <ti:label xml:lang="fre"><title type="main">Tristan_Tzara et le livre : ses éditeurs et ses illustrateurs</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Lévy-Bruhl pour obtenir le diplôme d’archiviste paléographe</p>		

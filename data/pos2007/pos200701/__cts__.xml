@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200701"
     urn="urn:cts:freLit:pos2007.pos200701" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les mises en scène de Géo_Sandry pour le Cirque_d_Hiver (1933-1954). Le grand spectacle, histoire d’un goût</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200701" urn="urn:cts:freLit:pos2007.pos200701.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200701" urn="urn:cts:freLit:pos2007.pos200701.position-200701">
         <ti:label xml:lang="fre"><title type="main">Les mises en scène de Géo_Sandry pour le Cirque_d_Hiver (1933-1954). Le grand spectacle, histoire d’un goût</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Clotilde Angleys pour obtenir le diplôme d’archiviste paléographe</p>		

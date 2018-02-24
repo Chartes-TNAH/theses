@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200103"
     urn="urn:cts:freLit:pos2001.pos200103" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’architecture d’inspiration islamique à Paris au <abbr>xix<sup>e</sup></abbr> siècle : une définition de l’orientalisme architectural</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200103" urn="urn:cts:freLit:pos2001.pos200103.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200103" urn="urn:cts:freLit:pos2001.pos200103.position-200103">
         <ti:label xml:lang="fre"><title type="main">L’architecture d’inspiration islamique à Paris au <abbr>xix<sup>e</sup></abbr> siècle : une définition de l’orientalisme architectural</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Lorraine Declety pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200304"
     urn="urn:cts:freLit:pos2003.pos200304" xml:lang="fre"> 
     <ti:title xml:lang="fre">Étude comparée des diplômes de Louis_le_Germanique et de Charles_le_Chauve (829-877)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200304" urn="urn:cts:freLit:pos2003.pos200304.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200304" urn="urn:cts:freLit:pos2003.pos200304.position-200304">
         <ti:label xml:lang="fre"><title type="main">Étude comparée des diplômes de Louis_le_Germanique et de Charles_le_Chauve (829-877)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nicholas Brousseau pour obtenir le diplôme d’archiviste paléographe</p>		

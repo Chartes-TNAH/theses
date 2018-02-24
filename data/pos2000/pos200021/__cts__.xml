@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200021"
     urn="urn:cts:freLit:pos2000.pos200021" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les <i>Mirabilia_descripta</i> de Jordan_Catala_de_Sévérac. Une image de l’Orient au <abbr>xiv<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200021" urn="urn:cts:freLit:pos2000.pos200021.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200021" urn="urn:cts:freLit:pos2000.pos200021.position-200021">
         <ti:label xml:lang="fre"><title type="main">Les <i>Mirabilia_descripta</i> de Jordan_Catala_de_Sévérac. Une image de l’Orient au <abbr>xiv<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Christine Gadrat pour obtenir le diplôme d’archiviste paléographe</p>		

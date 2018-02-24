@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200319"
     urn="urn:cts:freLit:pos2003.pos200319" xml:lang="fre"> 
     <ti:title xml:lang="fre">Guillaume_de_Nogaret et la pratique du pouvoir</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200319" urn="urn:cts:freLit:pos2003.pos200319.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200319" urn="urn:cts:freLit:pos2003.pos200319.position-200319">
         <ti:label xml:lang="fre"><title type="main">Guillaume_de_Nogaret et la pratique du pouvoir</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sébastien Nadiras pour obtenir le diplôme d’archiviste paléographe</p>		

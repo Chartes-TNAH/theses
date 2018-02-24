@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200808"
     urn="urn:cts:freLit:pos2008.pos200808" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’administration d’Alphonse_de_Poitiers en Poitou et en Saintonge. (1241-1271)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200808" urn="urn:cts:freLit:pos2008.pos200808.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200808" urn="urn:cts:freLit:pos2008.pos200808.position-200808">
         <ti:label xml:lang="fre"><title type="main">L’administration d’Alphonse_de_Poitiers en Poitou et en Saintonge. (1241-1271)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Gaël Chenard pour obtenir le diplôme d’archiviste paléographe</p>		

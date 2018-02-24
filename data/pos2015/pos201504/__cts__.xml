@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201504"
     urn="urn:cts:freLit:pos2015.pos201504" xml:lang="fre"> 
     <ti:title xml:lang="fre">Confiscations en Catalogne française (1642-1652). La faveur royale loin du roi</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201504" urn="urn:cts:freLit:pos2015.pos201504.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201504" urn="urn:cts:freLit:pos2015.pos201504.position-201504">
         <ti:label xml:lang="fre"><title type="main">Confiscations en Catalogne française (1642-1652). La faveur royale loin du roi</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sylvain Chevauché pour obtenir le diplôme d’archiviste paléographe</p>		

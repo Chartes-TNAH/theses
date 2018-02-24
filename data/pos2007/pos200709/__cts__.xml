@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200709"
     urn="urn:cts:freLit:pos2007.pos200709" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’éditeur réformé Jacob_Stoer (1542-1610). Recherches sur son officine typographique d’après la bibliographie de ses éditions</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200709" urn="urn:cts:freLit:pos2007.pos200709.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200709" urn="urn:cts:freLit:pos2007.pos200709.position-200709">
         <ti:label xml:lang="fre"><title type="main">L’éditeur réformé Jacob_Stoer (1542-1610). Recherches sur son officine typographique d’après la bibliographie de ses éditions</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alain Dubois pour obtenir le diplôme d’archiviste paléographe</p>		

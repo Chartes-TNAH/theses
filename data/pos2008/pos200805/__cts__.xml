@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200805"
     urn="urn:cts:freLit:pos2008.pos200805" xml:lang="fre"> 
     <ti:title xml:lang="fre">La vie des monuments de l’État. Histoire administrative et patrimoniale de la Caisse nationale des monuments historiques (1912-1978)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200805" urn="urn:cts:freLit:pos2008.pos200805.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200805" urn="urn:cts:freLit:pos2008.pos200805.position-200805">
         <ti:label xml:lang="fre"><title type="main">La vie des monuments de l’État. Histoire administrative et patrimoniale de la Caisse nationale des monuments historiques (1912-1978)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Valérie Carpentier pour obtenir le diplôme d’archiviste paléographe</p>		

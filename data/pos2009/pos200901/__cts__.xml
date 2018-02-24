@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200901"
     urn="urn:cts:freLit:pos2009.pos200901" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les conséquences économiques et sociales de la Première_guerre_mondiale à Toulouse (1912-1922). </ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200901" urn="urn:cts:freLit:pos2009.pos200901.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200901" urn="urn:cts:freLit:pos2009.pos200901.position-200901">
         <ti:label xml:lang="fre"><title type="main">Les conséquences économiques et sociales de la Première_guerre_mondiale à Toulouse (1912-1922). </title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Alonzo pour obtenir le diplôme d’archiviste paléographe</p>		

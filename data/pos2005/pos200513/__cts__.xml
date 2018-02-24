@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200513"
     urn="urn:cts:freLit:pos2005.pos200513" xml:lang="fre"> 
     <ti:title xml:lang="fre">Une nouvelle édition du <em>Bestiaire</em> de Philippe_de_Thaon</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200513" urn="urn:cts:freLit:pos2005.pos200513.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200513" urn="urn:cts:freLit:pos2005.pos200513.position-200513">
         <ti:label xml:lang="fre"><title type="main">Une nouvelle édition du <em>Bestiaire</em> de Philippe_de_Thaon</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Shannon Hogan Cottin-Bizonne pour obtenir le diplôme d’archiviste paléographe</p>		

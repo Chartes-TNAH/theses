@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200104"
     urn="urn:cts:freLit:pos2001.pos200104" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les chantiers du pouvoir urbain: beffrois et hôtels de ville à la fin du Moyen_Âge en Flandre française</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200104" urn="urn:cts:freLit:pos2001.pos200104.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200104" urn="urn:cts:freLit:pos2001.pos200104.position-200104">
         <ti:label xml:lang="fre"><title type="main">Les chantiers du pouvoir urbain: beffrois et hôtels de ville à la fin du Moyen_Âge en Flandre française</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Laure Delrue pour obtenir le diplôme d’archiviste paléographe</p>		

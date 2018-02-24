@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200916"
     urn="urn:cts:freLit:pos2009.pos200916" xml:lang="fre"> 
     <ti:title xml:lang="fre">Au service de Henri_II. Jean_Du_Bellay à Rome à travers sa correspondance (1547-1560)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200916" urn="urn:cts:freLit:pos2009.pos200916.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200916" urn="urn:cts:freLit:pos2009.pos200916.position-200916">
         <ti:label xml:lang="fre"><title type="main">Au service de Henri_II. Jean_Du_Bellay à Rome à travers sa correspondance (1547-1560)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nathalie Guillod pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201427"
     urn="urn:cts:freLit:pos2014.pos201427" xml:lang="fre"> 
     <ti:title xml:lang="fre">Jacques-Guillaume Legrand (1753-1807) : pratique, théorie et histoire de l'architecture à la fin du <abbr>xviii</abbr><sup>e</sup> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201427" urn="urn:cts:freLit:pos2014.pos201427.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201427" urn="urn:cts:freLit:pos2014.pos201427.position-201427">
         <ti:label xml:lang="fre"><title type="main">Jacques-Guillaume Legrand (1753-1807) : pratique, théorie et histoire de l'architecture à la fin du <abbr>xviii</abbr><sup>e</sup> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Manon Vidal pour obtenir le diplôme d’archiviste paléographe</p>		

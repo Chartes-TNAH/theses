@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201209"
     urn="urn:cts:freLit:pos2012.pos201209" xml:lang="fre"> 
     <ti:title xml:lang="fre">« Car la vie menee sans doctrine semble à la mort qu’on paint ou ymagine ». Étude et édition critique de la traduction des <i>Disticha Catonis</i> par Jean Le Fèvre</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201209" urn="urn:cts:freLit:pos2012.pos201209.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201209" urn="urn:cts:freLit:pos2012.pos201209.position-201209">
         <ti:label xml:lang="fre"><title type="main">« Car la vie menee sans doctrine semble à la mort qu’on paint ou ymagine ». Étude et édition critique de la traduction des <i>Disticha Catonis</i> par Jean Le Fèvre</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Lucie Dorsy pour obtenir le diplôme d’archiviste paléographe</p>		

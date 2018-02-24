@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200718"
     urn="urn:cts:freLit:pos2007.pos200718" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’<i>Ilias</i> de Simon_Chèvre_d_Or. Édition critique et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200718" urn="urn:cts:freLit:pos2007.pos200718.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200718" urn="urn:cts:freLit:pos2007.pos200718.position-200718">
         <ti:label xml:lang="fre"><title type="main">L’<i>Ilias</i> de Simon_Chèvre_d_Or. Édition critique et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sébastien Peyrard pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201503"
     urn="urn:cts:freLit:pos2015.pos201503" xml:lang="fre"> 
     <ti:title xml:lang="fre">Dieu, le roi et la France. Prier pour le roi sous Philippe le Bel (1285-1314)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201503" urn="urn:cts:freLit:pos2015.pos201503.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201503" urn="urn:cts:freLit:pos2015.pos201503.position-201503">
         <ti:label xml:lang="fre"><title type="main">Dieu, le roi et la France. Prier pour le roi sous Philippe le Bel (1285-1314)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Gabriel Bur pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200816"
     urn="urn:cts:freLit:pos2008.pos200816" xml:lang="fre"> 
     <ti:title xml:lang="fre">Guillaume-François_Joly_de_Fleury (1675-1756)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200816" urn="urn:cts:freLit:pos2008.pos200816.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200816" urn="urn:cts:freLit:pos2008.pos200816.position-200816">
         <ti:label xml:lang="fre"><title type="main">Guillaume-François_Joly_de_Fleury (1675-1756)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par David Feutry pour obtenir le diplôme d’archiviste paléographe</p>		

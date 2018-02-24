@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200604"
     urn="urn:cts:freLit:pos2006.pos200604" xml:lang="fre"> 
     <ti:title xml:lang="fre">Histoire d’un organe de diffusion de la culture allemande en France. La <i>Revue_germanique</i> (1905-1939)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200604" urn="urn:cts:freLit:pos2006.pos200604.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200604" urn="urn:cts:freLit:pos2006.pos200604.position-200604">
         <ti:label xml:lang="fre"><title type="main">Histoire d’un organe de diffusion de la culture allemande en France. La <i>Revue_germanique</i> (1905-1939)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Boillot pour obtenir le diplôme d’archiviste paléographe</p>		

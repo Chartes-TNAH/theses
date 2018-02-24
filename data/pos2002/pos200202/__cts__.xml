@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200202"
     urn="urn:cts:freLit:pos2002.pos200202" xml:lang="fre"> 
     <ti:title xml:lang="fre">Gentile da Foligno, médecin et universitaire du <abbr>xiv<sup>e</sup></abbr> siècle : étude et édition critique du commentaire du <i>Canon</i> d’Avicenne (3, 11, 1)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200202" urn="urn:cts:freLit:pos2002.pos200202.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200202" urn="urn:cts:freLit:pos2002.pos200202.position-200202">
         <ti:label xml:lang="fre"><title type="main">Gentile da Foligno, médecin et universitaire du <abbr>xiv<sup>e</sup></abbr> siècle : étude et édition critique du commentaire du <i>Canon</i> d’Avicenne (3, 11, 1)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Joël Chandelier pour obtenir le diplôme d’archiviste paléographe</p>		

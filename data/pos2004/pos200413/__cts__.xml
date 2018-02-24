@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200413"
     urn="urn:cts:freLit:pos2004.pos200413" xml:lang="fre"> 
     <ti:title xml:lang="fre">Louis-Antoine_de_Noailles, cardinal-archevêque de Paris (1651-1729)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200413" urn="urn:cts:freLit:pos2004.pos200413.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200413" urn="urn:cts:freLit:pos2004.pos200413.position-200413">
         <ti:label xml:lang="fre"><title type="main">Louis-Antoine_de_Noailles, cardinal-archevêque de Paris (1651-1729)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre Gombert pour obtenir le diplôme d’archiviste paléographe</p>		

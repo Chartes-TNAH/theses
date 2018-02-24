@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200921"
     urn="urn:cts:freLit:pos2009.pos200921" xml:lang="fre"> 
     <ti:title xml:lang="fre">La seigneurie du Mont-Cassin et son peuplement grec du <abbr>xi<sup>e</sup></abbr> au <abbr>xiii<sup>e</sup></abbr> siècle d’après les sources écrites et archéologiques</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200921" urn="urn:cts:freLit:pos2009.pos200921.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200921" urn="urn:cts:freLit:pos2009.pos200921.position-200921">
         <ti:label xml:lang="fre"><title type="main">La seigneurie du Mont-Cassin et son peuplement grec du <abbr>xi<sup>e</sup></abbr> au <abbr>xiii<sup>e</sup></abbr> siècle d’après les sources écrites et archéologiques</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie Ranquet pour obtenir le diplôme d’archiviste paléographe</p>		

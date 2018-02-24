@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200114"
     urn="urn:cts:freLit:pos2001.pos200114" xml:lang="fre"> 
     <ti:title xml:lang="fre">Géographie historique du domaine francoprovençal</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200114" urn="urn:cts:freLit:pos2001.pos200114.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200114" urn="urn:cts:freLit:pos2001.pos200114.position-200114">
         <ti:label xml:lang="fre"><title type="main">Géographie historique du domaine francoprovençal</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Luc Ménapace pour obtenir le diplôme d’archiviste paléographe</p>		

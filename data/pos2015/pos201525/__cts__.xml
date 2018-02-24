@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201525"
     urn="urn:cts:freLit:pos2015.pos201525" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le Libellus de notitia orbis de Jean, Archevêque de Sultanieh</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201525" urn="urn:cts:freLit:pos2015.pos201525.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201525" urn="urn:cts:freLit:pos2015.pos201525.position-201525">
         <ti:label xml:lang="fre"><title type="main">Le Libellus de notitia orbis de Jean, Archevêque de Sultanieh</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nadia Tarfaoui pour obtenir le diplôme d’archiviste paléographe</p>		

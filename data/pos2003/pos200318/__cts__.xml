@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200318"
     urn="urn:cts:freLit:pos2003.pos200318" xml:lang="fre"> 
     <ti:title xml:lang="fre">“Craindre Dieu et servir le roi”. Benjamin_Aubery_du_Maurier (1566-1636), ambassadeur protestant du Très Chrétien</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200318" urn="urn:cts:freLit:pos2003.pos200318.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200318" urn="urn:cts:freLit:pos2003.pos200318.position-200318">
         <ti:label xml:lang="fre"><title type="main">“Craindre Dieu et servir le roi”. Benjamin_Aubery_du_Maurier (1566-1636), ambassadeur protestant du Très Chrétien</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Claire Martin pour obtenir le diplôme d’archiviste paléographe</p>		

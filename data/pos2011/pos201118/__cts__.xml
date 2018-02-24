@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201118"
     urn="urn:cts:freLit:pos2011.pos201118" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les <i>Nuits attiques </i>d’Aulu-Gelle au Moyen Âge et à la Renaissance. Histoire de la transmission d’un texte</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201118" urn="urn:cts:freLit:pos2011.pos201118.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201118" urn="urn:cts:freLit:pos2011.pos201118.position-201118">
         <ti:label xml:lang="fre"><title type="main">Les <i>Nuits attiques </i>d’Aulu-Gelle au Moyen Âge et à la Renaissance. Histoire de la transmission d’un texte</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie-Eugénie Lecouffe pour obtenir le diplôme d’archiviste paléographe</p>		

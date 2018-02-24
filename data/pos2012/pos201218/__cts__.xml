@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201218"
     urn="urn:cts:freLit:pos2012.pos201218" xml:lang="fre"> 
     <ti:title xml:lang="fre">« Mon très cher père ». Étude et édition critique de la correspondance de Gabriel François de Brueys d’Aigalliers avec son père (1755-1782)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201218" urn="urn:cts:freLit:pos2012.pos201218.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201218" urn="urn:cts:freLit:pos2012.pos201218.position-201218">
         <ti:label xml:lang="fre"><title type="main">« Mon très cher père ». Étude et édition critique de la correspondance de Gabriel François de Brueys d’Aigalliers avec son père (1755-1782)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Lucie Leprevost-Grancher pour obtenir le diplôme d’archiviste paléographe</p>		

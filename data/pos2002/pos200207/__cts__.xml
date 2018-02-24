@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200207"
     urn="urn:cts:freLit:pos2002.pos200207" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>De_vanitate_mundi</i> de Hugues_de_Saint-Victor (†1141) : édition critique et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200207" urn="urn:cts:freLit:pos2002.pos200207.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200207" urn="urn:cts:freLit:pos2002.pos200207.position-200207">
         <ti:label xml:lang="fre"><title type="main">Le <i>De_vanitate_mundi</i> de Hugues_de_Saint-Victor (†1141) : édition critique et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cédric Giraud pour obtenir le diplôme d’archiviste paléographe</p>		

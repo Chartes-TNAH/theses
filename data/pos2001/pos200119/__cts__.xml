@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200119"
     urn="urn:cts:freLit:pos2001.pos200119" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>Tractatus_de_spirituali_aedificio</i>, édition critique princeps</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200119" urn="urn:cts:freLit:pos2001.pos200119.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200119" urn="urn:cts:freLit:pos2001.pos200119.position-200119">
         <ti:label xml:lang="fre"><title type="main">Le <i>Tractatus_de_spirituali_aedificio</i>, édition critique princeps</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre-Jean Riamond pour obtenir le diplôme d’archiviste paléographe</p>		

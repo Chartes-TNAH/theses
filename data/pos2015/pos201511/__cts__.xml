@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201511"
     urn="urn:cts:freLit:pos2015.pos201511" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’hydraulique à Paris à l’époque moderne. Adductions et distribution d’eau dans la ville (v. 1612 – v. 1733)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201511" urn="urn:cts:freLit:pos2015.pos201511.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201511" urn="urn:cts:freLit:pos2015.pos201511.position-201511">
         <ti:label xml:lang="fre"><title type="main">L’hydraulique à Paris à l’époque moderne. Adductions et distribution d’eau dans la ville (v. 1612 – v. 1733)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Florian Horrein pour obtenir le diplôme d’archiviste paléographe</p>		

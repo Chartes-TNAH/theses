@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200717"
     urn="urn:cts:freLit:pos2007.pos200717" xml:lang="fre"> 
     <ti:title xml:lang="fre">Autour de l’Hôtel_de_saint_Louis (1226-1270). Le cadre, les hommes, les itinéraires d’un pouvoir</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200717" urn="urn:cts:freLit:pos2007.pos200717.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200717" urn="urn:cts:freLit:pos2007.pos200717.position-200717">
         <ti:label xml:lang="fre"><title type="main">Autour de l’Hôtel_de_saint_Louis (1226-1270). Le cadre, les hommes, les itinéraires d’un pouvoir</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-François Moufflet pour obtenir le diplôme d’archiviste paléographe</p>		

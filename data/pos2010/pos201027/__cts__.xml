@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201027"
     urn="urn:cts:freLit:pos2010.pos201027" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les collections d’objets d’art d’Anne_de_Bretagne à travers ses inventaires. Le spectacle et les coulisses.</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201027" urn="urn:cts:freLit:pos2010.pos201027.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201027" urn="urn:cts:freLit:pos2010.pos201027.position-201027">
         <ti:label xml:lang="fre"><title type="main">Les collections d’objets d’art d’Anne_de_Bretagne à travers ses inventaires. Le spectacle et les coulisses.</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Caroline Vrand pour obtenir le diplôme d’archiviste paléographe</p>		

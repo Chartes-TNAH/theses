@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200803"
     urn="urn:cts:freLit:pos2008.pos200803" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les Commissaires du quartier du Louvre (1751-1791). Contribution à une histoire de la praxis policière dans le Paris du second <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200803" urn="urn:cts:freLit:pos2008.pos200803.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200803" urn="urn:cts:freLit:pos2008.pos200803.position-200803">
         <ti:label xml:lang="fre"><title type="main">Les Commissaires du quartier du Louvre (1751-1791). Contribution à une histoire de la praxis policière dans le Paris du second <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Justine Berlière pour obtenir le diplôme d’archiviste paléographe</p>		

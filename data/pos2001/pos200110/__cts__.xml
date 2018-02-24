@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200110"
     urn="urn:cts:freLit:pos2001.pos200110" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les Français acteurs et spectateurs de l’histoire de Hawaii (1837-1898)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200110" urn="urn:cts:freLit:pos2001.pos200110.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200110" urn="urn:cts:freLit:pos2001.pos200110.position-200110">
         <ti:label xml:lang="fre"><title type="main">Les Français acteurs et spectateurs de l’histoire de Hawaii (1837-1898)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Paul Huetz De Lemps pour obtenir le diplôme d’archiviste paléographe</p>		

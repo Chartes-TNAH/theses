@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200411"
     urn="urn:cts:freLit:pos2004.pos200411" xml:lang="fre"> 
     <ti:title xml:lang="fre">La construction navale maritime et fluviale dans l’estuaire de la Seine (seconde moitié du <abbr>xvi<sup>e</sup></abbr> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200411" urn="urn:cts:freLit:pos2004.pos200411.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200411" urn="urn:cts:freLit:pos2004.pos200411.position-200411">
         <ti:label xml:lang="fre"><title type="main">La construction navale maritime et fluviale dans l’estuaire de la Seine (seconde moitié du <abbr>xvi<sup>e</sup></abbr> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Gérardot pour obtenir le diplôme d’archiviste paléographe</p>		

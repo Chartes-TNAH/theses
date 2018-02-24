@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201304"
     urn="urn:cts:freLit:pos2013.pos201304" xml:lang="fre"> 
     <ti:title xml:lang="fre">La correspondance du docteur Pierre-Fidèle Bretonneau (1778-1862). Édition critique et commentaire </ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201304" urn="urn:cts:freLit:pos2013.pos201304.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201304" urn="urn:cts:freLit:pos2013.pos201304.position-201304">
         <ti:label xml:lang="fre"><title type="main">La correspondance du docteur Pierre-Fidèle Bretonneau (1778-1862). Édition critique et commentaire </title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie Boissière pour obtenir le diplôme d’archiviste paléographe</p>		

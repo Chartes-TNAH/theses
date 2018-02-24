@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200026"
     urn="urn:cts:freLit:pos2000.pos200026" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le <i>Liber_Visionum_et_Miraculorum</i>. Édition du manuscrit 946 de la bibliothèque_municipale de Troyes</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200026" urn="urn:cts:freLit:pos2000.pos200026.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200026" urn="urn:cts:freLit:pos2000.pos200026.position-200026">
         <ti:label xml:lang="fre"><title type="main">Le <i>Liber_Visionum_et_Miraculorum</i>. Édition du manuscrit 946 de la bibliothèque_municipale de Troyes</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Olivier Legendre pour obtenir le diplôme d’archiviste paléographe</p>		

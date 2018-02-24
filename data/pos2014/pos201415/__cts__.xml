@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201415"
     urn="urn:cts:freLit:pos2014.pos201415" xml:lang="fre"> 
     <ti:title xml:lang="fre">Eustache-Antoine Hua (1759-1836) : mémoires et papiers privés d'un magistrat et député</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201415" urn="urn:cts:freLit:pos2014.pos201415.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201415" urn="urn:cts:freLit:pos2014.pos201415.position-201415">
         <ti:label xml:lang="fre"><title type="main">Eustache-Antoine Hua (1759-1836) : mémoires et papiers privés d'un magistrat et député</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alice Pérésan-Roudil pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200221"
     urn="urn:cts:freLit:pos2002.pos200221" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les derniers feux des Concerts spirituels parisiens (1816-1831)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200221" urn="urn:cts:freLit:pos2002.pos200221.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200221" urn="urn:cts:freLit:pos2002.pos200221.position-200221">
         <ti:label xml:lang="fre"><title type="main">Les derniers feux des Concerts spirituels parisiens (1816-1831)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Olivier Morand pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200705"
     urn="urn:cts:freLit:pos2007.pos200705" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les ordres mendiants et les pouvoirs à Rodez (XIV<sup>e</sup>-XVI<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200705" urn="urn:cts:freLit:pos2007.pos200705.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200705" urn="urn:cts:freLit:pos2007.pos200705.position-200705">
         <ti:label xml:lang="fre"><title type="main">Les ordres mendiants et les pouvoirs à Rodez (XIV<sup>e</sup>-XVI<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Vincent Bouat pour obtenir le diplôme d’archiviste paléographe</p>		

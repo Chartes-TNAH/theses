@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200621"
     urn="urn:cts:freLit:pos2006.pos200621" xml:lang="fre"> 
     <ti:title xml:lang="fre"><i>La_Reine_Margot</i> de Patrice_Chéreau. Genèse et réalisation d’un film historique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200621" urn="urn:cts:freLit:pos2006.pos200621.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200621" urn="urn:cts:freLit:pos2006.pos200621.position-200621">
         <ti:label xml:lang="fre"><title type="main"><i>La_Reine_Margot</i> de Patrice_Chéreau. Genèse et réalisation d’un film historique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Violette Rouchy pour obtenir le diplôme d’archiviste paléographe</p>		
