@@ -1,190 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<grammar ns="http://www.tei-c.org/ns/1.0" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
-  <start>
-    <element name="TEI">
-      <attribute>
-        <name ns="http://www.w3.org/XML/1998/namespace">lang</name>
-        <data type="NCName"/>
-      </attribute>
-      <element name="teiHeader">
-        <element name="fileDesc">
-          <element name="titleStmt">
-            <ref name="title"/>
-            <element name="author">
-              <attribute name="ref">
-                <data type="anyURI"/>
-              </attribute>
-              <data type="NCName"/>
-            </element>
-          </element>
-          <element name="editionStmt">
-            <element name="edition">
-              <text/>
-            </element>
-          </element>
-          <element name="publicationStmt">
-            <ref name="publisher"/>
-            <element name="date">
-              <attribute name="when">
-                <data type="integer"/>
-              </attribute>
-            </element>
-            <element name="availability">
-              <attribute name="status">
-                <data type="NCName"/>
-              </attribute>
-              <element name="licence">
-                <attribute name="target">
-                  <data type="anyURI"/>
-                </attribute>
-              </element>
-            </element>
-          </element>
-          <element name="seriesStmt">
-            <ref name="title"/>
-            <oneOrMore>
-              <element name="idno">
-                <attribute name="type">
-                  <data type="NCName"/>
-                </attribute>
-                <data type="anyURI"/>
-              </element>
-            </oneOrMore>
-          </element>
-          <element name="sourceDesc">
-            <ref name="bibl"/>
-          </element>
-        </element>
-        <element name="encodingDesc">
-          <element name="refsDecl">
-            <attribute name="n">
-              <data type="NCName"/>
-            </attribute>
-            <oneOrMore>
-              <element name="cRefPattern">
-                <attribute name="matchPattern"/>
-                <attribute name="n">
-                  <data type="NCName"/>
-                </attribute>
-                <attribute name="replacementPattern"/>
-                <ref name="p"/>
-              </element>
-            </oneOrMore>
-          </element>
-        </element>
-        <element name="profileDesc">
-          <element name="langUsage">
-            <element name="language">
-              <attribute name="ident">
-                <data type="NCName"/>
-              </attribute>
-            </element>
-          </element>
-        </element>
-        <element name="revisionDesc">
-          <oneOrMore>
-            <element name="change">
-              <attribute name="when">
-                <data type="date"/>
-              </attribute>
-              <attribute name="who"/>
-              <text/>
-            </element>
-          </oneOrMore>
-        </element>
-      </element>
-      <element name="text">
-        <element name="body">
-          <element name="byline">
-            <element name="docAuthor">
-              <element name="forename">
-                <data type="NCName"/>
-              </element>
-              <element name="surname">
-                <data type="NCName"/>
-              </element>
-            </element>
-          </element>
-          <oneOrMore>
-            <ref name="div"/>
-          </oneOrMore>
-        </element>
-      </element>
-    </element>
-  </start>
-  <define name="title">
-    <element name="title">
-      <optional>
-        <attribute name="ref">
-          <data type="anyURI"/>
-        </attribute>
-      </optional>
-      <optional>
-        <attribute name="type">
-          <data type="NCName"/>
-        </attribute>
-      </optional>
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="publisher"/>
-          <element name="biblScope">
-            <attribute name="unit">
-              <data type="NCName"/>
-            </attribute>
-            <data type="NCName"/>
-          </element>
-          <element name="pubPlace">
-            <data type="NCName"/>
-          </element>
-        </choice>
-      </oneOrMore>
-    </element>
-  </define>
-  <define name="publisher">
-    <element name="publisher">
-      <text/>
-    </element>
-  </define>
-  <define name="bibl">
-    <element name="bibl">
-      <zeroOrMore>
-        <choice>
-          <ref name="title"/>
-          <element name="relatedItem">
-            <attribute name="type">
-              <data type="NCName"/>
-            </attribute>
-            <ref name="bibl"/>
-          </element>
-        </choice>
-      </zeroOrMore>
-    </element>
-  </define>
-  <define name="p">
-    <element name="p">
-      <text/>
-    </element>
-  </define>
-  <define name="div">
-    <element name="div">
-      <attribute name="n">
-        <data type="integer"/>
-      </attribute>
-      <attribute name="type"/>
-      <optional>
-        <oneOrMore>
-          <choice>
-            <ref name="div"/>
-            <element name="head">
-              <text/>
-            </element>
-          </choice>
-        </oneOrMore>
-        <oneOrMore>
-          <ref name="p"/>
-        </oneOrMore>
-      </optional>
-    </element>
-  </define>
-</grammar>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" targetNamespace="http://www.tei-c.org/ns/1.0" xmlns:ns1="http://www.tei-c.org/ns/1.0">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="xml.xsd"/>
+  <xs:element name="TEI">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:teiHeader"/>
+        <xs:element ref="ns1:text"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:id" use="required"/>
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="teiHeader">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:fileDesc"/>
+        <xs:element ref="ns1:encodingDesc"/>
+        <xs:element ref="ns1:profileDesc"/>
+        <xs:element ref="ns1:revisionDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="fileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:titleStmt"/>
+        <xs:element ref="ns1:editionStmt"/>
+        <xs:element ref="ns1:publicationStmt"/>
+        <xs:element ref="ns1:seriesStmt"/>
+        <xs:element ref="ns1:sourceDesc"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="titleStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+        <xs:element ref="ns1:author"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="author">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="ref" use="required" type="xs:anyURI"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="editionStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:edition"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="edition" type="xs:string"/>
+  <xs:element name="publicationStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:publisher"/>
+        <xs:element ref="ns1:date"/>
+        <xs:element ref="ns1:availability"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="date">
+    <xs:complexType>
+      <xs:attribute name="when" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="availability">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:licence"/>
+      </xs:sequence>
+      <xs:attribute name="status" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="licence">
+    <xs:complexType>
+      <xs:attribute name="target" use="required" type="xs:anyURI"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="seriesStmt">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:title"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:idno"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="idno">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:anyURI">
+          <xs:attribute name="type" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="sourceDesc" type="ns1:bibl"/>
+  <xs:element name="encodingDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:refsDecl"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="refsDecl">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:cRefPattern"/>
+      </xs:sequence>
+      <xs:attribute name="n" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cRefPattern">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="matchPattern" use="required"/>
+      <xs:attribute name="n" use="required" type="xs:NCName"/>
+      <xs:attribute name="replacementPattern" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="profileDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:langUsage"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="langUsage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:language"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="language">
+    <xs:complexType>
+      <xs:attribute name="ident" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="revisionDesc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="ns1:change"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="change">
+    <xs:complexType mixed="true">
+      <xs:attribute name="when" use="required" type="xs:date"/>
+      <xs:attribute name="who" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="text">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:body"/>
+      </xs:sequence>
+      <xs:attribute ref="xml:base" use="required"/>
+      <xs:attribute ref="xml:lang" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="body">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:byline"/>
+        <xs:element maxOccurs="unbounded" ref="ns1:div"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="byline">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:docAuthor"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="docAuthor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="ns1:forename"/>
+        <xs:element ref="ns1:surname"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="forename" type="xs:NCName"/>
+  <xs:element name="surname" type="xs:NCName"/>
+  <xs:element name="title">
+    <xs:complexType mixed="true">
+      <xs:attribute name="ref" type="xs:anyURI"/>
+      <xs:attribute name="type" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="publisher" type="xs:string"/>
+  <xs:complexType name="bibl">
+    <xs:sequence>
+      <xs:element ref="ns1:bibl"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="bibl">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:publisher"/>
+        <xs:element ref="ns1:title"/>
+        <xs:element ref="ns1:biblScope"/>
+        <xs:element ref="ns1:pubPlace"/>
+        <xs:element ref="ns1:relatedItem"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="biblScope">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:NCName">
+          <xs:attribute name="unit" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="pubPlace" type="xs:NCName"/>
+  <xs:element name="relatedItem">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="ns1:bibl">
+          <xs:attribute name="type" use="required" type="xs:NCName"/>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="p">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="ns1:hi"/>
+        <xs:element ref="ns1:num"/>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="num">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:hi"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="div">
+    <xs:complexType>
+      <xs:sequence minOccurs="0">
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="ns1:div"/>
+          <xs:element ref="ns1:head"/>
+        </xs:choice>
+        <xs:element maxOccurs="unbounded" ref="ns1:p"/>
+      </xs:sequence>
+      <xs:attribute name="n" use="required" type="xs:integer"/>
+      <xs:attribute name="type" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="head">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="ns1:lb"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="lb">
+    <xs:complexType/>
+  </xs:element>
+  <xs:element name="hi">
+    <xs:complexType mixed="true">
+      <xs:attribute name="rend" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
