@@ -209,9 +209,9 @@
             </element>
           </choice>
         </oneOrMore>
-        <oneOrMore>
+        <zeroOrMore>
           <ref name="p"/>
-        </oneOrMore>
+        </zeroOrMore>
       </optional>
     </element>
   </define>
