@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200925"
+    urn="urn:cts:freLit:pos2009.pos200925" xml:lang="fre"> 
+    <ti:title xml:lang="fre">Pierre_Gringore (v. 1475-v. 1538), homme de lettres, de théâtre et de cour. Être auteur au <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200925" urn="urn:cts:freLit:pos2009.pos200925.position-200925">
+        <ti:label xml:lang="fre"><title type="main">Pierre_Gringore (v. 1475-v. 1538), homme de lettres, de théâtre et de cour. Être auteur au <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Florine Stankiewicz pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
+    <cpt:structured-metadata>
+        <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
+        <dc:date rdf:datatype="xsd:gYear">2009</dc:date>
+        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/132600048</dct:isVersionOf> 
+        <dc:creator xml:lang="fre">Florine Stankiewicz</dc:creator>
+        <dc:creator xml:lang="fre">https://www.idref.fr/132600188</dc:creator>
+    </cpt:structured-metadata>
+</ti:work>

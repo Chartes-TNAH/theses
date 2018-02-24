@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200120"
+    urn="urn:cts:freLit:pos2001.pos200120" xml:lang="fre"> 
+    <ti:title xml:lang="fre">Correspondance de Jean-Victor_Schnetz, directeur de l’Académie_de_France_à_Rome, de 1841 à 1846 et de 1853 à 1866: édition commentée</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200120" urn="urn:cts:freLit:pos2001.pos200120.position-200120">
+        <ti:label xml:lang="fre"><title type="main">Correspondance de Jean-Victor_Schnetz, directeur de l’Académie_de_France_à_Rome, de 1841 à 1846 et de 1853 à 1866: édition commentée</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Emilie Robbe pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
+    <cpt:structured-metadata>
+        <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
+        <dc:date rdf:datatype="xsd:gYear">2001</dc:date>
+        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/149664494</dct:isVersionOf> 
+        <dc:creator xml:lang="fre">Emilie Robbe</dc:creator>
+        <dc:creator xml:lang="fre">https://www.idref.fr/14708315X</dc:creator>
+    </cpt:structured-metadata>
+</ti:work>
