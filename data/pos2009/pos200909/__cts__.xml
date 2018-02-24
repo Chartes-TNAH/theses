@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200909"
     urn="urn:cts:freLit:pos2009.pos200909" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les sociétés_Chauvet. Négoce et révolutions entre Marseille et les Antilles (1785-1805)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200909" urn="urn:cts:freLit:pos2009.pos200909.posENC">
+        <ti:label xml:lang="fre"><title type="main">Les sociétés_Chauvet. Négoce et révolutions entre Marseille et les Antilles (1785-1805)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Boris Deschanel pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2009</dc:date>

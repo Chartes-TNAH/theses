@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200227"
     urn="urn:cts:freLit:pos2002.pos200227" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les ingénieurs géographes des camps et armées du roi, de la guerre_de_Sept_Ans à la Révolution (1756-1791) : étude institutionnelle, prosopographique et sociale</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200227" urn="urn:cts:freLit:pos2002.pos200227.posENC">
+        <ti:label xml:lang="fre"><title type="main">Les ingénieurs géographes des camps et armées du roi, de la guerre_de_Sept_Ans à la Révolution (1756-1791) : étude institutionnelle, prosopographique et sociale</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Patrice Ract pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2002</dc:date>

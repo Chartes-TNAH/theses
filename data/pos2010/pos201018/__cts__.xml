@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201018"
     urn="urn:cts:freLit:pos2010.pos201018" xml:lang="fre"> 
     <ti:title xml:lang="fre">La Grèce dans l’imaginaire de Gustave_Moreau. Terre des Muses et des poètes</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201018" urn="urn:cts:freLit:pos2010.pos201018.posENC">
+        <ti:label xml:lang="fre"><title type="main">La Grèce dans l’imaginaire de Gustave_Moreau. Terre des Muses et des poètes</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Marion Lutz pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2010</dc:date>

@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200902"
     urn="urn:cts:freLit:pos2009.pos200902" xml:lang="fre"> 
     <ti:title xml:lang="fre">La religion du roi. Lieux et expression de la dévotion à la cour de Louis_XIV (1643-1682)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200902" urn="urn:cts:freLit:pos2009.pos200902.posENC">
+        <ti:label xml:lang="fre"><title type="main">La religion du roi. Lieux et expression de la dévotion à la cour de Louis_XIV (1643-1682)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Éléonore Alquier pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2009</dc:date>

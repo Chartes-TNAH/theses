@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200904"
     urn="urn:cts:freLit:pos2009.pos200904" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’<i>ecclesia_universa</i> comme sujet de droit. Enquête à travers le <i>Décret</i> de Gratien</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200904" urn="urn:cts:freLit:pos2009.pos200904.posENC">
+        <ti:label xml:lang="fre"><title type="main">L’<i>ecclesia_universa</i> comme sujet de droit. Enquête à travers le <i>Décret</i> de Gratien</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Kwok Leung Luke Au Yeung pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2009</dc:date>

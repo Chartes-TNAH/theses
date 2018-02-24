@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200020"
     urn="urn:cts:freLit:pos2000.pos200020" xml:lang="fre"> 
     <ti:title xml:lang="fre">La maison Fourdinois. Néo-styles et néo-Renaissance dans le goût des arts décoratifs dans la seconde moitié du <abbr>xix<sup>e</sup></abbr> siècle</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200020" urn="urn:cts:freLit:pos2000.pos200020.posENC">
+        <ti:label xml:lang="fre"><title type="main">La maison Fourdinois. Néo-styles et néo-Renaissance dans le goût des arts décoratifs dans la seconde moitié du <abbr>xix<sup>e</sup></abbr> siècle</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Olivier Gabet pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2000</dc:date>

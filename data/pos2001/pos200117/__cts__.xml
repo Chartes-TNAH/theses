@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200117"
     urn="urn:cts:freLit:pos2001.pos200117" xml:lang="fre"> 
     <ti:title xml:lang="fre">« Que le droit du roi soit gardé ». Les plaidoiries des gens du roi aux parlements de Paris et de Poitiers (1418-1436)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200117" urn="urn:cts:freLit:pos2001.pos200117.posENC">
+        <ti:label xml:lang="fre"><title type="main">« Que le droit du roi soit gardé ». Les plaidoiries des gens du roi aux parlements de Paris et de Poitiers (1418-1436)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Guillaume Ratel pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2001</dc:date>

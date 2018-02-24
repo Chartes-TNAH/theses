@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200018"
     urn="urn:cts:freLit:pos2000.pos200018" xml:lang="fre"> 
     <ti:title xml:lang="fre">La circulation des manuscrits du <i>De_Excidio_Trojae</i> de Darès_le_Phrygien (VIII<sup>e</sup>-XV<sup>e</sup> siècle)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200018" urn="urn:cts:freLit:pos2000.pos200018.posENC">
+        <ti:label xml:lang="fre"><title type="main">La circulation des manuscrits du <i>De_Excidio_Trojae</i> de Darès_le_Phrygien (VIII<sup>e</sup>-XV<sup>e</sup> siècle)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Louis Faivre D’arcier pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2000</dc:date>

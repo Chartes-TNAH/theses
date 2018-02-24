@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200323"
     urn="urn:cts:freLit:pos2003.pos200323" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’acte occitan dans le comté de Toulouse aux <abbr>xii<sup>e</sup></abbr> et <abbr>xiii<sup>e</sup></abbr> siècles : le cas des seigneuries de Dourgne et Puylaurens, de Bessières et Buzet</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200323" urn="urn:cts:freLit:pos2003.pos200323.posENC">
+        <ti:label xml:lang="fre"><title type="main">L’acte occitan dans le comté de Toulouse aux <abbr>xii<sup>e</sup></abbr> et <abbr>xiii<sup>e</sup></abbr> siècles : le cas des seigneuries de Dourgne et Puylaurens, de Bessières et Buzet</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Pascaline Todeschini pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2003</dc:date>

@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200619"
     urn="urn:cts:freLit:pos2006.pos200619" xml:lang="fre"> 
     <ti:title xml:lang="fre">Édition partielle de l’œuvre de Jean_du_Quesne, traducteur de César et chroniqueur à la cour de Charles_le_Téméraire</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200619" urn="urn:cts:freLit:pos2006.pos200619.posENC">
+        <ti:label xml:lang="fre"><title type="main">Édition partielle de l’œuvre de Jean_du_Quesne, traducteur de César et chroniqueur à la cour de Charles_le_Téméraire</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Séverine Montigny pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2006</dc:date>

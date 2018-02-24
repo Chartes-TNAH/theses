@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200205"
     urn="urn:cts:freLit:pos2002.pos200205" xml:lang="fre"> 
     <ti:title xml:lang="fre">La Maison_des_écoliers de Laon : étude d’un collège parisien aux <abbr>xiv<sup>e</sup></abbr> et <abbr>xv<sup>e</sup></abbr> siècles</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200205" urn="urn:cts:freLit:pos2002.pos200205.posENC">
+        <ti:label xml:lang="fre"><title type="main">La Maison_des_écoliers de Laon : étude d’un collège parisien aux <abbr>xiv<sup>e</sup></abbr> et <abbr>xv<sup>e</sup></abbr> siècles</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Cécile Fabris pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2002</dc:date>
