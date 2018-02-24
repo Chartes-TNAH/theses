@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200019"
     urn="urn:cts:freLit:pos2000.pos200019" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le chartrier de la cathédrale de Coutances (XI<sup>e</sup>-XIV<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200019" urn="urn:cts:freLit:pos2000.pos200019.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200019" urn="urn:cts:freLit:pos2000.pos200019.position-200019">
         <ti:label xml:lang="fre"><title type="main">Le chartrier de la cathédrale de Coutances (XI<sup>e</sup>-XIV<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Julie Fontanel pour obtenir le diplôme d’archiviste paléographe</p>		

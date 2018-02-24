@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200719"
     urn="urn:cts:freLit:pos2007.pos200719" xml:lang="fre"> 
     <ti:title xml:lang="fre">Guizot et la Grèce. Questions d’influences</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200719" urn="urn:cts:freLit:pos2007.pos200719.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200719" urn="urn:cts:freLit:pos2007.pos200719.position-200719">
         <ti:label xml:lang="fre"><title type="main">Guizot et la Grèce. Questions d’influences</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marion Pierangelo pour obtenir le diplôme d’archiviste paléographe</p>		

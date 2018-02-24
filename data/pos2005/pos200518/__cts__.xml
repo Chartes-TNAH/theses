@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200518"
     urn="urn:cts:freLit:pos2005.pos200518" xml:lang="fre"> 
     <ti:title xml:lang="fre">La légation du cardinal Francesco_Barberini en France en 1625</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200518" urn="urn:cts:freLit:pos2005.pos200518.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200518" urn="urn:cts:freLit:pos2005.pos200518.position-200518">
         <ti:label xml:lang="fre"><title type="main">La légation du cardinal Francesco_Barberini en France en 1625</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Clément Pieyre pour obtenir le diplôme d’archiviste paléographe</p>		

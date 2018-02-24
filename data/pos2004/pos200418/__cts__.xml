@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200418"
     urn="urn:cts:freLit:pos2004.pos200418" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les saluts du Saint-Sacrement. Liturgie et musique en France (1600-1774)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200418" urn="urn:cts:freLit:pos2004.pos200418.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200418" urn="urn:cts:freLit:pos2004.pos200418.position-200418">
         <ti:label xml:lang="fre"><title type="main">Les saluts du Saint-Sacrement. Liturgie et musique en France (1600-1774)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alexis Meunier pour obtenir le diplôme d’archiviste paléographe</p>		

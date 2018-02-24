@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200912"
     urn="urn:cts:freLit:pos2009.pos200912" xml:lang="fre"> 
     <ti:title xml:lang="fre">Lacombe_Lucien de Louis_Malle. Histoire d’une polémique, ou polémique sur l’Histoire ?</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200912" urn="urn:cts:freLit:pos2009.pos200912.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200912" urn="urn:cts:freLit:pos2009.pos200912.position-200912">
         <ti:label xml:lang="fre"><title type="main">Lacombe_Lucien de Louis_Malle. Histoire d’une polémique, ou polémique sur l’Histoire ?</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Aurélie Feste-Guidon pour obtenir le diplôme d’archiviste paléographe</p>		

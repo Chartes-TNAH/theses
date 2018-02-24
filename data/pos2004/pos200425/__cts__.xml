@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200425"
     urn="urn:cts:freLit:pos2004.pos200425" xml:lang="fre"> 
     <ti:title xml:lang="fre">Léon_Pierre-Quint, correspondance 1914-1938 (fonds russe). Édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200425" urn="urn:cts:freLit:pos2004.pos200425.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200425" urn="urn:cts:freLit:pos2004.pos200425.position-200425">
         <ti:label xml:lang="fre"><title type="main">Léon_Pierre-Quint, correspondance 1914-1938 (fonds russe). Édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Bérénice Stoll pour obtenir le diplôme d’archiviste paléographe</p>		

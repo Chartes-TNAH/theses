@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200022"
     urn="urn:cts:freLit:pos2000.pos200022" xml:lang="fre"> 
     <ti:title xml:lang="fre">Du sceau à la signature. Histoire des signes de validation en France (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200022" urn="urn:cts:freLit:pos2000.pos200022.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200022" urn="urn:cts:freLit:pos2000.pos200022.position-200022">
         <ti:label xml:lang="fre"><title type="main">Du sceau à la signature. Histoire des signes de validation en France (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Claude Jeay pour obtenir le diplôme d’archiviste paléographe</p>		

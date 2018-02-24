@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201014"
     urn="urn:cts:freLit:pos2010.pos201014" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les actes des évêques bretons (début du <abbr>xi<sup>e</sup></abbr> siècle – milieu du <abbr>xii<sup>e</sup></abbr> siècle). Étude diplomatique et édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201014" urn="urn:cts:freLit:pos2010.pos201014.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201014" urn="urn:cts:freLit:pos2010.pos201014.position-201014">
         <ti:label xml:lang="fre"><title type="main">Les actes des évêques bretons (début du <abbr>xi<sup>e</sup></abbr> siècle – milieu du <abbr>xii<sup>e</sup></abbr> siècle). Étude diplomatique et édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cyprien Henry pour obtenir le diplôme d’archiviste paléographe</p>		

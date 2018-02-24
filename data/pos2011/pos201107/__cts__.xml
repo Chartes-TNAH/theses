@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201107"
     urn="urn:cts:freLit:pos2011.pos201107" xml:lang="fre"> 
     <ti:title xml:lang="fre">Guillaume_Millet_de_Jeure, témoin de la vie politique du Grand_Siècle. Édition et étude du manuscrit 502 (153) de la bibliothèque Méjanes d’Aix-en-Provence</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201107" urn="urn:cts:freLit:pos2011.pos201107.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201107" urn="urn:cts:freLit:pos2011.pos201107.position-201107">
         <ti:label xml:lang="fre"><title type="main">Guillaume_Millet_de_Jeure, témoin de la vie politique du Grand_Siècle. Édition et étude du manuscrit 502 (153) de la bibliothèque Méjanes d’Aix-en-Provence</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie Chouleur pour obtenir le diplôme d’archiviste paléographe</p>		

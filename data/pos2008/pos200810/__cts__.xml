@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200810"
     urn="urn:cts:freLit:pos2008.pos200810" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le livre de raison d’Honoré_de_Quiqueran_de_Beaujeu. Une famille noble arlésienne aux <abbr>xvi<sup>e</sup></abbr> et <abbr>xvii<sup>e</sup></abbr> siècles</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200810" urn="urn:cts:freLit:pos2008.pos200810.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200810" urn="urn:cts:freLit:pos2008.pos200810.position-200810">
         <ti:label xml:lang="fre"><title type="main">Le livre de raison d’Honoré_de_Quiqueran_de_Beaujeu. Une famille noble arlésienne aux <abbr>xvi<sup>e</sup></abbr> et <abbr>xvii<sup>e</sup></abbr> siècles</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nathalie Daigne pour obtenir le diplôme d’archiviste paléographe</p>		

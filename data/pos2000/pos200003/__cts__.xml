@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200003"
     urn="urn:cts:freLit:pos2000.pos200003" xml:lang="fre"> 
     <ti:title xml:lang="fre">La traduction occitane de l’<i>Arbre_des_batailles</i> d’Honoré_Bovet. Édition et commentaire (BNF fr. 1277)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200003" urn="urn:cts:freLit:pos2000.pos200003.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200003" urn="urn:cts:freLit:pos2000.pos200003.position-200003">
         <ti:label xml:lang="fre"><title type="main">La traduction occitane de l’<i>Arbre_des_batailles</i> d’Honoré_Bovet. Édition et commentaire (BNF fr. 1277)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Hélène Biu pour obtenir le diplôme d’archiviste paléographe</p>		

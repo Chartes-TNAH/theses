@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200707"
     urn="urn:cts:freLit:pos2007.pos200707" xml:lang="fre"> 
     <ti:title xml:lang="fre">La maison et les métiers du bâtiment à Paris (milieu du <abbr>xiv<sup>e</sup></abbr>-milieu du <abbr>xv<sup>e</sup></abbr> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200707" urn="urn:cts:freLit:pos2007.pos200707.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200707" urn="urn:cts:freLit:pos2007.pos200707.position-200707">
         <ti:label xml:lang="fre"><title type="main">La maison et les métiers du bâtiment à Paris (milieu du <abbr>xiv<sup>e</sup></abbr>-milieu du <abbr>xv<sup>e</sup></abbr> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Claire Chemel pour obtenir le diplôme d’archiviste paléographe</p>		

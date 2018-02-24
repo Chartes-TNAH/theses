@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200922"
     urn="urn:cts:freLit:pos2009.pos200922" xml:lang="fre"> 
     <ti:title xml:lang="fre">Louis_Bonaparte, roi de Hollande dans le système napoléonien (1806-1810)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200922" urn="urn:cts:freLit:pos2009.pos200922.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200922" urn="urn:cts:freLit:pos2009.pos200922.position-200922">
         <ti:label xml:lang="fre"><title type="main">Louis_Bonaparte, roi de Hollande dans le système napoléonien (1806-1810)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Stéphane Reecht pour obtenir le diplôme d’archiviste paléographe</p>		

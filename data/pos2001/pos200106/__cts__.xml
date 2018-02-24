@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200106"
     urn="urn:cts:freLit:pos2001.pos200106" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’exploitation des terroirs dans la terre de la Châtre au <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200106" urn="urn:cts:freLit:pos2001.pos200106.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200106" urn="urn:cts:freLit:pos2001.pos200106.position-200106">
         <ti:label xml:lang="fre"><title type="main">L’exploitation des terroirs dans la terre de la Châtre au <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Delphine Fanget pour obtenir le diplôme d’archiviste paléographe</p>		

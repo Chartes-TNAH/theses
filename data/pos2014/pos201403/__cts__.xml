@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201403"
     urn="urn:cts:freLit:pos2014.pos201403" xml:lang="fre"> 
     <ti:title xml:lang="fre">Au seuil du livre : les reliures de Rose Adler (1922-1959)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201403" urn="urn:cts:freLit:pos2014.pos201403.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201403" urn="urn:cts:freLit:pos2014.pos201403.position-201403">
         <ti:label xml:lang="fre"><title type="main">Au seuil du livre : les reliures de Rose Adler (1922-1959)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Alice Caillé pour obtenir le diplôme d’archiviste paléographe</p>		

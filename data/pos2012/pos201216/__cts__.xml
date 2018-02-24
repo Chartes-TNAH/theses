@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201216"
     urn="urn:cts:freLit:pos2012.pos201216" xml:lang="fre"> 
     <ti:title xml:lang="fre">Caxton imprimeur. Le troisième livre du <i>Recueil des histoires de Troyes</i></ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201216" urn="urn:cts:freLit:pos2012.pos201216.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201216" urn="urn:cts:freLit:pos2012.pos201216.position-201216">
         <ti:label xml:lang="fre"><title type="main">Caxton imprimeur. Le troisième livre du <i>Recueil des histoires de Troyes</i></title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Delphine Le Corfec pour obtenir le diplôme d’archiviste paléographe</p>		

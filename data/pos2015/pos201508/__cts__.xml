@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201508"
     urn="urn:cts:freLit:pos2015.pos201508" xml:lang="fre"> 
     <ti:title xml:lang="fre">Thomas d’Aquin contre Grégoire Palamas. La Réfutation de la profession de foi des Athonites de Prochoros Kydonès. Édition, traduction et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201508" urn="urn:cts:freLit:pos2015.pos201508.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201508" urn="urn:cts:freLit:pos2015.pos201508.position-201508">
         <ti:label xml:lang="fre"><title type="main">Thomas d’Aquin contre Grégoire Palamas. La Réfutation de la profession de foi des Athonites de Prochoros Kydonès. Édition, traduction et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Romain Feeser pour obtenir le diplôme d’archiviste paléographe</p>		

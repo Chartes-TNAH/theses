@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200703"
     urn="urn:cts:freLit:pos2007.pos200703" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les Augustins_déchaussés de Notre-Dame-des-Victoires (1629-1790)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200703" urn="urn:cts:freLit:pos2007.pos200703.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200703" urn="urn:cts:freLit:pos2007.pos200703.position-200703">
         <ti:label xml:lang="fre"><title type="main">Les Augustins_déchaussés de Notre-Dame-des-Victoires (1629-1790)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-Marie Barbiche pour obtenir le diplôme d’archiviste paléographe</p>		

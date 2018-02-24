@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200724"
     urn="urn:cts:freLit:pos2007.pos200724" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les moniales de Saint-Antoine-des-Champs au <abbr>xiii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200724" urn="urn:cts:freLit:pos2007.pos200724.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200724" urn="urn:cts:freLit:pos2007.pos200724.position-200724">
         <ti:label xml:lang="fre"><title type="main">Les moniales de Saint-Antoine-des-Champs au <abbr>xiii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Vanessa Szollosi pour obtenir le diplôme d’archiviste paléographe</p>		

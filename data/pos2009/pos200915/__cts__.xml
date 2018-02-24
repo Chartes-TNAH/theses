@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200915"
     urn="urn:cts:freLit:pos2009.pos200915" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les parcheminiers de Paris au <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200915" urn="urn:cts:freLit:pos2009.pos200915.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200915" urn="urn:cts:freLit:pos2009.pos200915.position-200915">
         <ti:label xml:lang="fre"><title type="main">Les parcheminiers de Paris au <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Élise Girold pour obtenir le diplôme d’archiviste paléographe</p>		

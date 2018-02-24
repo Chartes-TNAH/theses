@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2014" projid="freLit:pos201420"
     urn="urn:cts:freLit:pos2014.pos201420" xml:lang="fre"> 
     <ti:title xml:lang="fre">La popularité de Lafayette aux États-Unis et en France de 1824 à 1834</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201420" urn="urn:cts:freLit:pos2014.pos201420.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2014.pos201420" urn="urn:cts:freLit:pos2014.pos201420.position-201420">
         <ti:label xml:lang="fre"><title type="main">La popularité de Lafayette aux États-Unis et en France de 1824 à 1834</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Philippe Schneider pour obtenir le diplôme d’archiviste paléographe</p>		

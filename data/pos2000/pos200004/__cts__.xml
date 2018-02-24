@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200004"
     urn="urn:cts:freLit:pos2000.pos200004" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’évêque en son palais. Recherches sur les palais épiscopaux en France à l’époque concordataire (1802-1905)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200004" urn="urn:cts:freLit:pos2000.pos200004.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200004" urn="urn:cts:freLit:pos2000.pos200004.position-200004">
         <ti:label xml:lang="fre"><title type="main">L’évêque en son palais. Recherches sur les palais épiscopaux en France à l’époque concordataire (1802-1905)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Séverine Blenner pour obtenir le diplôme d’archiviste paléographe</p>		

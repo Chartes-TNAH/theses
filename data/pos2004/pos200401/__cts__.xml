@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200401"
     urn="urn:cts:freLit:pos2004.pos200401" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les “ vergers ” de la papauté d’Avignon : Avignon, Pont-de-Sorgues et Villeneuve (1316-1378)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200401" urn="urn:cts:freLit:pos2004.pos200401.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200401" urn="urn:cts:freLit:pos2004.pos200401.position-200401">
         <ti:label xml:lang="fre"><title type="main">Les “ vergers ” de la papauté d’Avignon : Avignon, Pont-de-Sorgues et Villeneuve (1316-1378)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Élydia Barret pour obtenir le diplôme d’archiviste paléographe</p>		

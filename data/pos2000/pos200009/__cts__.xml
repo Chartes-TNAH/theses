@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200009"
     urn="urn:cts:freLit:pos2000.pos200009" xml:lang="fre"> 
     <ti:title xml:lang="fre">Michel_Butor et ses artistes : livres manuscrits (1968-1998)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200009" urn="urn:cts:freLit:pos2000.pos200009.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200009" urn="urn:cts:freLit:pos2000.pos200009.position-200009">
         <ti:label xml:lang="fre"><title type="main">Michel_Butor et ses artistes : livres manuscrits (1968-1998)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marie Chamonard pour obtenir le diplôme d’archiviste paléographe</p>		

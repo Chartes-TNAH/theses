@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200210"
     urn="urn:cts:freLit:pos2002.pos200210" xml:lang="fre"> 
     <ti:title xml:lang="fre">La fête des fous dans le nord de la France (XIV<sup>e</sup>-XVI<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200210" urn="urn:cts:freLit:pos2002.pos200210.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200210" urn="urn:cts:freLit:pos2002.pos200210.position-200210">
         <ti:label xml:lang="fre"><title type="main">La fête des fous dans le nord de la France (XIV<sup>e</sup>-XVI<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre-Emmanuel Guilleray pour obtenir le diplôme d’archiviste paléographe</p>		

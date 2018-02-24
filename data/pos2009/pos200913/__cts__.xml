@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200913"
     urn="urn:cts:freLit:pos2009.pos200913" xml:lang="fre"> 
     <ti:title xml:lang="fre">La pratique de l’épigraphie dans l’ordre de Cluny (909-1300)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200913" urn="urn:cts:freLit:pos2009.pos200913.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200913" urn="urn:cts:freLit:pos2009.pos200913.position-200913">
         <ti:label xml:lang="fre"><title type="main">La pratique de l’épigraphie dans l’ordre de Cluny (909-1300)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Charles-Antoine Fogielman-Curley pour obtenir le diplôme d’archiviste paléographe</p>		

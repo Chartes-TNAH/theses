@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200121"
     urn="urn:cts:freLit:pos2001.pos200121" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’église cathare du Carcassès (1167-début du <abbr>xiv<sup>e</sup></abbr> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200121" urn="urn:cts:freLit:pos2001.pos200121.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200121" urn="urn:cts:freLit:pos2001.pos200121.position-200121">
         <ti:label xml:lang="fre"><title type="main">L’église cathare du Carcassès (1167-début du <abbr>xiv<sup>e</sup></abbr> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Julien Roche pour obtenir le diplôme d’archiviste paléographe</p>		

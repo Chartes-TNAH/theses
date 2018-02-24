@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200016"
     urn="urn:cts:freLit:pos2000.pos200016" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le roman en prose <i>Guy_de_Warewyk</i> (XV<sup>e</sup> siècle). Édition et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200016" urn="urn:cts:freLit:pos2000.pos200016.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200016" urn="urn:cts:freLit:pos2000.pos200016.position-200016">
         <ti:label xml:lang="fre"><title type="main">Le roman en prose <i>Guy_de_Warewyk</i> (XV<sup>e</sup> siècle). Édition et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Frédérique Desmet pour obtenir le diplôme d’archiviste paléographe</p>		

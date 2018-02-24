@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200521"
     urn="urn:cts:freLit:pos2005.pos200521" xml:lang="fre"> 
     <ti:title xml:lang="fre">Justice, vengeance et compromis en Normandie (XI<sup>e</sup>-XII<sup>e</sup> siècles)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200521" urn="urn:cts:freLit:pos2005.pos200521.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200521" urn="urn:cts:freLit:pos2005.pos200521.position-200521">
         <ti:label xml:lang="fre"><title type="main">Justice, vengeance et compromis en Normandie (XI<sup>e</sup>-XII<sup>e</sup> siècles)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Thomas Roche pour obtenir le diplôme d’archiviste paléographe</p>		

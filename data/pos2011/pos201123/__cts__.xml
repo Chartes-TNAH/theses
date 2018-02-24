@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201123"
     urn="urn:cts:freLit:pos2011.pos201123" xml:lang="fre"> 
     <ti:title xml:lang="fre">La translittération des écritures orientales au début du <abbr>xvi<sup>e</sup></abbr> siècle. L’alphabet latin et l’hébreu dans les premiers imprimés parisiens</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201123" urn="urn:cts:freLit:pos2011.pos201123.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201123" urn="urn:cts:freLit:pos2011.pos201123.position-201123">
         <ti:label xml:lang="fre"><title type="main">La translittération des écritures orientales au début du <abbr>xvi<sup>e</sup></abbr> siècle. L’alphabet latin et l’hébreu dans les premiers imprimés parisiens</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Antoine Torrens pour obtenir le diplôme d’archiviste paléographe</p>		

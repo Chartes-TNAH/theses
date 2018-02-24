@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201112"
     urn="urn:cts:freLit:pos2011.pos201112" xml:lang="fre"> 
     <ti:title xml:lang="fre">Faire profession d’historien au <abbr>xvii<sup>e</sup></abbr> siècle. Étude de la carrière de Pierre Louvet (1617-1684)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201112" urn="urn:cts:freLit:pos2011.pos201112.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201112" urn="urn:cts:freLit:pos2011.pos201112.position-201112">
         <ti:label xml:lang="fre"><title type="main">Faire profession d’historien au <abbr>xvii<sup>e</sup></abbr> siècle. Étude de la carrière de Pierre Louvet (1617-1684)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Loïc Ducasse pour obtenir le diplôme d’archiviste paléographe</p>		

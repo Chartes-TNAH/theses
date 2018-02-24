@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200824"
     urn="urn:cts:freLit:pos2008.pos200824" xml:lang="fre"> 
     <ti:title xml:lang="fre">Imprimer et illustrer le théâtre sous Louis_XIV. Étude sur les frontispices des Éditions de france, des pays-bas et des provinces-unies</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200824" urn="urn:cts:freLit:pos2008.pos200824.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200824" urn="urn:cts:freLit:pos2008.pos200824.position-200824">
         <ti:label xml:lang="fre"><title type="main">Imprimer et illustrer le théâtre sous Louis_XIV. Étude sur les frontispices des Éditions de france, des pays-bas et des provinces-unies</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Mariette Naud pour obtenir le diplôme d’archiviste paléographe</p>		

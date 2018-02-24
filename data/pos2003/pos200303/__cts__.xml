@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200303"
     urn="urn:cts:freLit:pos2003.pos200303" xml:lang="fre"> 
     <ti:title xml:lang="fre">“Fuor’ della Città et Stato di Fiorenza”. Migrations et réseaux florentins à la fin du <abbr>xvi<sup>e</sup></abbr> siècle, d’après les <i>Testamenti_forestieri</i></ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200303" urn="urn:cts:freLit:pos2003.pos200303.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200303" urn="urn:cts:freLit:pos2003.pos200303.position-200303">
         <ti:label xml:lang="fre"><title type="main">“Fuor’ della Città et Stato di Fiorenza”. Migrations et réseaux florentins à la fin du <abbr>xvi<sup>e</sup></abbr> siècle, d’après les <i>Testamenti_forestieri</i></title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre-Frédéric Brau pour obtenir le diplôme d’archiviste paléographe</p>		

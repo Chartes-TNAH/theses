@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200301"
     urn="urn:cts:freLit:pos2003.pos200301" xml:lang="fre"> 
     <ti:title xml:lang="fre">Emile_Bertin (1878-1957), décorateur de théâtre : Le peintre aux vingt âmes diverses</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200301" urn="urn:cts:freLit:pos2003.pos200301.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200301" urn="urn:cts:freLit:pos2003.pos200301.position-200301">
         <ti:label xml:lang="fre"><title type="main">Emile_Bertin (1878-1957), décorateur de théâtre : Le peintre aux vingt âmes diverses</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Iris Berbain pour obtenir le diplôme d’archiviste paléographe</p>		

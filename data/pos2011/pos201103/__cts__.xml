@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201103"
     urn="urn:cts:freLit:pos2011.pos201103" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les premières collections publiques d’égyptologie à Paris (1798-1914)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201103" urn="urn:cts:freLit:pos2011.pos201103.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201103" urn="urn:cts:freLit:pos2011.pos201103.position-201103">
         <ti:label xml:lang="fre"><title type="main">Les premières collections publiques d’égyptologie à Paris (1798-1914)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sandrine Berthier pour obtenir le diplôme d’archiviste paléographe</p>		

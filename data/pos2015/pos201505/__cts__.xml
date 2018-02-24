@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201505"
     urn="urn:cts:freLit:pos2015.pos201505" xml:lang="fre"> 
     <ti:title xml:lang="fre">Un recueil d'exempla franciscain méridional du <abbr>xiii</abbr><sup>e</sup> siècle. Édition critique du manuscrit BNF, lat. 3555</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201505" urn="urn:cts:freLit:pos2015.pos201505.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201505" urn="urn:cts:freLit:pos2015.pos201505.position-201505">
         <ti:label xml:lang="fre"><title type="main">Un recueil d'exempla franciscain méridional du <abbr>xiii</abbr><sup>e</sup> siècle. Édition critique du manuscrit BNF, lat. 3555</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Charles Dandine pour obtenir le diplôme d’archiviste paléographe</p>		

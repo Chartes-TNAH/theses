@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200416"
     urn="urn:cts:freLit:pos2004.pos200416" xml:lang="fre"> 
     <ti:title xml:lang="fre">Étude iconographique de l’Arbre_de_Jessé en France du Nord du <abbr>xiv<sup>e</sup></abbr> siècle au <abbr>xvii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200416" urn="urn:cts:freLit:pos2004.pos200416.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200416" urn="urn:cts:freLit:pos2004.pos200416.position-200416">
         <ti:label xml:lang="fre"><title type="main">Étude iconographique de l’Arbre_de_Jessé en France du Nord du <abbr>xiv<sup>e</sup></abbr> siècle au <abbr>xvii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Séverine Lepape pour obtenir le diplôme d’archiviste paléographe</p>		

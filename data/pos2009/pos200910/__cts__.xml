@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200910"
     urn="urn:cts:freLit:pos2009.pos200910" xml:lang="fre"> 
     <ti:title xml:lang="fre">Recueil des chartes de l’abbaye Sainte-Geneviève de Paris ([996-1016]-1200)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200910" urn="urn:cts:freLit:pos2009.pos200910.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200910" urn="urn:cts:freLit:pos2009.pos200910.position-200910">
         <ti:label xml:lang="fre"><title type="main">Recueil des chartes de l’abbaye Sainte-Geneviève de Paris ([996-1016]-1200)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Noémie Escher pour obtenir le diplôme d’archiviste paléographe</p>		

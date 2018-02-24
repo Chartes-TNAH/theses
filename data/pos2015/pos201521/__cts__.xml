@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201521"
     urn="urn:cts:freLit:pos2015.pos201521" xml:lang="fre"> 
     <ti:title xml:lang="fre">Éclat des églises de Beauvais à la Renaissance. Décor et mobilier (1515-1574)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201521" urn="urn:cts:freLit:pos2015.pos201521.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201521" urn="urn:cts:freLit:pos2015.pos201521.position-201521">
         <ti:label xml:lang="fre"><title type="main">Éclat des églises de Beauvais à la Renaissance. Décor et mobilier (1515-1574)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pascale Pauplin pour obtenir le diplôme d’archiviste paléographe</p>		

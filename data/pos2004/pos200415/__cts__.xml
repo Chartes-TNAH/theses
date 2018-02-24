@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200415"
     urn="urn:cts:freLit:pos2004.pos200415" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’émigration espagnole à Paris (1813-1844)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200415" urn="urn:cts:freLit:pos2004.pos200415.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200415" urn="urn:cts:freLit:pos2004.pos200415.position-200415">
         <ti:label xml:lang="fre"><title type="main">L’émigration espagnole à Paris (1813-1844)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Anne Leblay pour obtenir le diplôme d’archiviste paléographe</p>		

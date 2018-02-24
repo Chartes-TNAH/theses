@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201308"
     urn="urn:cts:freLit:pos2013.pos201308" xml:lang="fre"> 
     <ti:title xml:lang="fre">Aux sources d'une armée permanente : édition critique et commentaire des ordonnances militaires de Charles le Téméraire (1471-1476)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201308" urn="urn:cts:freLit:pos2013.pos201308.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201308" urn="urn:cts:freLit:pos2013.pos201308.position-201308">
         <ti:label xml:lang="fre"><title type="main">Aux sources d'une armée permanente : édition critique et commentaire des ordonnances militaires de Charles le Téméraire (1471-1476)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Fabien Delpu pour obtenir le diplôme d’archiviste paléographe</p>		

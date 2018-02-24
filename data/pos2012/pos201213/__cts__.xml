@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201213"
     urn="urn:cts:freLit:pos2012.pos201213" xml:lang="fre"> 
     <ti:title xml:lang="fre">Liturgie et vie monastique  à l’abbaye bénédictine Saint-Martin de Savigny d’après son ordinaire médiéval. Édition critique et commentaire du ms. Archives départementales du Rhône, 1 H 20 (deuxième quart du <abbr>xiii</abbr><sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201213" urn="urn:cts:freLit:pos2012.pos201213.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201213" urn="urn:cts:freLit:pos2012.pos201213.position-201213">
         <ti:label xml:lang="fre"><title type="main">Liturgie et vie monastique  à l’abbaye bénédictine Saint-Martin de Savigny d’après son ordinaire médiéval. Édition critique et commentaire du ms. Archives départementales du Rhône, 1 H 20 (deuxième quart du <abbr>xiii</abbr><sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pauline Gendry pour obtenir le diplôme d’archiviste paléographe</p>		

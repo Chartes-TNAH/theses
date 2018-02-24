@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200108"
     urn="urn:cts:freLit:pos2001.pos200108" xml:lang="fre"> 
     <ti:title xml:lang="fre">Un commentaire de la <i>Dissuasio_valerii</i> de Gautier_Map : le <i>Hec_epistola</i>  de John_Ridewall, étude et édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200108" urn="urn:cts:freLit:pos2001.pos200108.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200108" urn="urn:cts:freLit:pos2001.pos200108.position-200108">
         <ti:label xml:lang="fre"><title type="main">Un commentaire de la <i>Dissuasio_valerii</i> de Gautier_Map : le <i>Hec_epistola</i>  de John_Ridewall, étude et édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par France Gautier pour obtenir le diplôme d’archiviste paléographe</p>		

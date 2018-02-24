@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200814"
     urn="urn:cts:freLit:pos2008.pos200814" xml:lang="fre"> 
     <ti:title xml:lang="fre">La tradition gréco-latine de l’optique médiévale, de Calcidius jusqu’au <abbr>xii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200814" urn="urn:cts:freLit:pos2008.pos200814.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200814" urn="urn:cts:freLit:pos2008.pos200814.position-200814">
         <ti:label xml:lang="fre"><title type="main">La tradition gréco-latine de l’optique médiévale, de Calcidius jusqu’au <abbr>xii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Colette Dufossé pour obtenir le diplôme d’archiviste paléographe</p>		

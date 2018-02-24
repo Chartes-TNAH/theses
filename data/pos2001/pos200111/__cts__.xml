@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200111"
     urn="urn:cts:freLit:pos2001.pos200111" xml:lang="fre"> 
     <ti:title xml:lang="fre">Édition critique de lettres de Guy_Patin (Bibl. nat. de France, Baluze 148)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200111" urn="urn:cts:freLit:pos2001.pos200111.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200111" urn="urn:cts:freLit:pos2001.pos200111.position-200111">
         <ti:label xml:lang="fre"><title type="main">Édition critique de lettres de Guy_Patin (Bibl. nat. de France, Baluze 148)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Laure Jestaz pour obtenir le diplôme d’archiviste paléographe</p>		

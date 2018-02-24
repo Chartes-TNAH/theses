@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200813"
     urn="urn:cts:freLit:pos2008.pos200813" xml:lang="fre"> 
     <ti:title xml:lang="fre">Michel_Liénard, l’ornement du <abbr>xix<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200813" urn="urn:cts:freLit:pos2008.pos200813.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200813" urn="urn:cts:freLit:pos2008.pos200813.position-200813">
         <ti:label xml:lang="fre"><title type="main">Michel_Liénard, l’ornement du <abbr>xix<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sophie Derrot pour obtenir le diplôme d’archiviste paléographe</p>		

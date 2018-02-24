@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200710"
     urn="urn:cts:freLit:pos2007.pos200710" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’intervention française aux Açores en 1583</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200710" urn="urn:cts:freLit:pos2007.pos200710.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200710" urn="urn:cts:freLit:pos2007.pos200710.position-200710">
         <ti:label xml:lang="fre"><title type="main">L’intervention française aux Açores en 1583</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Magali Duchesne pour obtenir le diplôme d’archiviste paléographe</p>		

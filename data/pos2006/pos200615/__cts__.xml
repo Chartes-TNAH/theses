@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200615"
     urn="urn:cts:freLit:pos2006.pos200615" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le féminisme de Cécile_Brunschvicg (1877-1946)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200615" urn="urn:cts:freLit:pos2006.pos200615.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200615" urn="urn:cts:freLit:pos2006.pos200615.position-200615">
         <ti:label xml:lang="fre"><title type="main">Le féminisme de Cécile_Brunschvicg (1877-1946)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Cécile Formaglio pour obtenir le diplôme d’archiviste paléographe</p>		

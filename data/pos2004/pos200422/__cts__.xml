@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2004" projid="freLit:pos200422"
     urn="urn:cts:freLit:pos2004.pos200422" xml:lang="fre"> 
     <ti:title xml:lang="fre">Lectures médiévales de Salluste</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200422" urn="urn:cts:freLit:pos2004.pos200422.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2004.pos200422" urn="urn:cts:freLit:pos2004.pos200422.position-200422">
         <ti:label xml:lang="fre"><title type="main">Lectures médiévales de Salluste</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Étienne Rouziès pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200715"
     urn="urn:cts:freLit:pos2007.pos200715" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les lettres de dénonciation à l’encontre des conventionnels pendant la Terreur et la Réaction thermidorienne</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200715" urn="urn:cts:freLit:pos2007.pos200715.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200715" urn="urn:cts:freLit:pos2007.pos200715.position-200715">
         <ti:label xml:lang="fre"><title type="main">Les lettres de dénonciation à l’encontre des conventionnels pendant la Terreur et la Réaction thermidorienne</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Jean-Baptiste Legoff pour obtenir le diplôme d’archiviste paléographe</p>		

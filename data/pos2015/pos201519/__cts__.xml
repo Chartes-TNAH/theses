@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201519"
     urn="urn:cts:freLit:pos2015.pos201519" xml:lang="fre"> 
     <ti:title xml:lang="fre">À l’enseigne de La Cloche d’or. Les Le Guay, une dynastie de fondeurs de cloches à Paris sous l’Ancien Régime</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201519" urn="urn:cts:freLit:pos2015.pos201519.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201519" urn="urn:cts:freLit:pos2015.pos201519.position-201519">
         <ti:label xml:lang="fre"><title type="main">À l’enseigne de La Cloche d’or. Les Le Guay, une dynastie de fondeurs de cloches à Paris sous l’Ancien Régime</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Clément Noual pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200907"
     urn="urn:cts:freLit:pos2009.pos200907" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le cartulaire de l’abbaye du Mont-Saint-Michel et ses additions. Étude et édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200907" urn="urn:cts:freLit:pos2009.pos200907.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200907" urn="urn:cts:freLit:pos2009.pos200907.position-200907">
         <ti:label xml:lang="fre"><title type="main">Le cartulaire de l’abbaye du Mont-Saint-Michel et ses additions. Étude et édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Coraline Coutant pour obtenir le diplôme d’archiviste paléographe</p>		

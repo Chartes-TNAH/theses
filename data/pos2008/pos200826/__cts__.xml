@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200826"
     urn="urn:cts:freLit:pos2008.pos200826" xml:lang="fre"> 
     <ti:title xml:lang="fre">La place du manuscrit Plut. 32 sin. IV de la Biblioteca_Medicea_Laurenziana dans la tradition du <i>De_Sanctis</i> de Jacques_de_Voragine</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200826" urn="urn:cts:freLit:pos2008.pos200826.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200826" urn="urn:cts:freLit:pos2008.pos200826.position-200826">
         <ti:label xml:lang="fre"><title type="main">La place du manuscrit Plut. 32 sin. IV de la Biblioteca_Medicea_Laurenziana dans la tradition du <i>De_Sanctis</i> de Jacques_de_Voragine</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Dorothée Servera pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200504"
     urn="urn:cts:freLit:pos2005.pos200504" xml:lang="fre"> 
     <ti:title xml:lang="fre">La tradition manuscrite de l’<i>Image_du_monde</i>. Fortune et diffusion d’une encyclopédie du <abbr>xiii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200504" urn="urn:cts:freLit:pos2005.pos200504.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200504" urn="urn:cts:freLit:pos2005.pos200504.position-200504">
         <ti:label xml:lang="fre"><title type="main">La tradition manuscrite de l’<i>Image_du_monde</i>. Fortune et diffusion d’une encyclopédie du <abbr>xiii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sara Centili pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200226"
     urn="urn:cts:freLit:pos2002.pos200226" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les chasses impériales de Napoléon_III</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200226" urn="urn:cts:freLit:pos2002.pos200226.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200226" urn="urn:cts:freLit:pos2002.pos200226.position-200226">
         <ti:label xml:lang="fre"><title type="main">Les chasses impériales de Napoléon_III</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Géraldine Peoc’h pour obtenir le diplôme d’archiviste paléographe</p>		

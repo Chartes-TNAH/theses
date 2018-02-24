@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200820"
     urn="urn:cts:freLit:pos2008.pos200820" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le discours des missionnaires français en Corée (1831-1886). Correspondance et relations</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200820" urn="urn:cts:freLit:pos2008.pos200820.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200820" urn="urn:cts:freLit:pos2008.pos200820.position-200820">
         <ti:label xml:lang="fre"><title type="main">Le discours des missionnaires français en Corée (1831-1886). Correspondance et relations</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Eun-Young Kim pour obtenir le diplôme d’archiviste paléographe</p>		

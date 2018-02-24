@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200908"
     urn="urn:cts:freLit:pos2009.pos200908" xml:lang="fre"> 
     <ti:title xml:lang="fre">La musique à la cour du roi de France (1461-1515)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200908" urn="urn:cts:freLit:pos2009.pos200908.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200908" urn="urn:cts:freLit:pos2009.pos200908.position-200908">
         <ti:label xml:lang="fre"><title type="main">La musique à la cour du roi de France (1461-1515)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Bertrand Depeyrot pour obtenir le diplôme d’archiviste paléographe</p>		

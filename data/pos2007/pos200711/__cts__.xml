@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2007" projid="freLit:pos200711"
     urn="urn:cts:freLit:pos2007.pos200711" xml:lang="fre"> 
     <ti:title xml:lang="fre">Henry_Marcel (1854-1926)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200711" urn="urn:cts:freLit:pos2007.pos200711.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2007.pos200711" urn="urn:cts:freLit:pos2007.pos200711.position-200711">
         <ti:label xml:lang="fre"><title type="main">Henry_Marcel (1854-1926)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Agathe Dufour pour obtenir le diplôme d’archiviste paléographe</p>		

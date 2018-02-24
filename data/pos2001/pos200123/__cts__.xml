@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200123"
     urn="urn:cts:freLit:pos2001.pos200123" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’exposition universelle de 1867 : apothéose du second empire et de la génération de 1830</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200123" urn="urn:cts:freLit:pos2001.pos200123.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200123" urn="urn:cts:freLit:pos2001.pos200123.position-200123">
         <ti:label xml:lang="fre"><title type="main">L’exposition universelle de 1867 : apothéose du second empire et de la génération de 1830</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Edouard Vasseur pour obtenir le diplôme d’archiviste paléographe</p>		

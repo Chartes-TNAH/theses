@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200827"
     urn="urn:cts:freLit:pos2008.pos200827" xml:lang="fre"> 
     <ti:title xml:lang="fre">Inventaires de trésors de l’époque carolingienne en Francie occidentale (VIII<sup>e</sup>-X<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200827" urn="urn:cts:freLit:pos2008.pos200827.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200827" urn="urn:cts:freLit:pos2008.pos200827.position-200827">
         <ti:label xml:lang="fre"><title type="main">Inventaires de trésors de l’époque carolingienne en Francie occidentale (VIII<sup>e</sup>-X<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Claire Sonnefraud pour obtenir le diplôme d’archiviste paléographe</p>		

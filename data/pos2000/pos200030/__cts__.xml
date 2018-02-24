@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200030"
     urn="urn:cts:freLit:pos2000.pos200030" xml:lang="fre"> 
     <ti:title xml:lang="fre">Poésie française et métrique latine chez Michel_de_Boteauville. Édition critique bilingue latin-français du poème « Les_Misères_de_la_guerre » (<i>Carmen_de_miseriis_guerre</i>)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200030" urn="urn:cts:freLit:pos2000.pos200030.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200030" urn="urn:cts:freLit:pos2000.pos200030.position-200030">
         <ti:label xml:lang="fre"><title type="main">Poésie française et métrique latine chez Michel_de_Boteauville. Édition critique bilingue latin-français du poème « Les_Misères_de_la_guerre » (<i>Carmen_de_miseriis_guerre</i>)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Louis-Gilles Pairault pour obtenir le diplôme d’archiviste paléographe</p>		

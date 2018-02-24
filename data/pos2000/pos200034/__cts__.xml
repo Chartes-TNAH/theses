@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200034"
     urn="urn:cts:freLit:pos2000.pos200034" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les voyages français à la Chine. Vaisseaux et équipages (1720-1793)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200034" urn="urn:cts:freLit:pos2000.pos200034.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200034" urn="urn:cts:freLit:pos2000.pos200034.position-200034">
         <ti:label xml:lang="fre"><title type="main">Les voyages français à la Chine. Vaisseaux et équipages (1720-1793)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Marion Veyssière pour obtenir le diplôme d’archiviste paléographe</p>		

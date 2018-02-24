@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201117"
     urn="urn:cts:freLit:pos2011.pos201117" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les écritures cursives livresques en France (1250-1420). Essai de paléographie quantitative d’après le <i>Catalogue des manuscrits datés</i>.</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201117" urn="urn:cts:freLit:pos2011.pos201117.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201117" urn="urn:cts:freLit:pos2011.pos201117.position-201117">
         <ti:label xml:lang="fre"><title type="main">Les écritures cursives livresques en France (1250-1420). Essai de paléographie quantitative d’après le <i>Catalogue des manuscrits datés</i>.</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Maria Gurrado pour obtenir le diplôme d’archiviste paléographe</p>		

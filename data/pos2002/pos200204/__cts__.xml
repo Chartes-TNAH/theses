@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200204"
     urn="urn:cts:freLit:pos2002.pos200204" xml:lang="fre"> 
     <ti:title xml:lang="fre">Éditer la littérature médiévale en France dans la première du <abbr>xix<sup>e</sup></abbr> siècle : éditeurs et éditions en_« empirie »</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200204" urn="urn:cts:freLit:pos2002.pos200204.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200204" urn="urn:cts:freLit:pos2002.pos200204.position-200204">
         <ti:label xml:lang="fre"><title type="main">Éditer la littérature médiévale en France dans la première du <abbr>xix<sup>e</sup></abbr> siècle : éditeurs et éditions en_« empirie »</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Nathalie Clot pour obtenir le diplôme d’archiviste paléographe</p>		

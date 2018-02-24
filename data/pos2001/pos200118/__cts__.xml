@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200118"
     urn="urn:cts:freLit:pos2001.pos200118" xml:lang="fre"> 
     <ti:title xml:lang="fre">La bibliothèque médiévale du collège_des_Cholets</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200118" urn="urn:cts:freLit:pos2001.pos200118.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200118" urn="urn:cts:freLit:pos2001.pos200118.position-200118">
         <ti:label xml:lang="fre"><title type="main">La bibliothèque médiévale du collège_des_Cholets</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Karine Rebmeister pour obtenir le diplôme d’archiviste paléographe</p>		

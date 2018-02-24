@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2006" projid="freLit:pos200613"
     urn="urn:cts:freLit:pos2006.pos200613" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les châteaux de l’orbite des Polignac en Velay (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200613" urn="urn:cts:freLit:pos2006.pos200613.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2006.pos200613" urn="urn:cts:freLit:pos2006.pos200613.position-200613">
         <ti:label xml:lang="fre"><title type="main">Les châteaux de l’orbite des Polignac en Velay (XIII<sup>e</sup>-XVI<sup>e</sup> siècle)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Bérangère Dumalle pour obtenir le diplôme d’archiviste paléographe</p>		

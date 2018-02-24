@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200120"
     urn="urn:cts:freLit:pos2001.pos200120" xml:lang="fre"> 
     <ti:title xml:lang="fre">Correspondance de Jean-Victor_Schnetz, directeur de l’Académie_de_France_à_Rome, de 1841 à 1846 et de 1853 à 1866: édition commentée</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200120" urn="urn:cts:freLit:pos2001.pos200120.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200120" urn="urn:cts:freLit:pos2001.pos200120.position-200120">
         <ti:label xml:lang="fre"><title type="main">Correspondance de Jean-Victor_Schnetz, directeur de l’Académie_de_France_à_Rome, de 1841 à 1846 et de 1853 à 1866: édition commentée</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Emilie Robbe pour obtenir le diplôme d’archiviste paléographe</p>		

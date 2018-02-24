@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201509"
     urn="urn:cts:freLit:pos2015.pos201509" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le ballet de l’Opéra de Paris sous le Second Empire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201509" urn="urn:cts:freLit:pos2015.pos201509.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201509" urn="urn:cts:freLit:pos2015.pos201509.position-201509">
         <ti:label xml:lang="fre"><title type="main">Le ballet de l’Opéra de Paris sous le Second Empire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Émilie Fissier pour obtenir le diplôme d’archiviste paléographe</p>		

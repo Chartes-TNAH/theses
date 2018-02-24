@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200322"
     urn="urn:cts:freLit:pos2003.pos200322" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’engagement résistant d’Alexandre_Parodi (1940-1944)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200322" urn="urn:cts:freLit:pos2003.pos200322.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200322" urn="urn:cts:freLit:pos2003.pos200322.position-200322">
         <ti:label xml:lang="fre"><title type="main">L’engagement résistant d’Alexandre_Parodi (1940-1944)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Sébastien Studer pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200312"
     urn="urn:cts:freLit:pos2003.pos200312" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les études grecques à l’abbaye de Saint-Denis au <abbr>xii<sup>e</sup></abbr> siècle</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200312" urn="urn:cts:freLit:pos2003.pos200312.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200312" urn="urn:cts:freLit:pos2003.pos200312.position-200312">
         <ti:label xml:lang="fre"><title type="main">Les études grecques à l’abbaye de Saint-Denis au <abbr>xii<sup>e</sup></abbr> siècle</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Pierre Gandil pour obtenir le diplôme d’archiviste paléographe</p>		

@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201006"
     urn="urn:cts:freLit:pos2010.pos201006" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les coutumes du château de Limoges. Élaboration d’un droit urbain en pays de langue d’oc (XIII<sup>e</sup>-XIV<sup>e</sup> siècles)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201006" urn="urn:cts:freLit:pos2010.pos201006.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201006" urn="urn:cts:freLit:pos2010.pos201006.position-201006">
         <ti:label xml:lang="fre"><title type="main">Les coutumes du château de Limoges. Élaboration d’un droit urbain en pays de langue d’oc (XIII<sup>e</sup>-XIV<sup>e</sup> siècles)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Bertrand Caron pour obtenir le diplôme d’archiviste paléographe</p>		

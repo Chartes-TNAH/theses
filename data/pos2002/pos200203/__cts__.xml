@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2002" projid="freLit:pos200203"
     urn="urn:cts:freLit:pos2002.pos200203" xml:lang="fre"> 
     <ti:title xml:lang="fre">Notre-Dame de Senlis, une cathédrale au cœur de la cité</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200203" urn="urn:cts:freLit:pos2002.pos200203.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2002.pos200203" urn="urn:cts:freLit:pos2002.pos200203.position-200203">
         <ti:label xml:lang="fre"><title type="main">Notre-Dame de Senlis, une cathédrale au cœur de la cité</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Delphine Christophe pour obtenir le diplôme d’archiviste paléographe</p>		

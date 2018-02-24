@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200502"
     urn="urn:cts:freLit:pos2005.pos200502" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les sermons d’Arnoul_de_Lisieux</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200502" urn="urn:cts:freLit:pos2005.pos200502.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200502" urn="urn:cts:freLit:pos2005.pos200502.position-200502">
         <ti:label xml:lang="fre"><title type="main">Les sermons d’Arnoul_de_Lisieux</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Audry Bettant pour obtenir le diplôme d’archiviste paléographe</p>		

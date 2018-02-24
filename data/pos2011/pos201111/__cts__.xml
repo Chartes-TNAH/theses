@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2011" projid="freLit:pos201111"
     urn="urn:cts:freLit:pos2011.pos201111" xml:lang="fre"> 
     <ti:title xml:lang="fre">Poétique de louange et d’éloge à Cluny au <abbr>xii<sup>e</sup></abbr> siècle. Édition critique des œuvres poétiques complètes de Pierre le Vénérable et de Pierre de Poitiers et du <i>Mariale</i> de Bernard de Morlas</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201111" urn="urn:cts:freLit:pos2011.pos201111.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2011.pos201111" urn="urn:cts:freLit:pos2011.pos201111.position-201111">
         <ti:label xml:lang="fre"><title type="main">Poétique de louange et d’éloge à Cluny au <abbr>xii<sup>e</sup></abbr> siècle. Édition critique des œuvres poétiques complètes de Pierre le Vénérable et de Pierre de Poitiers et du <i>Mariale</i> de Bernard de Morlas</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Franz Dolveck pour obtenir le diplôme d’archiviste paléographe</p>		

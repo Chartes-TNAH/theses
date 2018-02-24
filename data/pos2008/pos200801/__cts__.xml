@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200801"
     urn="urn:cts:freLit:pos2008.pos200801" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les carnets de voyage de Malesherbes. Étude et édition critique</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200801" urn="urn:cts:freLit:pos2008.pos200801.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200801" urn="urn:cts:freLit:pos2008.pos200801.position-200801">
         <ti:label xml:lang="fre"><title type="main">Les carnets de voyage de Malesherbes. Étude et édition critique</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Mélanie Bart pour obtenir le diplôme d’archiviste paléographe</p>		

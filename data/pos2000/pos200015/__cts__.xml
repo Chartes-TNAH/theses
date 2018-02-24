@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2000" projid="freLit:pos200015"
     urn="urn:cts:freLit:pos2000.pos200015" xml:lang="fre"> 
     <ti:title xml:lang="fre">L’École d’agriculture de Grignon (1867-1918)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200015" urn="urn:cts:freLit:pos2000.pos200015.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2000.pos200015" urn="urn:cts:freLit:pos2000.pos200015.position-200015">
         <ti:label xml:lang="fre"><title type="main">L’École d’agriculture de Grignon (1867-1918)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Françoise Delfour pour obtenir le diplôme d’archiviste paléographe</p>		

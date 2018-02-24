@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2003" projid="freLit:pos200305"
     urn="urn:cts:freLit:pos2003.pos200305" xml:lang="fre"> 
     <ti:title xml:lang="fre">Témoigner du présent : le journal de Hyacinthe_Chobaut (1939-1946). Édition critique et commentaire</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200305" urn="urn:cts:freLit:pos2003.pos200305.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2003.pos200305" urn="urn:cts:freLit:pos2003.pos200305.position-200305">
         <ti:label xml:lang="fre"><title type="main">Témoigner du présent : le journal de Hyacinthe_Chobaut (1939-1946). Édition critique et commentaire</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Violaine Challéat pour obtenir le diplôme d’archiviste paléographe</p>		

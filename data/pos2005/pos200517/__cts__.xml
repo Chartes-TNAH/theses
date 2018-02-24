@@ -4,7 +4,7 @@
     groupUrn="urn:cts:freLit:pos2005" projid="freLit:pos200517"
     urn="urn:cts:freLit:pos2005.pos200517" xml:lang="fre"> 
     <ti:title xml:lang="fre">Blenheim, Ramillies, Audenarde. Les défaites françaises de la guerre_de_Succession_d_Espagne (1704-1708)</ti:title>
-    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200517" urn="urn:cts:freLit:pos2005.pos200517.posENC">
+    <ti:edition workUrn="urn:cts:freLit:pos2005.pos200517" urn="urn:cts:freLit:pos2005.pos200517.position-200517">
         <ti:label xml:lang="fre"><title type="main">Blenheim, Ramillies, Audenarde. Les défaites françaises de la guerre_de_Succession_d_Espagne (1704-1708)</title></ti:label>
         <ti:description xml:lang="fre">
             <p>Positions des thèses soutenues par Clément Oury pour obtenir le diplôme d’archiviste paléographe</p>		
