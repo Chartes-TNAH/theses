@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201302"
     urn="urn:cts:freLit:pos2013.pos201302" xml:lang="fre"> 
     <ti:title xml:lang="fre">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201302" urn="urn:cts:freLit:pos2013.pos201302.posENC">
+        <ti:label xml:lang="fre"><title type="main">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Emanuele Arioli pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2013</dc:date>

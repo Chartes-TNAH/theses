@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201217"
     urn="urn:cts:freLit:pos2012.pos201217" xml:lang="fre"> 
     <ti:title xml:lang="fre">Sauver l’écran en danger. Le cinéma américain en France (1926-1936). Domination et résistances</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201217" urn="urn:cts:freLit:pos2012.pos201217.posENC">
+        <ti:label xml:lang="fre"><title type="main">Sauver l’écran en danger. Le cinéma américain en France (1926-1936). Domination et résistances</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Alicia León y Barella pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2012</dc:date>

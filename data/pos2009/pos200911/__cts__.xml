@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200911"
     urn="urn:cts:freLit:pos2009.pos200911" xml:lang="fre"> 
     <ti:title xml:lang="fre">De l’agent seigneurial au fonctionnaire. Notaires, notariat et société en bas-Dauphiné (1770-1820)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200911" urn="urn:cts:freLit:pos2009.pos200911.posENC">
+        <ti:label xml:lang="fre"><title type="main">De l’agent seigneurial au fonctionnaire. Notaires, notariat et société en bas-Dauphiné (1770-1820)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par François Falconet pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2009</dc:date>

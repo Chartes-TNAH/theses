@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2012" projid="freLit:pos201204"
     urn="urn:cts:freLit:pos2012.pos201204" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le chartrier de l’abbaye de la Trinité de Fécamp (928/929-1190). Étude et édition critique</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2012.pos201204" urn="urn:cts:freLit:pos2012.pos201204.posENC">
+        <ti:label xml:lang="fre"><title type="main">Le chartrier de l’abbaye de la Trinité de Fécamp (928/929-1190). Étude et édition critique</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Michaël Bloche pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2012</dc:date>

@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2013" projid="freLit:pos201310"
     urn="urn:cts:freLit:pos2013.pos201310" xml:lang="fre"> 
     <ti:title xml:lang="fre">Dans l’ombre de Napoléon : le général Bertrand après la chute de l'Empire (1815-1844)</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2013.pos201310" urn="urn:cts:freLit:pos2013.pos201310.posENC">
+        <ti:label xml:lang="fre"><title type="main">Dans l’ombre de Napoléon : le général Bertrand après la chute de l'Empire (1815-1844)</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Aurélien Dupuis pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2013</dc:date>

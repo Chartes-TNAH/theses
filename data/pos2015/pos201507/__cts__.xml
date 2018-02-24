@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2015" projid="freLit:pos201507"
     urn="urn:cts:freLit:pos2015.pos201507" xml:lang="fre"> 
     <ti:title xml:lang="fre">Les Mémoires de Philippe de Vigneulles (1471-1522). Édition critique du manuscrit BNF, nouv. acq. fr. 6720</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2015.pos201507" urn="urn:cts:freLit:pos2015.pos201507.posENC">
+        <ti:label xml:lang="fre"><title type="main">Les Mémoires de Philippe de Vigneulles (1471-1522). Édition critique du manuscrit BNF, nouv. acq. fr. 6720</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Fanny Faltot pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2015</dc:date>

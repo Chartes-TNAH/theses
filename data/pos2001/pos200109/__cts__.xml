@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2001" projid="freLit:pos200109"
     urn="urn:cts:freLit:pos2001.pos200109" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le quartier de l’hôtel Saint-Paul à Paris (1360-1550) : étude topographique, économique et sociale</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2001.pos200109" urn="urn:cts:freLit:pos2001.pos200109.posENC">
+        <ti:label xml:lang="fre"><title type="main">Le quartier de l’hôtel Saint-Paul à Paris (1360-1550) : étude topographique, économique et sociale</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Estelle Guerber pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2001</dc:date>

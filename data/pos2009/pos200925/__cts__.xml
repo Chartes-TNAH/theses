@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2009" projid="freLit:pos200925"
     urn="urn:cts:freLit:pos2009.pos200925" xml:lang="fre"> 
     <ti:title xml:lang="fre">Pierre_Gringore (v. 1475-v. 1538), homme de lettres, de théâtre et de cour. Être auteur au <abbr>xvi<sup>e</sup></abbr> siècle</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2009.pos200925" urn="urn:cts:freLit:pos2009.pos200925.posENC">
+        <ti:label xml:lang="fre"><title type="main">Pierre_Gringore (v. 1475-v. 1538), homme de lettres, de théâtre et de cour. Être auteur au <abbr>xvi<sup>e</sup></abbr> siècle</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Florine Stankiewicz pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2009</dc:date>

@@ -4,6 +4,12 @@
     groupUrn="urn:cts:freLit:pos2010" projid="freLit:pos201012"
     urn="urn:cts:freLit:pos2010.pos201012" xml:lang="fre"> 
     <ti:title xml:lang="fre">Le livre de raison (1729-1745) de Jean-Baptiste_de_Grille. Vie quotidienne et portrait intime d’un gentilhomme arlésien dans la première moitié du <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2010.pos201012" urn="urn:cts:freLit:pos2010.pos201012.posENC">
+        <ti:label xml:lang="fre"><title type="main">Le livre de raison (1729-1745) de Jean-Baptiste_de_Grille. Vie quotidienne et portrait intime d’un gentilhomme arlésien dans la première moitié du <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Marie-Anne Domergue pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
     <cpt:structured-metadata>
         <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
         <dc:date rdf:datatype="xsd:gYear">2010</dc:date>
