@@ -4,7 +4,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</title>      
+            <title type="main">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</title>
             <author ref="https://www.idref.fr/167813153">Emanuele Arioli</author>
         </titleStmt>
         <editionStmt>
@@ -18,28 +18,23 @@
             </availability>
         </publicationStmt>
         <seriesStmt>
-                <title>Positions des thèses</title>  
+                <title>Positions des thèses</title>
                 <idno type="issn">0755-2076</idno>
-                <idno type="URI">http://www.sudoc.fr/013565311</idno>                
+                <idno type="URI">http://www.sudoc.fr/013565311</idno>
         </seriesStmt>
         <sourceDesc>
             <bibl>
                     <title>Positions des thèses soutenues par les élèves de la promotion de 2013 pour obtenir le diplôme d’archiviste paléographe</title> <pubPlace>Paris</pubPlace>,<publisher>École nationale des chartes</publisher><biblScope unit="annee">2013</biblScope>
             <relatedItem type="these">
                 <bibl>
-                     <title ref="http://www.sudoc.fr/167812955">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</title> 
+                     <title ref="http://www.sudoc.fr/167812955">Ségurant ou le Chevalier au Dragon : roman arthurien inédit (<abbr>xiii</abbr><sup>e</sup>-<abbr>xv</abbr><sup>e</sup> siècle)</title>
                 </bibl>
             </relatedItem>
-            </bibl>     
+            </bibl>
         </sourceDesc>
     </fileDesc>
     <encodingDesc>
     <refsDecl n="CTS">
-      <cRefPattern n="chapter"
-        matchPattern="(\w+).(\w+)"
-        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1']/tei:div[@n='$2'])">
-        <p>This pointer pattern extracts part and chapter</p>
-      </cRefPattern>
       <cRefPattern n="part"
         matchPattern="(\w+)"
         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1'])">
@@ -112,7 +107,7 @@
    </div>
    <div type="conclusion" n="6">
       <head>Conclusion </head>
-      <p>La « version de base » de <hi rend="i">Ségurant</hi> a été inspirée par une lecture du <hi rend="i">Lancelot</hi> et du <hi rend="i">Tristan</hi> 
+      <p>La « version de base » de <hi rend="i">Ségurant</hi> a été inspirée par une lecture du <hi rend="i">Lancelot</hi> et du <hi rend="i">Tristan</hi>
          <hi rend="i">en prose</hi>. Elle reparcourt la temporalité de ces deux romans, mais avec un nouveau personnage, Ségurant. La dimension amoureuse et la dimension sacrée disparaissent au profit de la dimension guerrière et des représentations de la vie de cour : les rêves d’une classe en déclin, la chevalerie, sont alors confiés avec nostalgie au roman. L’auteur hésite entre l’attachement et le renoncement à ses modèles, entre la fidélité et l’inventivité. </p>
       <p>À côté de la « version de base » ont fleuri les « épisodes » et les « versions complémentaires » puis les « versions alternatives ». Les compilateurs ont adapté les textes, ils les ont « découpés » en les insérant dans leurs compilations, ils ont rempli leurs ellipses par d’autres épisodes. À la suite de ces opérations complexes, nous ne conservons que des débris du roman d’origine. Les textes réunis dans notre édition forment alors un labyrinthe textuel qu’il est possible d’explorer à travers plusieurs chemins. </p>
       <p>Ce roman, jusqu’à présent inédit et inconnu, est exemplaire de l’évolution de la littérature arthurienne. Après la période des premiers romans arthuriens en prose (1190-1240), se diffusent des compilations arthuriennes : les romans tendent vers la fragmentation. Ainsi, <hi rend="i">Ségurant </hi>a été démembré par des compilateurs qui en ont inséré des épisodes dans leurs florilèges. Ensuite, à partir de la moitié du <num>xiv</num>
