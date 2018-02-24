@@ -94,6 +94,14 @@
         </element>
       </element>
       <element name="text">
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">base</name>
+          <data type="anyURI"/>
+        </attribute>
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">lang</name>
+          <data type="NCName"/>
+        </attribute>
         <element name="body">
           <element name="byline">
             <element name="docAuthor">
@@ -163,7 +171,20 @@
   </define>
   <define name="p">
     <element name="p">
-      <text/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+          <element name="num">
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="hi"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
     </element>
   </define>
   <define name="div">
@@ -177,7 +198,14 @@
           <choice>
             <ref name="div"/>
             <element name="head">
-              <text/>
+              <oneOrMore>
+                <choice>
+                  <text/>
+                  <element name="lb">
+                    <empty/>
+                  </element>
+                </choice>
+              </oneOrMore>
             </element>
           </choice>
         </oneOrMore>
@@ -185,6 +213,14 @@
           <ref name="p"/>
         </oneOrMore>
       </optional>
+    </element>
+  </define>
+  <define name="hi">
+    <element name="hi">
+      <attribute name="rend">
+        <data type="NCName"/>
+      </attribute>
+      <text/>
     </element>
   </define>
 </grammar>
