@@ -3,6 +3,10 @@
   <start>
     <element name="TEI">
       <attribute>
+        <name ns="http://www.w3.org/XML/1998/namespace">id</name>
+        <data type="NCName"/>
+      </attribute>
+      <attribute>
         <name ns="http://www.w3.org/XML/1998/namespace">lang</name>
         <data type="NCName"/>
       </attribute>
@@ -14,7 +18,7 @@
               <attribute name="ref">
                 <data type="anyURI"/>
               </attribute>
-              <data type="NCName"/>
+              <text/>
             </element>
           </element>
           <element name="editionStmt">
@@ -94,14 +98,22 @@
         </element>
       </element>
       <element name="text">
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">base</name>
+          <data type="anyURI"/>
+        </attribute>
+        <attribute>
+          <name ns="http://www.w3.org/XML/1998/namespace">lang</name>
+          <data type="NCName"/>
+        </attribute>
         <element name="body">
           <element name="byline">
             <element name="docAuthor">
               <element name="forename">
-                <data type="NCName"/>
+                <data type="token"/>
               </element>
               <element name="surname">
-                <data type="NCName"/>
+                <data type="token"/>
               </element>
             </element>
           </element>
@@ -127,15 +139,27 @@
       <oneOrMore>
         <choice>
           <text/>
-          <ref name="publisher"/>
-          <element name="biblScope">
-            <attribute name="unit">
-              <data type="NCName"/>
-            </attribute>
-            <data type="NCName"/>
+          <element name="i">
+            <zeroOrMore>
+<text/>              
+            </zeroOrMore>
           </element>
-          <element name="pubPlace">
-            <data type="NCName"/>
+          <element name="abbr">
+            <zeroOrMore>
+              <choice>
+                <text/>
+                <element name="sup">
+                  <data type="NCName"/>
+                </element>
+              </choice>
+            </zeroOrMore>
+          </element>
+          <element name="sup">
+            <choice>
+              <zeroOrMore>
+                <text/>
+              </zeroOrMore>
+            </choice>
           </element>
         </choice>
       </oneOrMore>
@@ -148,9 +172,20 @@
   </define>
   <define name="bibl">
     <element name="bibl">
-      <zeroOrMore>
+      <oneOrMore>
         <choice>
+          <text/>
+          <ref name="publisher"/>
           <ref name="title"/>
+          <element name="biblScope">
+            <attribute name="unit">
+              <data type="NCName"/>
+            </attribute>
+            <data type="NMTOKEN"/>
+          </element>
+          <element name="pubPlace">
+            <data type="NCName"/>
+          </element>
           <element name="relatedItem">
             <attribute name="type">
               <data type="NCName"/>
@@ -158,13 +193,78 @@
             <ref name="bibl"/>
           </element>
         </choice>
-      </zeroOrMore>
+      </oneOrMore>
     </element>
   </define>
   <define name="p">
     <element name="p">
-      <text/>
-    </element>
+      <oneOrMore>
+        <choice>
+          <attribute name="rend">            
+          </attribute>
+          <text/>
+          <ref name="hi"/>
+          <element name="num">
+            <zeroOrMore>
+              <choice>
+                <text/>
+                <ref name="hi"/>
+              </choice>
+            </zeroOrMore>
+          </element>
+          <element name="emph">
+            <zeroOrMore>
+              <choice>                
+              <text/>
+              <element name="num">
+                <oneOrMore>
+                  <choice>
+                <text/>
+                <element name="hi">
+                  <attribute name="rend">                    
+                  </attribute>
+<text/>                  
+                </element>
+                  </choice>
+                </oneOrMore>
+              </element>
+                <element name="hi">
+                  <text/>
+                  <attribute name="rend">
+                  </attribute>
+                </element>
+              </choice>
+            </zeroOrMore>
+          </element>
+          <element name="term">
+            <oneOrMore>
+              <choice>
+            <attribute name="rend">              
+            </attribute>
+            <attribute name="key">              
+            </attribute>
+            <attribute name="type">              
+            </attribute>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="space">
+            <text/>
+          </element>
+          <element name="img">
+            <attribute name="src">
+              <data type="anyURI"/>
+            </attribute>
+            <attribute name="height">
+              <data type="integer"/>
+            </attribute>
+            <attribute name="width">
+              <data type="integer"/>
+            </attribute>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>    
   </define>
   <define name="div">
     <element name="div">
@@ -177,14 +277,66 @@
           <choice>
             <ref name="div"/>
             <element name="head">
-              <text/>
+              <oneOrMore>
+                <choice>
+                  <text/>
+                  <element name="lb">
+                    <empty/>
+                  </element>
+                </choice>
+              </oneOrMore>
             </element>
           </choice>
         </oneOrMore>
-        <oneOrMore>
+        <zeroOrMore>
           <ref name="p"/>
-        </oneOrMore>
+        </zeroOrMore>
       </optional>
+    </element>
+  </define>
+  <define name="hi">
+    <element name="hi">
+<oneOrMore>
+  <choice>
+    <oneOrMore>
+      <choice>
+      <attribute name="rend">
+        <data type="NCName"/>        
+      </attribute>
+    <attribute name="n">
+      <data type="integer"/>        
+    </attribute>
+      </choice>
+    </oneOrMore>
+      <text/>
+    <element name="hi">
+      <attribute name="rend">
+        <data type="NCName"/>        
+      </attribute>
+      <text/>
+    </element>
+      <element name="num">
+        <oneOrMore>
+          <choice>
+        <text/>
+        <element name="hi">
+          <oneOrMore>
+            <choice>
+          <attribute name="rend">
+            <data type="NCName"/>        
+          </attribute>
+          <text/>
+          <element name="hi">
+            <text/>
+          </element>
+            </choice>
+          </oneOrMore>
+        </element>
+          </choice>
+        </oneOrMore>
+      </element> 
+    </choice>
+    </oneOrMore>
     </element>
   </define>
 </grammar>
