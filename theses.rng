@@ -110,10 +110,10 @@
           <element name="byline">
             <element name="docAuthor">
               <element name="forename">
-                <data type="NCName"/>
+                <data type="token"/>
               </element>
               <element name="surname">
-                <data type="NCName"/>
+                <data type="token"/>
               </element>
             </element>
           </element>
@@ -200,6 +200,8 @@
     <element name="p">
       <oneOrMore>
         <choice>
+          <attribute name="rend">            
+          </attribute>
           <text/>
           <ref name="hi"/>
           <element name="num">
@@ -212,10 +214,19 @@
           </element>
           <element name="emph">
             <zeroOrMore>
-              <choice>
+              <choice>                
               <text/>
               <element name="num">
+                <oneOrMore>
+                  <choice>
                 <text/>
+                <element name="hi">
+                  <attribute name="rend">                    
+                  </attribute>
+<text/>                  
+                </element>
+                  </choice>
+                </oneOrMore>
               </element>
                 <element name="hi">
                   <text/>
@@ -225,10 +236,35 @@
               </choice>
             </zeroOrMore>
           </element>
+          <element name="term">
+            <oneOrMore>
+              <choice>
+            <attribute name="rend">              
+            </attribute>
+            <attribute name="key">              
+            </attribute>
+            <attribute name="type">              
+            </attribute>
+              </choice>
+            </oneOrMore>
+          </element>
+          <element name="space">
+            <text/>
+          </element>
+          <element name="img">
+            <attribute name="src">
+              <data type="anyURI"/>
+            </attribute>
+            <attribute name="height">
+              <data type="integer"/>
+            </attribute>
+            <attribute name="width">
+              <data type="integer"/>
+            </attribute>
+          </element>
         </choice>
       </oneOrMore>
-    </element>
-    
+    </element>    
   </define>
   <define name="div">
     <element name="div">
@@ -259,11 +295,48 @@
     </element>
   </define>
   <define name="hi">
-    <element name="hi">      
+    <element name="hi">
+<oneOrMore>
+  <choice>
+    <oneOrMore>
+      <choice>
       <attribute name="rend">
         <data type="NCName"/>        
-      </attribute>   
+      </attribute>
+    <attribute name="n">
+      <data type="integer"/>        
+    </attribute>
+      </choice>
+    </oneOrMore>
       <text/>
+    <element name="hi">
+      <attribute name="rend">
+        <data type="NCName"/>        
+      </attribute>
+      <text/>
+    </element>
+      <element name="num">
+        <oneOrMore>
+          <choice>
+        <text/>
+        <element name="hi">
+          <oneOrMore>
+            <choice>
+          <attribute name="rend">
+            <data type="NCName"/>        
+          </attribute>
+          <text/>
+          <element name="hi">
+            <text/>
+          </element>
+            </choice>
+          </oneOrMore>
+        </element>
+          </choice>
+        </oneOrMore>
+      </element> 
+    </choice>
+    </oneOrMore>
     </element>
   </define>
 </grammar>
