@@ -4,7 +4,7 @@
 <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Notre-Dame de Senlis, une cathédrale au cœur de la cité</title>      
+            <title type="main">Notre-Dame de Senlis, une cathédrale au cœur de la cité</title>
             <author ref="https://www.idref.fr/147132649">Delphine Christophe</author>
         </titleStmt>
         <editionStmt>
@@ -18,28 +18,23 @@
             </availability>
         </publicationStmt>
         <seriesStmt>
-                <title>Positions des thèses</title>  
+                <title>Positions des thèses</title>
                 <idno type="issn">0755-2076</idno>
-                <idno type="URI">http://www.sudoc.fr/013565311</idno>                
+                <idno type="URI">http://www.sudoc.fr/013565311</idno>
         </seriesStmt>
         <sourceDesc>
             <bibl>
                     <title>Positions des thèses soutenues par les élèves de la promotion de 2002 pour obtenir le diplôme d’archiviste paléographe</title> <pubPlace>Paris</pubPlace>,<publisher>École nationale des chartes</publisher><biblScope unit="annee">2002</biblScope>
             <relatedItem type="these">
                 <bibl>
-                     <title ref="http://www.sudoc.fr/149758235">Notre-Dame de Senlis, une cathédrale au cœur de la cité</title> 
+                     <title ref="http://www.sudoc.fr/149758235">Notre-Dame de Senlis, une cathédrale au cœur de la cité</title>
                 </bibl>
             </relatedItem>
-            </bibl>     
+            </bibl>
         </sourceDesc>
     </fileDesc>
     <encodingDesc>
     <refsDecl n="CTS">
-      <cRefPattern n="chapter"
-        matchPattern="(\w+).(\w+)"
-        replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1']/tei:div[@n='$2'])">
-        <p>This pointer pattern extracts part and chapter</p>
-      </cRefPattern>
       <cRefPattern n="part"
         matchPattern="(\w+)"
         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1'])">
