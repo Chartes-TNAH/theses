@@ -136,7 +136,7 @@
           <data type="NCName"/>
         </attribute>
       </optional>
-      <oneOrMore>
+      <zeroOrMore>
         <choice>
           <text/>
           <element name="i">
@@ -161,8 +161,11 @@
               </zeroOrMore>
             </choice>
           </element>
+          <element name="em">
+            <text/>
+          </element>
         </choice>
-      </oneOrMore>
+      </zeroOrMore>
     </element>
   </define>
   <define name="publisher">
