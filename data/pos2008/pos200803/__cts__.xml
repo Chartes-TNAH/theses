@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:work xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dct="http://purl.org/dc/terms/" xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    groupUrn="urn:cts:freLit:pos2008" projid="freLit:pos200803"
+    urn="urn:cts:freLit:pos2008.pos200803" xml:lang="fre"> 
+    <ti:title xml:lang="fre">Les Commissaires du quartier du Louvre (1751-1791). Contribution à une histoire de la praxis policière dans le Paris du second <abbr>xviii<sup>e</sup></abbr> siècle</ti:title>
+    <ti:edition workUrn="urn:cts:freLit:pos2008.pos200803" urn="urn:cts:freLit:pos2008.pos200803.position-200803">
+        <ti:label xml:lang="fre"><title type="main">Les Commissaires du quartier du Louvre (1751-1791). Contribution à une histoire de la praxis policière dans le Paris du second <abbr>xviii<sup>e</sup></abbr> siècle</title></ti:label>
+        <ti:description xml:lang="fre">
+            <p>Positions des thèses soutenues par Justine Berlière pour obtenir le diplôme d’archiviste paléographe</p>		
+        </ti:description>
+    </ti:edition>
+    <cpt:structured-metadata>
+        <dc:publisher xml:lang="fre">École nationale des Chartes</dc:publisher>
+        <dc:date rdf:datatype="xsd:gYear">2008</dc:date>
+        <dct:isVersionOf xml:lang="fre">http://www.sudoc.fr/124087558</dct:isVersionOf> 
+        <dc:creator xml:lang="fre">Justine Berlière</dc:creator>
+        <dc:creator xml:lang="fre">https://www.idref.fr/123582350</dc:creator>
+    </cpt:structured-metadata>
+</ti:work>
